@@ -1,2127 +1,1138 @@
-name,clas,rnk
-PINOT ThibautFDJ,stage,<td>1</td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>3</td>
-QUINTANA NairoMovistar Team,stage,<td>5</td>
-YATES AdamORICA-Scott,stage,<td>7</td>
-MOLLEMA BaukeTrek - Segafredo,stage,<td>9</td>
-HIRT JanCCC Sprandi Polkowice ,stage,<td>11</td>
-FRAILE OmarTeam Dimension Data,stage,<td>13</td>
-POLANC JanUAE Team Emirates,stage,<td>15</td>
-BATTAGLIN EnricoTeam LottoNL-Jumbo,stage,<td>17</td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>19</td>
-MENDES JoséBORA - hansgrohe,stage,<td>21</td>
-LANDA MikelTeam Sky,stage,<td>23</td>
-PETILLI SimoneUAE Team Emirates,stage,<td>25</td>
-MEZGEC LukaORICA-Scott,stage,<td>27</td>
-KIŠERLOVSKI RobertTeam Katusha Alpecin,stage,<td>29</td>
-GASTAUER BenAG2R La Mondiale,stage,<td>31</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>33</td>
-VERONA CarlosORICA-Scott,stage,<td>35</td>
-CICCONE GiulioBardiani - CSF,stage,<td>37</td>
-MORABITO SteveFDJ,stage,<td>39</td>
-ROSA DiegoTeam Sky,stage,<td>41</td>
-SLAGTER Tom-JelteCannondale-Drapac Pro Cycling Team,stage,<td>43</td>
-MARCZYŃSKI TomaszLotto Soudal,stage,<td>45</td>
-DE LA PARTE VíctorMovistar Team,stage,<td>47</td>
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>49</td>
-MAMYKIN MatveyTeam Katusha Alpecin,stage,<td>51</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>53</td>
-LADAGNOUS MatthieuFDJ,stage,<td>55</td>
-GONÇALVES JoséTeam Katusha Alpecin,stage,<td>57</td>
-DEVENYNS DriesQuick-Step Floors,stage,<td>59</td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>61</td>
-IZAGIRRE GorkaMovistar Team,stage,<td>63</td>
-SERRY PieterQuick-Step Floors,stage,<td>65</td>
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>67</td>
-ROY JérémyFDJ,stage,<td>69</td>
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>71</td>
-RODRÍGUEZ CristiánWilier Triestina - Selle Italia,stage,<td>73</td>
-ANACONA WinnerMovistar Team,stage,<td>75</td>
-FOLIFOROV AlexanderGazprom-RusVelo,stage,<td>77</td>
-GROßSCHARTNER FelixCCC Sprandi Polkowice ,stage,<td>79</td>
-KOREN KristijanCannondale-Drapac Pro Cycling Team,stage,<td>81</td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>83</td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>85</td>
-PATERSKI MaciejCCC Sprandi Polkowice ,stage,<td>87</td>
-BAK Lars YttingLotto Soudal,stage,<td>89</td>
-BIZHIGITOV ZhandosAstana Pro Team,stage,<td>91</td>
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>93</td>
-BENEDETTI CesareBORA - hansgrohe,stage,<td>95</td>
-BÉRARD JulienAG2R La Mondiale,stage,<td>97</td>
-MAESTRI MircoBardiani - CSF,stage,<td>99</td>
-CHEVRIER ClémentAG2R La Mondiale,stage,<td>101</td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>103</td>
-TSATEVICH AlexeyGazprom-RusVelo,stage,<td>105</td>
-CONTI ValerioUAE Team Emirates,stage,<td>107</td>
-LUDVIGSSON TobiasFDJ,stage,<td>109</td>
-JAUREGUI QuentinAG2R La Mondiale,stage,<td>111</td>
-STAMSNIJDER TomTeam Sunweb,stage,<td>113</td>
-TEKLEHAIMANOT DanielTeam Dimension Data,stage,<td>115</td>
-VENTOSO Francisco JoséBMC Racing Team,stage,<td>117</td>
-SAMOILAU BranislauCCC Sprandi Polkowice ,stage,<td>119</td>
-BILBAO PelloAstana Pro Team,stage,<td>121</td>
-STETINA PeterTrek - Segafredo,stage,<td>123</td>
-ALAFACI EugenioTrek - Segafredo,stage,<td>125</td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>127</td>
-MOLARD RudyFDJ,stage,<td>129</td>
-HAGA ChadTeam Sunweb,stage,<td>131</td>
-PUCCIO SalvatoreTeam Sky,stage,<td>133</td>
-VAUGRENARD BenoîtFDJ,stage,<td>135</td>
-SBARAGLI KristianTeam Dimension Data,stage,<td>137</td>
-HERRADA JoséMovistar Team,stage,<td>139</td>
-MARTINELLI DavideQuick-Step Floors,stage,<td>141</td>
-BÁRTA JanBORA - hansgrohe,stage,<td>143</td>
-VAN ZYL JohannTeam Dimension Data,stage,<td>145</td>
-KEISSE IljoQuick-Step Floors,stage,<td>147</td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>149</td>
-BOEM NicolaBardiani - CSF,stage,<td>151</td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>153</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>155</td>
-STUYVEN JasperTrek - Segafredo,stage,<td>157</td>
-TUFT SveinORICA-Scott,stage,<td>159</td>
-CARTHY HughCannondale-Drapac Pro Cycling Team,stage,<td>161</td>
-VISCONTI GiovanniBahrain Merida Pro Cycling Team,stage,<td>DNF</td>
-QUINTANA NairoMovistar Team,stage,<td>1</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/domenico-pozzovivo"">POZZOVIVO Domenico</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-JUNGELS BobQuick-Step Floors,stage,<td>9</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-DUPONT HubertAG2R La Mondiale,stage,<td>17</td>
-20,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/pierre-rolland"">ROLLAND Pierre</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-ANACONA WinnerMovistar Team,stage,<td>25</td>
-28,stage,<td></td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/jesper-hansen-1"">HANSEN Jesper</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-HENAO SebastiánTeam Sky,stage,<td>33</td>
-36,stage,<td></td>
-,stage,"<td><div><span class=""flag ca""></span> <a href=""rider/michael-woods"">WOODS Michael</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>41</td>
-44,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/peter-stetina"">STETINA Peter</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-MENDES JoséBORA - hansgrohe,stage,<td>49</td>
-52,stage,<td></td>
-,stage,"<td><div><span class=""flag de""></span> <a href=""rider/simon-geschke"">GESCHKE Simon</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-VERONA CarlosORICA-Scott,stage,<td>57</td>
-60,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/igor-anton"">ANTÓN Igor</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-FRAILE OmarTeam Dimension Data,stage,<td>65</td>
-68,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-villella"">VILLELLA Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>73</td>
-76,stage,<td></td>
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/felix-grossschartner"">GROßSCHARTNER Felix</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>81</td>
-84,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>89</td>
-92,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/giulio-ciccone"">CICCONE Giulio</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-LADAGNOUS MatthieuFDJ,stage,<td>97</td>
-100,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/vasil-kiryienka"">KIRYIENKA Vasil</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-VAUGRENARD BenoîtFDJ,stage,<td>105</td>
-108,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/branislau-samoilau"">SAMOILAU Branislau</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-MARCATO MarcoUAE Team Emirates,stage,<td>113</td>
-116,stage,<td></td>
-,stage,"<td><div><span class=""flag no""></span> <a href=""rider/sindre-skjoestad-lunke"">LUNKE Sindre</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>121</td>
-124,stage,<td></td>
-,stage,"<td><div><span class=""flag au""></span> <a href=""rider/michael-hepburn"">HEPBURN Michael</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-BÉRARD JulienAG2R La Mondiale,stage,<td>129</td>
-132,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-QUINZIATO ManuelBMC Racing Team,stage,<td>137</td>
-140,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/michal-golas"">GOŁAŚ Michał</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-KEISSE IljoQuick-Step Floors,stage,<td>145</td>
-148,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/roberto-ferrari"">FERRARI Roberto</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-BOEM NicolaBardiani - CSF,stage,<td>153</td>
-156,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-lagutin"">LAGUTIN Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-BIAŁOBŁOCKI MarcinCCC Sprandi Polkowice ,stage,<td>161</td>
-,stage,<td></td>
-BENNETT SamBORA - hansgrohe,stage,<td>3</td>
-100,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-8,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134947"">76</a></td>"
-,stage,<td></td>
-DILLIER SilvanBMC Racing Team,stage,<td>11</td>
-67,stage,<td></td>
-,stage,"<td><div><span class=""flag co""></span> <a href=""rider/nairo-quintana"">QUINTANA Nairo</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-16,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140778"">61</a></td>"
-,stage,<td></td>
-RICHEZE MaximilianoQuick-Step Floors,stage,<td>19</td>
-48,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/maciej-paterski"">PATERSKI Maciej</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-24,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=133024"">41</a></td>"
-,stage,<td></td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>27</td>
-34,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/mirco-maestri"">MAESTRI Mirco</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-32,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140438"">32</a></td>"
-,stage,<td></td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>35</td>
-24,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/alexey-tsatevich"">TSATEVICH Alexey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-40,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134807"">22</a></td>"
-,stage,<td></td>
-BERHANE NatnaelTeam Dimension Data,stage,<td>43</td>
-16,stage,<td></td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/jan-polanc"">POLANC Jan</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-48,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140782"">15</a></td>"
-,stage,<td></td>
-BARBIN EnricoBardiani - CSF,stage,<td>51</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-56,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140231"">11</a></td>"
-,stage,<td></td>
-PEDERSEN MadsTrek - Segafredo,stage,<td>59</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/jan-barta"">BÁRTA Jan</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-64,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=141005"">8</a></td>"
-,stage,<td></td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>67</td>
-7,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-formolo"">FORMOLO Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-72,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=133707"">6</a></td>"
-,stage,<td></td>
-HENAO SebastiánTeam Sky,stage,<td>75</td>
-6,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-80,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140859"">6</a></td>"
-,stage,<td></td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>83</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/christopher-juul-jensen"">JUUL-JENSEN Christopher</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-88,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=135746"">4</a></td>"
-,stage,<td></td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>91</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/benoit-vaugrenard"">VAUGRENARD Benoît</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-96,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140225"">2</a></td>"
-,stage,<td></td>
-DUPONT HubertAG2R La Mondiale,stage,<td>99</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/joey-rosskopf"">ROSSKOPF Joey</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-104,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140401"">1</a></td>"
-,stage,<td></td>
-BELKOV MaximTeam Katusha Alpecin,stage,<td>107</td>
-1,stage,<td></td>
-POLANC JanUAE Team Emirates,stage,<td>4</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>8</td>
-SCHLEGEL MichalCCC Sprandi Polkowice ,stage,<td>12</td>
-TEUNS DylanBMC Racing Team,stage,<td>16</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>20</td>
-CICCONE GiulioBardiani - CSF,stage,<td>24</td>
-PÖSTLBERGER LukasBORA - hansgrohe,stage,<td>28</td>
-MOHORIČ MatejUAE Team Emirates,stage,<td>32</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>36</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/luis-leon-sanchez"">SÁNCHEZ Luis León</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-4,stage,<td>104</td>
-,stage,<td></td>
-ANTÓN IgorTeam Dimension Data,stage,<td>7</td>
-55,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/thibaut-pinot"">PINOT Thibaut</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-12,stage,<td>49</td>
-,stage,<td></td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>15</td>
-31,stage,<td></td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/laurens-de-plus"">DE PLUS Laurens</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-20,stage,<td>26</td>
-,stage,<td></td>
-BRUTT PavelGazprom-RusVelo,stage,<td>23</td>
-22,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/pello-bilbao"">BILBAO Pello</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-28,stage,<td>19</td>
-,stage,<td></td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>31</td>
-15,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-36,stage,<td>14</td>
-,stage,<td></td>
-MARCATO MarcoUAE Team Emirates,stage,<td>39</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/matthieu-ladagnous"">LADAGNOUS Matthieu</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-44,stage,<td>8</td>
-,stage,<td></td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>47</td>
-5,stage,<td></td>
-,stage,"<td><div><span class=""flag cr""></span> <a href=""rider/andrey-amador"">AMADOR Andrey</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-52,stage,<td>4</td>
-,stage,<td></td>
-POZZATO FilippoWilier Triestina - Selle Italia,stage,<td>55</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-60,stage,<td>2</td>
-,stage,<td></td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>63</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/gorka-izagirre"">IZAGIRRE Gorka</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-68,stage,<td>1</td>
-,stage,<td></td>
-SAMOILAU BranislauCCC Sprandi Polkowice ,stage,<td>71</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/ilia-koshevoy"">KOSHEVOY Ilia</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-1,stage,<td>1</td>
-WT,stage,"<td><span class=""flag fr""></span> <a href=""team/fdj-2017"">FDJ</a></td>"
-UAE Team Emirates,stage,<td>6</td>
-9,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/quick-step-floors-2017"">Quick-Step Floors</a></td>"
-BMC Racing Team,stage,<td>14</td>
-17,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/lotto-soudal-2017"">Lotto Soudal</a></td>"
-Bardiani - CSF,stage,<td>22</td>
-PINOT ThibautFDJ,stage,<td>1</td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>3</td>
-QUINTANA NairoMovistar Team,stage,<td>5</td>
-YATES AdamORICA-Scott,stage,<td>7</td>
-MOLLEMA BaukeTrek - Segafredo,stage,<td>9</td>
-HIRT JanCCC Sprandi Polkowice ,stage,<td>11</td>
-FRAILE OmarTeam Dimension Data,stage,<td>13</td>
-POLANC JanUAE Team Emirates,stage,<td>15</td>
-BATTAGLIN EnricoTeam LottoNL-Jumbo,stage,<td>17</td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>19</td>
-MENDES JoséBORA - hansgrohe,stage,<td>21</td>
-LANDA MikelTeam Sky,stage,<td>23</td>
-PETILLI SimoneUAE Team Emirates,stage,<td>25</td>
-MEZGEC LukaORICA-Scott,stage,<td>27</td>
-KIŠERLOVSKI RobertTeam Katusha Alpecin,stage,<td>29</td>
-GASTAUER BenAG2R La Mondiale,stage,<td>31</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>33</td>
-VERONA CarlosORICA-Scott,stage,<td>35</td>
-CICCONE GiulioBardiani - CSF,stage,<td>37</td>
-MORABITO SteveFDJ,stage,<td>39</td>
-ROSA DiegoTeam Sky,stage,<td>41</td>
-SLAGTER Tom-JelteCannondale-Drapac Pro Cycling Team,stage,<td>43</td>
-MARCZYŃSKI TomaszLotto Soudal,stage,<td>45</td>
-DE LA PARTE VíctorMovistar Team,stage,<td>47</td>
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>49</td>
-MAMYKIN MatveyTeam Katusha Alpecin,stage,<td>51</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>53</td>
-LADAGNOUS MatthieuFDJ,stage,<td>55</td>
-GONÇALVES JoséTeam Katusha Alpecin,stage,<td>57</td>
-DEVENYNS DriesQuick-Step Floors,stage,<td>59</td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>61</td>
-IZAGIRRE GorkaMovistar Team,stage,<td>63</td>
-SERRY PieterQuick-Step Floors,stage,<td>65</td>
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>67</td>
-ROY JérémyFDJ,stage,<td>69</td>
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>71</td>
-RODRÍGUEZ CristiánWilier Triestina - Selle Italia,stage,<td>73</td>
-ANACONA WinnerMovistar Team,stage,<td>75</td>
-FOLIFOROV AlexanderGazprom-RusVelo,stage,<td>77</td>
-GROßSCHARTNER FelixCCC Sprandi Polkowice ,stage,<td>79</td>
-KOREN KristijanCannondale-Drapac Pro Cycling Team,stage,<td>81</td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>83</td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>85</td>
-PATERSKI MaciejCCC Sprandi Polkowice ,stage,<td>87</td>
-BAK Lars YttingLotto Soudal,stage,<td>89</td>
-BIZHIGITOV ZhandosAstana Pro Team,stage,<td>91</td>
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>93</td>
-BENEDETTI CesareBORA - hansgrohe,stage,<td>95</td>
-BÉRARD JulienAG2R La Mondiale,stage,<td>97</td>
-MAESTRI MircoBardiani - CSF,stage,<td>99</td>
-CHEVRIER ClémentAG2R La Mondiale,stage,<td>101</td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>103</td>
-TSATEVICH AlexeyGazprom-RusVelo,stage,<td>105</td>
-CONTI ValerioUAE Team Emirates,stage,<td>107</td>
-LUDVIGSSON TobiasFDJ,stage,<td>109</td>
-JAUREGUI QuentinAG2R La Mondiale,stage,<td>111</td>
-STAMSNIJDER TomTeam Sunweb,stage,<td>113</td>
-TEKLEHAIMANOT DanielTeam Dimension Data,stage,<td>115</td>
-VENTOSO Francisco JoséBMC Racing Team,stage,<td>117</td>
-SAMOILAU BranislauCCC Sprandi Polkowice ,stage,<td>119</td>
-BILBAO PelloAstana Pro Team,stage,<td>121</td>
-STETINA PeterTrek - Segafredo,stage,<td>123</td>
-ALAFACI EugenioTrek - Segafredo,stage,<td>125</td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>127</td>
-MOLARD RudyFDJ,stage,<td>129</td>
-HAGA ChadTeam Sunweb,stage,<td>131</td>
-PUCCIO SalvatoreTeam Sky,stage,<td>133</td>
-VAUGRENARD BenoîtFDJ,stage,<td>135</td>
-SBARAGLI KristianTeam Dimension Data,stage,<td>137</td>
-HERRADA JoséMovistar Team,stage,<td>139</td>
-MARTINELLI DavideQuick-Step Floors,stage,<td>141</td>
-BÁRTA JanBORA - hansgrohe,stage,<td>143</td>
-VAN ZYL JohannTeam Dimension Data,stage,<td>145</td>
-KEISSE IljoQuick-Step Floors,stage,<td>147</td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>149</td>
-BOEM NicolaBardiani - CSF,stage,<td>151</td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>153</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>155</td>
-STUYVEN JasperTrek - Segafredo,stage,<td>157</td>
-TUFT SveinORICA-Scott,stage,<td>159</td>
-CARTHY HughCannondale-Drapac Pro Cycling Team,stage,<td>161</td>
-VISCONTI GiovanniBahrain Merida Pro Cycling Team,stage,<td>DNF</td>
-QUINTANA NairoMovistar Team,stage,<td>1</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/domenico-pozzovivo"">POZZOVIVO Domenico</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-JUNGELS BobQuick-Step Floors,stage,<td>9</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-DUPONT HubertAG2R La Mondiale,stage,<td>17</td>
-20,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/pierre-rolland"">ROLLAND Pierre</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-ANACONA WinnerMovistar Team,stage,<td>25</td>
-28,stage,<td></td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/jesper-hansen-1"">HANSEN Jesper</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-HENAO SebastiánTeam Sky,stage,<td>33</td>
-36,stage,<td></td>
-,stage,"<td><div><span class=""flag ca""></span> <a href=""rider/michael-woods"">WOODS Michael</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>41</td>
-44,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/peter-stetina"">STETINA Peter</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-MENDES JoséBORA - hansgrohe,stage,<td>49</td>
-52,stage,<td></td>
-,stage,"<td><div><span class=""flag de""></span> <a href=""rider/simon-geschke"">GESCHKE Simon</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-VERONA CarlosORICA-Scott,stage,<td>57</td>
-60,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/igor-anton"">ANTÓN Igor</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-FRAILE OmarTeam Dimension Data,stage,<td>65</td>
-68,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-villella"">VILLELLA Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>73</td>
-76,stage,<td></td>
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/felix-grossschartner"">GROßSCHARTNER Felix</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>81</td>
-84,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>89</td>
-92,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/giulio-ciccone"">CICCONE Giulio</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-LADAGNOUS MatthieuFDJ,stage,<td>97</td>
-100,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/vasil-kiryienka"">KIRYIENKA Vasil</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-VAUGRENARD BenoîtFDJ,stage,<td>105</td>
-108,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/branislau-samoilau"">SAMOILAU Branislau</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-MARCATO MarcoUAE Team Emirates,stage,<td>113</td>
-116,stage,<td></td>
-,stage,"<td><div><span class=""flag no""></span> <a href=""rider/sindre-skjoestad-lunke"">LUNKE Sindre</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>121</td>
-124,stage,<td></td>
-,stage,"<td><div><span class=""flag au""></span> <a href=""rider/michael-hepburn"">HEPBURN Michael</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-BÉRARD JulienAG2R La Mondiale,stage,<td>129</td>
-132,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-QUINZIATO ManuelBMC Racing Team,stage,<td>137</td>
-140,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/michal-golas"">GOŁAŚ Michał</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-KEISSE IljoQuick-Step Floors,stage,<td>145</td>
-148,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/roberto-ferrari"">FERRARI Roberto</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-BOEM NicolaBardiani - CSF,stage,<td>153</td>
-156,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-lagutin"">LAGUTIN Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-BIAŁOBŁOCKI MarcinCCC Sprandi Polkowice ,stage,<td>161</td>
-,stage,<td></td>
-BENNETT SamBORA - hansgrohe,stage,<td>3</td>
-100,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-8,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134947"">76</a></td>"
-,stage,<td></td>
-DILLIER SilvanBMC Racing Team,stage,<td>11</td>
-67,stage,<td></td>
-,stage,"<td><div><span class=""flag co""></span> <a href=""rider/nairo-quintana"">QUINTANA Nairo</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-16,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140778"">61</a></td>"
-,stage,<td></td>
-RICHEZE MaximilianoQuick-Step Floors,stage,<td>19</td>
-48,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/maciej-paterski"">PATERSKI Maciej</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-24,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=133024"">41</a></td>"
-,stage,<td></td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>27</td>
-34,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/mirco-maestri"">MAESTRI Mirco</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-32,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140438"">32</a></td>"
-,stage,<td></td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>35</td>
-24,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/alexey-tsatevich"">TSATEVICH Alexey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-40,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134807"">22</a></td>"
-,stage,<td></td>
-BERHANE NatnaelTeam Dimension Data,stage,<td>43</td>
-16,stage,<td></td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/jan-polanc"">POLANC Jan</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-48,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140782"">15</a></td>"
-,stage,<td></td>
-BARBIN EnricoBardiani - CSF,stage,<td>51</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-56,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140231"">11</a></td>"
-,stage,<td></td>
-PEDERSEN MadsTrek - Segafredo,stage,<td>59</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/jan-barta"">BÁRTA Jan</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-64,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=141005"">8</a></td>"
-,stage,<td></td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>67</td>
-7,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-formolo"">FORMOLO Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-72,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=133707"">6</a></td>"
-,stage,<td></td>
-HENAO SebastiánTeam Sky,stage,<td>75</td>
-6,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-80,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140859"">6</a></td>"
-,stage,<td></td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>83</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/christopher-juul-jensen"">JUUL-JENSEN Christopher</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-88,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=135746"">4</a></td>"
-,stage,<td></td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>91</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/benoit-vaugrenard"">VAUGRENARD Benoît</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-96,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140225"">2</a></td>"
-,stage,<td></td>
-DUPONT HubertAG2R La Mondiale,stage,<td>99</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/joey-rosskopf"">ROSSKOPF Joey</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-104,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140401"">1</a></td>"
-,stage,<td></td>
-BELKOV MaximTeam Katusha Alpecin,stage,<td>107</td>
-1,stage,<td></td>
-POLANC JanUAE Team Emirates,stage,<td>4</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>8</td>
-SCHLEGEL MichalCCC Sprandi Polkowice ,stage,<td>12</td>
-TEUNS DylanBMC Racing Team,stage,<td>16</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>20</td>
-CICCONE GiulioBardiani - CSF,stage,<td>24</td>
-PÖSTLBERGER LukasBORA - hansgrohe,stage,<td>28</td>
-MOHORIČ MatejUAE Team Emirates,stage,<td>32</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>36</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/luis-leon-sanchez"">SÁNCHEZ Luis León</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-4,stage,<td>104</td>
-,stage,<td></td>
-ANTÓN IgorTeam Dimension Data,stage,<td>7</td>
-55,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/thibaut-pinot"">PINOT Thibaut</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-12,stage,<td>49</td>
-,stage,<td></td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>15</td>
-31,stage,<td></td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/laurens-de-plus"">DE PLUS Laurens</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-20,stage,<td>26</td>
-,stage,<td></td>
-BRUTT PavelGazprom-RusVelo,stage,<td>23</td>
-22,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/pello-bilbao"">BILBAO Pello</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-28,stage,<td>19</td>
-,stage,<td></td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>31</td>
-15,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-36,stage,<td>14</td>
-,stage,<td></td>
-MARCATO MarcoUAE Team Emirates,stage,<td>39</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/matthieu-ladagnous"">LADAGNOUS Matthieu</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-44,stage,<td>8</td>
-,stage,<td></td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>47</td>
-5,stage,<td></td>
-,stage,"<td><div><span class=""flag cr""></span> <a href=""rider/andrey-amador"">AMADOR Andrey</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-52,stage,<td>4</td>
-,stage,<td></td>
-POZZATO FilippoWilier Triestina - Selle Italia,stage,<td>55</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-60,stage,<td>2</td>
-,stage,<td></td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>63</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/gorka-izagirre"">IZAGIRRE Gorka</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-68,stage,<td>1</td>
-,stage,<td></td>
-SAMOILAU BranislauCCC Sprandi Polkowice ,stage,<td>71</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/ilia-koshevoy"">KOSHEVOY Ilia</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-1,stage,<td>1</td>
-WT,stage,"<td><span class=""flag fr""></span> <a href=""team/fdj-2017"">FDJ</a></td>"
-UAE Team Emirates,stage,<td>6</td>
-9,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/quick-step-floors-2017"">Quick-Step Floors</a></td>"
-BMC Racing Team,stage,<td>14</td>
-17,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/lotto-soudal-2017"">Lotto Soudal</a></td>"
-Bardiani - CSF,stage,<td>22</td>
-PINOT ThibautFDJ,stage,<td>1</td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>3</td>
-QUINTANA NairoMovistar Team,stage,<td>5</td>
-YATES AdamORICA-Scott,stage,<td>7</td>
-MOLLEMA BaukeTrek - Segafredo,stage,<td>9</td>
-HIRT JanCCC Sprandi Polkowice ,stage,<td>11</td>
-FRAILE OmarTeam Dimension Data,stage,<td>13</td>
-POLANC JanUAE Team Emirates,stage,<td>15</td>
-BATTAGLIN EnricoTeam LottoNL-Jumbo,stage,<td>17</td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>19</td>
-MENDES JoséBORA - hansgrohe,stage,<td>21</td>
-LANDA MikelTeam Sky,stage,<td>23</td>
-PETILLI SimoneUAE Team Emirates,stage,<td>25</td>
-MEZGEC LukaORICA-Scott,stage,<td>27</td>
-KIŠERLOVSKI RobertTeam Katusha Alpecin,stage,<td>29</td>
-GASTAUER BenAG2R La Mondiale,stage,<td>31</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>33</td>
-VERONA CarlosORICA-Scott,stage,<td>35</td>
-CICCONE GiulioBardiani - CSF,stage,<td>37</td>
-MORABITO SteveFDJ,stage,<td>39</td>
-ROSA DiegoTeam Sky,stage,<td>41</td>
-SLAGTER Tom-JelteCannondale-Drapac Pro Cycling Team,stage,<td>43</td>
-MARCZYŃSKI TomaszLotto Soudal,stage,<td>45</td>
-DE LA PARTE VíctorMovistar Team,stage,<td>47</td>
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>49</td>
-MAMYKIN MatveyTeam Katusha Alpecin,stage,<td>51</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>53</td>
-LADAGNOUS MatthieuFDJ,stage,<td>55</td>
-GONÇALVES JoséTeam Katusha Alpecin,stage,<td>57</td>
-DEVENYNS DriesQuick-Step Floors,stage,<td>59</td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>61</td>
-IZAGIRRE GorkaMovistar Team,stage,<td>63</td>
-SERRY PieterQuick-Step Floors,stage,<td>65</td>
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>67</td>
-ROY JérémyFDJ,stage,<td>69</td>
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>71</td>
-RODRÍGUEZ CristiánWilier Triestina - Selle Italia,stage,<td>73</td>
-ANACONA WinnerMovistar Team,stage,<td>75</td>
-FOLIFOROV AlexanderGazprom-RusVelo,stage,<td>77</td>
-GROßSCHARTNER FelixCCC Sprandi Polkowice ,stage,<td>79</td>
-KOREN KristijanCannondale-Drapac Pro Cycling Team,stage,<td>81</td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>83</td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>85</td>
-PATERSKI MaciejCCC Sprandi Polkowice ,stage,<td>87</td>
-BAK Lars YttingLotto Soudal,stage,<td>89</td>
-BIZHIGITOV ZhandosAstana Pro Team,stage,<td>91</td>
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>93</td>
-BENEDETTI CesareBORA - hansgrohe,stage,<td>95</td>
-BÉRARD JulienAG2R La Mondiale,stage,<td>97</td>
-MAESTRI MircoBardiani - CSF,stage,<td>99</td>
-CHEVRIER ClémentAG2R La Mondiale,stage,<td>101</td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>103</td>
-TSATEVICH AlexeyGazprom-RusVelo,stage,<td>105</td>
-CONTI ValerioUAE Team Emirates,stage,<td>107</td>
-LUDVIGSSON TobiasFDJ,stage,<td>109</td>
-JAUREGUI QuentinAG2R La Mondiale,stage,<td>111</td>
-STAMSNIJDER TomTeam Sunweb,stage,<td>113</td>
-TEKLEHAIMANOT DanielTeam Dimension Data,stage,<td>115</td>
-VENTOSO Francisco JoséBMC Racing Team,stage,<td>117</td>
-SAMOILAU BranislauCCC Sprandi Polkowice ,stage,<td>119</td>
-BILBAO PelloAstana Pro Team,stage,<td>121</td>
-STETINA PeterTrek - Segafredo,stage,<td>123</td>
-ALAFACI EugenioTrek - Segafredo,stage,<td>125</td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>127</td>
-MOLARD RudyFDJ,stage,<td>129</td>
-HAGA ChadTeam Sunweb,stage,<td>131</td>
-PUCCIO SalvatoreTeam Sky,stage,<td>133</td>
-VAUGRENARD BenoîtFDJ,stage,<td>135</td>
-SBARAGLI KristianTeam Dimension Data,stage,<td>137</td>
-HERRADA JoséMovistar Team,stage,<td>139</td>
-MARTINELLI DavideQuick-Step Floors,stage,<td>141</td>
-BÁRTA JanBORA - hansgrohe,stage,<td>143</td>
-VAN ZYL JohannTeam Dimension Data,stage,<td>145</td>
-KEISSE IljoQuick-Step Floors,stage,<td>147</td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>149</td>
-BOEM NicolaBardiani - CSF,stage,<td>151</td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>153</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>155</td>
-STUYVEN JasperTrek - Segafredo,stage,<td>157</td>
-TUFT SveinORICA-Scott,stage,<td>159</td>
-CARTHY HughCannondale-Drapac Pro Cycling Team,stage,<td>161</td>
-VISCONTI GiovanniBahrain Merida Pro Cycling Team,stage,<td>DNF</td>
-QUINTANA NairoMovistar Team,stage,<td>1</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/domenico-pozzovivo"">POZZOVIVO Domenico</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-JUNGELS BobQuick-Step Floors,stage,<td>9</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-DUPONT HubertAG2R La Mondiale,stage,<td>17</td>
-20,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/pierre-rolland"">ROLLAND Pierre</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-ANACONA WinnerMovistar Team,stage,<td>25</td>
-28,stage,<td></td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/jesper-hansen-1"">HANSEN Jesper</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-HENAO SebastiánTeam Sky,stage,<td>33</td>
-36,stage,<td></td>
-,stage,"<td><div><span class=""flag ca""></span> <a href=""rider/michael-woods"">WOODS Michael</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>41</td>
-44,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/peter-stetina"">STETINA Peter</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-MENDES JoséBORA - hansgrohe,stage,<td>49</td>
-52,stage,<td></td>
-,stage,"<td><div><span class=""flag de""></span> <a href=""rider/simon-geschke"">GESCHKE Simon</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-VERONA CarlosORICA-Scott,stage,<td>57</td>
-60,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/igor-anton"">ANTÓN Igor</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-FRAILE OmarTeam Dimension Data,stage,<td>65</td>
-68,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-villella"">VILLELLA Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>73</td>
-76,stage,<td></td>
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/felix-grossschartner"">GROßSCHARTNER Felix</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>81</td>
-84,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>89</td>
-92,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/giulio-ciccone"">CICCONE Giulio</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-LADAGNOUS MatthieuFDJ,stage,<td>97</td>
-100,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/vasil-kiryienka"">KIRYIENKA Vasil</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-VAUGRENARD BenoîtFDJ,stage,<td>105</td>
-108,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/branislau-samoilau"">SAMOILAU Branislau</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-MARCATO MarcoUAE Team Emirates,stage,<td>113</td>
-116,stage,<td></td>
-,stage,"<td><div><span class=""flag no""></span> <a href=""rider/sindre-skjoestad-lunke"">LUNKE Sindre</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>121</td>
-124,stage,<td></td>
-,stage,"<td><div><span class=""flag au""></span> <a href=""rider/michael-hepburn"">HEPBURN Michael</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-BÉRARD JulienAG2R La Mondiale,stage,<td>129</td>
-132,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-QUINZIATO ManuelBMC Racing Team,stage,<td>137</td>
-140,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/michal-golas"">GOŁAŚ Michał</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-KEISSE IljoQuick-Step Floors,stage,<td>145</td>
-148,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/roberto-ferrari"">FERRARI Roberto</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-BOEM NicolaBardiani - CSF,stage,<td>153</td>
-156,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-lagutin"">LAGUTIN Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-BIAŁOBŁOCKI MarcinCCC Sprandi Polkowice ,stage,<td>161</td>
-,stage,<td></td>
-BENNETT SamBORA - hansgrohe,stage,<td>3</td>
-100,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-8,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134947"">76</a></td>"
-,stage,<td></td>
-DILLIER SilvanBMC Racing Team,stage,<td>11</td>
-67,stage,<td></td>
-,stage,"<td><div><span class=""flag co""></span> <a href=""rider/nairo-quintana"">QUINTANA Nairo</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-16,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140778"">61</a></td>"
-,stage,<td></td>
-RICHEZE MaximilianoQuick-Step Floors,stage,<td>19</td>
-48,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/maciej-paterski"">PATERSKI Maciej</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-24,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=133024"">41</a></td>"
-,stage,<td></td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>27</td>
-34,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/mirco-maestri"">MAESTRI Mirco</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-32,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140438"">32</a></td>"
-,stage,<td></td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>35</td>
-24,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/alexey-tsatevich"">TSATEVICH Alexey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-40,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134807"">22</a></td>"
-,stage,<td></td>
-BERHANE NatnaelTeam Dimension Data,stage,<td>43</td>
-16,stage,<td></td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/jan-polanc"">POLANC Jan</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-48,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140782"">15</a></td>"
-,stage,<td></td>
-BARBIN EnricoBardiani - CSF,stage,<td>51</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-56,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140231"">11</a></td>"
-,stage,<td></td>
-PEDERSEN MadsTrek - Segafredo,stage,<td>59</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/jan-barta"">BÁRTA Jan</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-64,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=141005"">8</a></td>"
-,stage,<td></td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>67</td>
-7,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-formolo"">FORMOLO Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-72,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=133707"">6</a></td>"
-,stage,<td></td>
-HENAO SebastiánTeam Sky,stage,<td>75</td>
-6,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-80,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140859"">6</a></td>"
-,stage,<td></td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>83</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/christopher-juul-jensen"">JUUL-JENSEN Christopher</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-88,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=135746"">4</a></td>"
-,stage,<td></td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>91</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/benoit-vaugrenard"">VAUGRENARD Benoît</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-96,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140225"">2</a></td>"
-,stage,<td></td>
-DUPONT HubertAG2R La Mondiale,stage,<td>99</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/joey-rosskopf"">ROSSKOPF Joey</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-104,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140401"">1</a></td>"
-,stage,<td></td>
-BELKOV MaximTeam Katusha Alpecin,stage,<td>107</td>
-1,stage,<td></td>
-POLANC JanUAE Team Emirates,stage,<td>4</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>8</td>
-SCHLEGEL MichalCCC Sprandi Polkowice ,stage,<td>12</td>
-TEUNS DylanBMC Racing Team,stage,<td>16</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>20</td>
-CICCONE GiulioBardiani - CSF,stage,<td>24</td>
-PÖSTLBERGER LukasBORA - hansgrohe,stage,<td>28</td>
-MOHORIČ MatejUAE Team Emirates,stage,<td>32</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>36</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/luis-leon-sanchez"">SÁNCHEZ Luis León</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-4,stage,<td>104</td>
-,stage,<td></td>
-ANTÓN IgorTeam Dimension Data,stage,<td>7</td>
-55,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/thibaut-pinot"">PINOT Thibaut</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-12,stage,<td>49</td>
-,stage,<td></td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>15</td>
-31,stage,<td></td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/laurens-de-plus"">DE PLUS Laurens</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-20,stage,<td>26</td>
-,stage,<td></td>
-BRUTT PavelGazprom-RusVelo,stage,<td>23</td>
-22,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/pello-bilbao"">BILBAO Pello</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-28,stage,<td>19</td>
-,stage,<td></td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>31</td>
-15,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-36,stage,<td>14</td>
-,stage,<td></td>
-MARCATO MarcoUAE Team Emirates,stage,<td>39</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/matthieu-ladagnous"">LADAGNOUS Matthieu</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-44,stage,<td>8</td>
-,stage,<td></td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>47</td>
-5,stage,<td></td>
-,stage,"<td><div><span class=""flag cr""></span> <a href=""rider/andrey-amador"">AMADOR Andrey</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-52,stage,<td>4</td>
-,stage,<td></td>
-POZZATO FilippoWilier Triestina - Selle Italia,stage,<td>55</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-60,stage,<td>2</td>
-,stage,<td></td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>63</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/gorka-izagirre"">IZAGIRRE Gorka</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-68,stage,<td>1</td>
-,stage,<td></td>
-SAMOILAU BranislauCCC Sprandi Polkowice ,stage,<td>71</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/ilia-koshevoy"">KOSHEVOY Ilia</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-1,stage,<td>1</td>
-WT,stage,"<td><span class=""flag fr""></span> <a href=""team/fdj-2017"">FDJ</a></td>"
-UAE Team Emirates,stage,<td>6</td>
-9,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/quick-step-floors-2017"">Quick-Step Floors</a></td>"
-BMC Racing Team,stage,<td>14</td>
-17,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/lotto-soudal-2017"">Lotto Soudal</a></td>"
-Bardiani - CSF,stage,<td>22</td>
-PINOT ThibautFDJ,stage,<td>1</td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>3</td>
-QUINTANA NairoMovistar Team,stage,<td>5</td>
-YATES AdamORICA-Scott,stage,<td>7</td>
-MOLLEMA BaukeTrek - Segafredo,stage,<td>9</td>
-HIRT JanCCC Sprandi Polkowice ,stage,<td>11</td>
-FRAILE OmarTeam Dimension Data,stage,<td>13</td>
-POLANC JanUAE Team Emirates,stage,<td>15</td>
-BATTAGLIN EnricoTeam LottoNL-Jumbo,stage,<td>17</td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>19</td>
-MENDES JoséBORA - hansgrohe,stage,<td>21</td>
-LANDA MikelTeam Sky,stage,<td>23</td>
-PETILLI SimoneUAE Team Emirates,stage,<td>25</td>
-MEZGEC LukaORICA-Scott,stage,<td>27</td>
-KIŠERLOVSKI RobertTeam Katusha Alpecin,stage,<td>29</td>
-GASTAUER BenAG2R La Mondiale,stage,<td>31</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>33</td>
-VERONA CarlosORICA-Scott,stage,<td>35</td>
-CICCONE GiulioBardiani - CSF,stage,<td>37</td>
-MORABITO SteveFDJ,stage,<td>39</td>
-ROSA DiegoTeam Sky,stage,<td>41</td>
-SLAGTER Tom-JelteCannondale-Drapac Pro Cycling Team,stage,<td>43</td>
-MARCZYŃSKI TomaszLotto Soudal,stage,<td>45</td>
-DE LA PARTE VíctorMovistar Team,stage,<td>47</td>
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>49</td>
-MAMYKIN MatveyTeam Katusha Alpecin,stage,<td>51</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>53</td>
-LADAGNOUS MatthieuFDJ,stage,<td>55</td>
-GONÇALVES JoséTeam Katusha Alpecin,stage,<td>57</td>
-DEVENYNS DriesQuick-Step Floors,stage,<td>59</td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>61</td>
-IZAGIRRE GorkaMovistar Team,stage,<td>63</td>
-SERRY PieterQuick-Step Floors,stage,<td>65</td>
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>67</td>
-ROY JérémyFDJ,stage,<td>69</td>
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>71</td>
-RODRÍGUEZ CristiánWilier Triestina - Selle Italia,stage,<td>73</td>
-ANACONA WinnerMovistar Team,stage,<td>75</td>
-FOLIFOROV AlexanderGazprom-RusVelo,stage,<td>77</td>
-GROßSCHARTNER FelixCCC Sprandi Polkowice ,stage,<td>79</td>
-KOREN KristijanCannondale-Drapac Pro Cycling Team,stage,<td>81</td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>83</td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>85</td>
-PATERSKI MaciejCCC Sprandi Polkowice ,stage,<td>87</td>
-BAK Lars YttingLotto Soudal,stage,<td>89</td>
-BIZHIGITOV ZhandosAstana Pro Team,stage,<td>91</td>
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>93</td>
-BENEDETTI CesareBORA - hansgrohe,stage,<td>95</td>
-BÉRARD JulienAG2R La Mondiale,stage,<td>97</td>
-MAESTRI MircoBardiani - CSF,stage,<td>99</td>
-CHEVRIER ClémentAG2R La Mondiale,stage,<td>101</td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>103</td>
-TSATEVICH AlexeyGazprom-RusVelo,stage,<td>105</td>
-CONTI ValerioUAE Team Emirates,stage,<td>107</td>
-LUDVIGSSON TobiasFDJ,stage,<td>109</td>
-JAUREGUI QuentinAG2R La Mondiale,stage,<td>111</td>
-STAMSNIJDER TomTeam Sunweb,stage,<td>113</td>
-TEKLEHAIMANOT DanielTeam Dimension Data,stage,<td>115</td>
-VENTOSO Francisco JoséBMC Racing Team,stage,<td>117</td>
-SAMOILAU BranislauCCC Sprandi Polkowice ,stage,<td>119</td>
-BILBAO PelloAstana Pro Team,stage,<td>121</td>
-STETINA PeterTrek - Segafredo,stage,<td>123</td>
-ALAFACI EugenioTrek - Segafredo,stage,<td>125</td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>127</td>
-MOLARD RudyFDJ,stage,<td>129</td>
-HAGA ChadTeam Sunweb,stage,<td>131</td>
-PUCCIO SalvatoreTeam Sky,stage,<td>133</td>
-VAUGRENARD BenoîtFDJ,stage,<td>135</td>
-SBARAGLI KristianTeam Dimension Data,stage,<td>137</td>
-HERRADA JoséMovistar Team,stage,<td>139</td>
-MARTINELLI DavideQuick-Step Floors,stage,<td>141</td>
-BÁRTA JanBORA - hansgrohe,stage,<td>143</td>
-VAN ZYL JohannTeam Dimension Data,stage,<td>145</td>
-KEISSE IljoQuick-Step Floors,stage,<td>147</td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>149</td>
-BOEM NicolaBardiani - CSF,stage,<td>151</td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>153</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>155</td>
-STUYVEN JasperTrek - Segafredo,stage,<td>157</td>
-TUFT SveinORICA-Scott,stage,<td>159</td>
-CARTHY HughCannondale-Drapac Pro Cycling Team,stage,<td>161</td>
-VISCONTI GiovanniBahrain Merida Pro Cycling Team,stage,<td>DNF</td>
-QUINTANA NairoMovistar Team,stage,<td>1</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/domenico-pozzovivo"">POZZOVIVO Domenico</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-JUNGELS BobQuick-Step Floors,stage,<td>9</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-DUPONT HubertAG2R La Mondiale,stage,<td>17</td>
-20,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/pierre-rolland"">ROLLAND Pierre</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-ANACONA WinnerMovistar Team,stage,<td>25</td>
-28,stage,<td></td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/jesper-hansen-1"">HANSEN Jesper</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-HENAO SebastiánTeam Sky,stage,<td>33</td>
-36,stage,<td></td>
-,stage,"<td><div><span class=""flag ca""></span> <a href=""rider/michael-woods"">WOODS Michael</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>41</td>
-44,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/peter-stetina"">STETINA Peter</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-MENDES JoséBORA - hansgrohe,stage,<td>49</td>
-52,stage,<td></td>
-,stage,"<td><div><span class=""flag de""></span> <a href=""rider/simon-geschke"">GESCHKE Simon</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-VERONA CarlosORICA-Scott,stage,<td>57</td>
-60,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/igor-anton"">ANTÓN Igor</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-FRAILE OmarTeam Dimension Data,stage,<td>65</td>
-68,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-villella"">VILLELLA Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>73</td>
-76,stage,<td></td>
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/felix-grossschartner"">GROßSCHARTNER Felix</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>81</td>
-84,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>89</td>
-92,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/giulio-ciccone"">CICCONE Giulio</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-LADAGNOUS MatthieuFDJ,stage,<td>97</td>
-100,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/vasil-kiryienka"">KIRYIENKA Vasil</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-VAUGRENARD BenoîtFDJ,stage,<td>105</td>
-108,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/branislau-samoilau"">SAMOILAU Branislau</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-MARCATO MarcoUAE Team Emirates,stage,<td>113</td>
-116,stage,<td></td>
-,stage,"<td><div><span class=""flag no""></span> <a href=""rider/sindre-skjoestad-lunke"">LUNKE Sindre</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>121</td>
-124,stage,<td></td>
-,stage,"<td><div><span class=""flag au""></span> <a href=""rider/michael-hepburn"">HEPBURN Michael</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-BÉRARD JulienAG2R La Mondiale,stage,<td>129</td>
-132,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-QUINZIATO ManuelBMC Racing Team,stage,<td>137</td>
-140,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/michal-golas"">GOŁAŚ Michał</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-KEISSE IljoQuick-Step Floors,stage,<td>145</td>
-148,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/roberto-ferrari"">FERRARI Roberto</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-BOEM NicolaBardiani - CSF,stage,<td>153</td>
-156,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-lagutin"">LAGUTIN Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-BIAŁOBŁOCKI MarcinCCC Sprandi Polkowice ,stage,<td>161</td>
-,stage,<td></td>
-BENNETT SamBORA - hansgrohe,stage,<td>3</td>
-100,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-8,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134947"">76</a></td>"
-,stage,<td></td>
-DILLIER SilvanBMC Racing Team,stage,<td>11</td>
-67,stage,<td></td>
-,stage,"<td><div><span class=""flag co""></span> <a href=""rider/nairo-quintana"">QUINTANA Nairo</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-16,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140778"">61</a></td>"
-,stage,<td></td>
-RICHEZE MaximilianoQuick-Step Floors,stage,<td>19</td>
-48,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/maciej-paterski"">PATERSKI Maciej</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-24,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=133024"">41</a></td>"
-,stage,<td></td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>27</td>
-34,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/mirco-maestri"">MAESTRI Mirco</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-32,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140438"">32</a></td>"
-,stage,<td></td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>35</td>
-24,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/alexey-tsatevich"">TSATEVICH Alexey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-40,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134807"">22</a></td>"
-,stage,<td></td>
-BERHANE NatnaelTeam Dimension Data,stage,<td>43</td>
-16,stage,<td></td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/jan-polanc"">POLANC Jan</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-48,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140782"">15</a></td>"
-,stage,<td></td>
-BARBIN EnricoBardiani - CSF,stage,<td>51</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-56,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140231"">11</a></td>"
-,stage,<td></td>
-PEDERSEN MadsTrek - Segafredo,stage,<td>59</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/jan-barta"">BÁRTA Jan</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-64,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=141005"">8</a></td>"
-,stage,<td></td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>67</td>
-7,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-formolo"">FORMOLO Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-72,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=133707"">6</a></td>"
-,stage,<td></td>
-HENAO SebastiánTeam Sky,stage,<td>75</td>
-6,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-80,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140859"">6</a></td>"
-,stage,<td></td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>83</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/christopher-juul-jensen"">JUUL-JENSEN Christopher</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-88,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=135746"">4</a></td>"
-,stage,<td></td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>91</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/benoit-vaugrenard"">VAUGRENARD Benoît</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-96,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140225"">2</a></td>"
-,stage,<td></td>
-DUPONT HubertAG2R La Mondiale,stage,<td>99</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/joey-rosskopf"">ROSSKOPF Joey</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-104,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140401"">1</a></td>"
-,stage,<td></td>
-BELKOV MaximTeam Katusha Alpecin,stage,<td>107</td>
-1,stage,<td></td>
-POLANC JanUAE Team Emirates,stage,<td>4</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>8</td>
-SCHLEGEL MichalCCC Sprandi Polkowice ,stage,<td>12</td>
-TEUNS DylanBMC Racing Team,stage,<td>16</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>20</td>
-CICCONE GiulioBardiani - CSF,stage,<td>24</td>
-PÖSTLBERGER LukasBORA - hansgrohe,stage,<td>28</td>
-MOHORIČ MatejUAE Team Emirates,stage,<td>32</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>36</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/luis-leon-sanchez"">SÁNCHEZ Luis León</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-4,stage,<td>104</td>
-,stage,<td></td>
-ANTÓN IgorTeam Dimension Data,stage,<td>7</td>
-55,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/thibaut-pinot"">PINOT Thibaut</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-12,stage,<td>49</td>
-,stage,<td></td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>15</td>
-31,stage,<td></td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/laurens-de-plus"">DE PLUS Laurens</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-20,stage,<td>26</td>
-,stage,<td></td>
-BRUTT PavelGazprom-RusVelo,stage,<td>23</td>
-22,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/pello-bilbao"">BILBAO Pello</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-28,stage,<td>19</td>
-,stage,<td></td>
-VILLELLA DavideCannondale-Drapac Pro Cycling Team,stage,<td>31</td>
-15,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-36,stage,<td>14</td>
-,stage,<td></td>
-MARCATO MarcoUAE Team Emirates,stage,<td>39</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/matthieu-ladagnous"">LADAGNOUS Matthieu</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-44,stage,<td>8</td>
-,stage,<td></td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>47</td>
-5,stage,<td></td>
-,stage,"<td><div><span class=""flag cr""></span> <a href=""rider/andrey-amador"">AMADOR Andrey</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-52,stage,<td>4</td>
-,stage,<td></td>
-POZZATO FilippoWilier Triestina - Selle Italia,stage,<td>55</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-60,stage,<td>2</td>
-,stage,<td></td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>63</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/gorka-izagirre"">IZAGIRRE Gorka</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-68,stage,<td>1</td>
-,stage,<td></td>
-SAMOILAU BranislauCCC Sprandi Polkowice ,stage,<td>71</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/ilia-koshevoy"">KOSHEVOY Ilia</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-1,stage,<td>1</td>
-WT,stage,"<td><span class=""flag fr""></span> <a href=""team/fdj-2017"">FDJ</a></td>"
-UAE Team Emirates,stage,<td>6</td>
-9,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/quick-step-floors-2017"">Quick-Step Floors</a></td>"
-BMC Racing Team,stage,<td>14</td>
-17,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/lotto-soudal-2017"">Lotto Soudal</a></td>"
-Bardiani - CSF,stage,<td>22</td>
-PINOT ThibautFDJ,stage,<td>1</td>
-50,stage,<td>40</td>
-POZZOVIVO DomenicoAG2R La Mondiale,stage,<td>4</td>
-18,stage,<td>4</td>
-YATES AdamORICA-Scott,stage,<td>7</td>
-10,stage,<td></td>
-DUMOULIN TomTeam Sunweb,stage,<td>10</td>
-5,stage,<td></td>
-FRAILE OmarTeam Dimension Data,stage,<td>13</td>
-2,stage,<td></td>
-DEIGNAN PhilipTeam Sky,stage,<td>16</td>
-,stage,<td></td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>19</td>
-,stage,<td></td>
-AMADOR AndreyMovistar Team,stage,<td>22</td>
-,stage,<td></td>
-PETILLI SimoneUAE Team Emirates,stage,<td>25</td>
-,stage,<td></td>
-HERNÁNDEZ BLÁZQUEZ JesúsTrek - Segafredo,stage,<td>28</td>
-,stage,<td></td>
-GASTAUER BenAG2R La Mondiale,stage,<td>31</td>
-,stage,<td></td>
-DE PLUS LaurensQuick-Step Floors,stage,<td>34</td>
-,stage,<td></td>
-CICCONE GiulioBardiani - CSF,stage,<td>37</td>
-,stage,<td></td>
-ZEITS AndreyAstana Pro Team,stage,<td>40</td>
-,stage,<td></td>
-SLAGTER Tom-JelteCannondale-Drapac Pro Cycling Team,stage,<td>43</td>
-,stage,<td></td>
-PLAZA RubénORICA-Scott,stage,<td>46</td>
-,stage,<td></td>
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>49</td>
-,stage,<td></td>
-CLEMENT StefTeam LottoNL-Jumbo,stage,<td>52</td>
-,stage,<td></td>
-LADAGNOUS MatthieuFDJ,stage,<td>55</td>
-,stage,<td></td>
-TIRALONGO PaoloAstana Pro Team,stage,<td>58</td>
-,stage,<td></td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>61</td>
-,stage,<td></td>
-DOMBROWSKI JoeCannondale-Drapac Pro Cycling Team,stage,<td>64</td>
-,stage,<td></td>
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>67</td>
-,stage,<td></td>
-SIUTSOU KanstantsinBahrain Merida Pro Cycling Team,stage,<td>70</td>
-,stage,<td></td>
-RODRÍGUEZ CristiánWilier Triestina - Selle Italia,stage,<td>73</td>
-,stage,<td></td>
-VAN DEN BROECK JurgenTeam LottoNL-Jumbo,stage,<td>76</td>
-,stage,<td></td>
-GROßSCHARTNER FelixCCC Sprandi Polkowice ,stage,<td>79</td>
-,stage,<td></td>
-PIBERNIK LukaBahrain Merida Pro Cycling Team,stage,<td>82</td>
-,stage,<td></td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>85</td>
-,stage,<td></td>
-AGNOLI ValerioBahrain Merida Pro Cycling Team,stage,<td>88</td>
-,stage,<td></td>
-BIZHIGITOV ZhandosAstana Pro Team,stage,<td>91</td>
-,stage,<td></td>
-HOFLAND MorenoLotto Soudal,stage,<td>94</td>
-,stage,<td></td>
-BÉRARD JulienAG2R La Mondiale,stage,<td>97</td>
-,stage,<td></td>
-SHALUNOV EvgenyGazprom-RusVelo,stage,<td>100</td>
-,stage,<td></td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>103</td>
-,stage,<td></td>
-MOHORIČ MatejUAE Team Emirates,stage,<td>106</td>
-,stage,<td></td>
-LUDVIGSSON TobiasFDJ,stage,<td>109</td>
-,stage,<td></td>
-KOSHEVOY IliaWilier Triestina - Selle Italia,stage,<td>112</td>
-,stage,<td></td>
-TEKLEHAIMANOT DanielTeam Dimension Data,stage,<td>115</td>
-,stage,<td></td>
-ROVNY IvanGazprom-RusVelo,stage,<td>118</td>
-,stage,<td></td>
-BILBAO PelloAstana Pro Team,stage,<td>121</td>
-,stage,<td></td>
-GOŁAŚ MichałTeam Sky,stage,<td>124</td>
-,stage,<td></td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>127</td>
-,stage,<td></td>
-CASTELIJNS TwanTeam LottoNL-Jumbo,stage,<td>130</td>
-,stage,<td></td>
-PUCCIO SalvatoreTeam Sky,stage,<td>133</td>
-,stage,<td></td>
-ROTA LorenzoBardiani - CSF,stage,<td>136</td>
-,stage,<td></td>
-HERRADA JoséMovistar Team,stage,<td>139</td>
-,stage,<td></td>
-BRUTT PavelGazprom-RusVelo,stage,<td>142</td>
-,stage,<td></td>
-VAN ZYL JohannTeam Dimension Data,stage,<td>145</td>
-,stage,<td></td>
-RICHEZE MaximilianoQuick-Step Floors,stage,<td>148</td>
-,stage,<td></td>
-BOEM NicolaBardiani - CSF,stage,<td>151</td>
-,stage,<td></td>
-HOWES AlexCannondale-Drapac Pro Cycling Team,stage,<td>154</td>
-,stage,<td></td>
-STUYVEN JasperTrek - Segafredo,stage,<td>157</td>
-,stage,<td></td>
-HEPBURN MichaelORICA-Scott,stage,<td>160</td>
-,stage,<td></td>
-VISCONTI GiovanniBahrain Merida Pro Cycling Team,stage,<td>DNF</td>
-,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/vincenzo-nibali"">NIBALI Vincenzo</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/tom-dumoulin"">DUMOULIN Tom</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/domenico-pozzovivo"">POZZOVIVO Domenico</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,"<td><div><span class=""flag gb""></span> <a href=""rider/adam-yates"">YATES Adam</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-formolo"">FORMOLO Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/jan-hirt"">HIRT Jan</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/patrick-konrad"">KONRAD Patrick</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/mikel-landa"">LANDA Mikel</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/tejay-van-garderen"">VAN GARDEREN Tejay</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/pierre-rolland"">ROLLAND Pierre</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/laurens-de-plus"">DE PLUS Laurens</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/simone-petilli"">PETILLI Simone</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/gorka-izagirre"">IZAGIRRE Gorka</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/jesper-hansen-1"">HANSEN Jesper</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/ruben-plaza"">PLAZA Rubén</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/laurens-ten-dam"">TEN DAM Laurens</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag za""></span> <a href=""rider/jacques-janse-van-rensburg"">JANSE VAN RENSBURG Jacques</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,"<td><div><span class=""flag ca""></span> <a href=""rider/michael-woods"">WOODS Michael</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/alexander-foliforov"">FOLIFOROV Alexander</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/julien-bernard"">BERNARD Julien</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/michal-schlegel"">SCHLEGEL Michal</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/peter-stetina"">STETINA Peter</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/jesus-hernandez-3"">HERNÁNDEZ BLÁZQUEZ Jesús</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/jose-joaquin-rojas"">ROJAS José Joaquín</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/cristian-rodriguez"">RODRÍGUEZ Cristián</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,"<td><div><span class=""flag de""></span> <a href=""rider/simon-geschke"">GESCHKE Simon</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/diego-rosa"">ROSA Diego</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/eros-capecchi"">CAPECCHI Eros</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag pt""></span> <a href=""rider/jose-goncalves"">GONÇALVES José</a><span class=""showIfMobile riderteam"">Team Katusha Alpecin</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/igor-anton"">ANTÓN Igor</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,"<td><div><span class=""flag kz""></span> <a href=""rider/andrey-zeits"">ZEITS Andrey</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/pello-bilbao"">BILBAO Pello</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-villella"">VILLELLA Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/georg-preidler"">PREIDLER Georg</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/jeremy-roy"">ROY Jérémy</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/dylan-teuns"">TEUNS Dylan</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/felix-grossschartner"">GROßSCHARTNER Felix</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/clement-chevrier"">CHEVRIER Clément</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/paolo-tiralongo"">TIRALONGO Paolo</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/chad-haga"">HAGA Chad</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/dries-devenyns"">DEVENYNS Dries</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/quentin-jauregui"">JAUREGUI Quentin</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,"<td><div><span class=""flag au""></span> <a href=""rider/adam-hansen"">HANSEN Adam</a><span class=""showIfMobile riderteam"">Lotto Soudal</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/giulio-ciccone"">CICCONE Giulio</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-firsanov"">FIRSANOV Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/julen-amezqueta"">AMEZQUETA Julen</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/luka-pibernik"">PIBERNIK Luka</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/vasil-kiryienka"">KIRYIENKA Vasil</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/pieter-serry"">SERRY Pieter</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/luka-mezgec"">MEZGEC Luka</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-agnoli"">AGNOLI Valerio</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/branislau-samoilau"">SAMOILAU Branislau</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag er""></span> <a href=""rider/daniel-teklehaimanot"">TEKLEHAIMANOT Daniel</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/cesare-benedetti"">BENEDETTI Cesare</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/martijn-keizer"">KEIZER Martijn</a><span class=""showIfMobile riderteam"">Team LottoNL-Jumbo</span></div></td>"
-,stage,"<td><div><span class=""flag no""></span> <a href=""rider/sindre-skjoestad-lunke"">LUNKE Sindre</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/lars-ytting-bak"">BAK Lars Ytting</a><span class=""showIfMobile riderteam"">Lotto Soudal</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/alexey-tsatevich"">TSATEVICH Alexey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/evgeny-shalunov"">SHALUNOV Evgeny</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag au""></span> <a href=""rider/michael-hepburn"">HEPBURN Michael</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/jan-barta"">BÁRTA Jan</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-,stage,"<td><div><span class=""flag co""></span> <a href=""rider/fernando-gaviria"">GAVIRIA Fernando</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/viacheslav-kuznetsov"">KUZNETSOV Viacheslav</a><span class=""showIfMobile riderteam"">Team Katusha Alpecin</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/matej-mohoric"">MOHORIČ Matej</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/maciej-paterski"">PATERSKI Maciej</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/moreno-hofland"">HOFLAND Moreno</a><span class=""showIfMobile riderteam"">Lotto Soudal</span></div></td>"
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/michal-golas"">GOŁAŚ Michał</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag ca""></span> <a href=""rider/svein-tuft"">TUFT Svein</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/dmitry-kozonchuk"">KOZONTCHUK Dmitry</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/alberto-losada"">LOSADA Alberto</a><span class=""showIfMobile riderteam"">Team Katusha Alpecin</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/roberto-ferrari"">FERRARI Roberto</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,"<td><div><span class=""flag za""></span> <a href=""rider/johann-van-zyl"">VAN ZYL Johann</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-martinelli"">MARTINELLI Davide</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/ilia-koshevoy"">KOSHEVOY Ilia</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-lagutin"">LAGUTIN Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag kz""></span> <a href=""rider/zhandos-bizhigitov"">BIZHIGITOV Zhandos</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/giuseppe-fonzi"">FONZI Giuseppe</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-2,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=179769"">325</a></td>"
-BENNETT SamBORA - hansgrohe,stage,<td>3</td>
-,stage,"<td><div><span class=""flag er""></span> <a href=""rider/daniel-teklehaimanot"">TEKLEHAIMANOT Daniel</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,<td></td>
-76,stage,<td></td>
-8,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134947"">76</a></td>"
-FERRARI RobertoUAE Team Emirates,stage,<td>9</td>
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/tom-dumoulin"">DUMOULIN Tom</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,<td></td>
-67,stage,<td></td>
-14,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140293"">63</a></td>"
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>15</td>
-,stage,"<td><div><span class=""flag lu""></span> <a href=""rider/bob-jungels"">JUNGELS Bob</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,<td></td>
-52,stage,<td></td>
-20,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140776"">50</a></td>"
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>21</td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/maciej-paterski"">PATERSKI Maciej</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,<td></td>
-41,stage,<td></td>
-26,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=139966"">40</a></td>"
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>27</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/gorka-izagirre"">IZAGIRRE Gorka</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,<td></td>
-32,stage,<td></td>
-32,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140438"">32</a></td>"
-FRAILE OmarTeam Dimension Data,stage,<td>33</td>
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/bauke-mollema"">MOLLEMA Bauke</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-,stage,<td></td>
-24,stage,<td></td>
-38,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=167585"">22</a></td>"
-KOSHEVOY IliaWilier Triestina - Selle Italia,stage,<td>39</td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/dries-devenyns"">DEVENYNS Dries</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,<td></td>
-20,stage,<td></td>
-44,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=136352"">16</a></td>"
-TRATNIK JanCCC Sprandi Polkowice ,stage,<td>45</td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/jan-polanc"">POLANC Jan</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,<td></td>
-15,stage,<td></td>
-50,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140431"">12</a></td>"
-BARBIN EnricoBardiani - CSF,stage,<td>51</td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/marcin-bialoblocki"">BIAŁOBŁOCKI Marcin</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,<td></td>
-11,stage,<td></td>
-56,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140231"">11</a></td>"
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>57</td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/pieter-serry"">SERRY Pieter</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,<td></td>
-9,stage,<td></td>
-62,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140568"">9</a></td>"
-ROSA DiegoTeam Sky,stage,<td>63</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/manuele-boaro"">BOARO Manuele</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-,stage,<td></td>
-8,stage,<td></td>
-68,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=162969"">7</a></td>"
-GROßSCHARTNER FelixCCC Sprandi Polkowice ,stage,<td>69</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-formolo"">FORMOLO Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,<td></td>
-6,stage,<td></td>
-74,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=135188"">6</a></td>"
-HENAO SebastiánTeam Sky,stage,<td>75</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/matteo-montaguti"">MONTAGUTI Matteo</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,<td></td>
-6,stage,<td></td>
-80,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140859"">6</a></td>"
-JANSE VAN RENSBURG JacquesTeam Dimension Data,stage,<td>81</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/matteo-busato"">BUSATO Matteo</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,<td></td>
-4,stage,<td></td>
-86,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140207"">4</a></td>"
-VAN ZYL JohannTeam Dimension Data,stage,<td>87</td>
-,stage,"<td><div><span class=""flag cr""></span> <a href=""rider/andrey-amador"">AMADOR Andrey</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,<td></td>
-3,stage,<td></td>
-92,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140268"">3</a></td>"
-MOLARD RudyFDJ,stage,<td>93</td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/benoit-vaugrenard"">VAUGRENARD Benoît</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-,stage,<td></td>
-2,stage,<td></td>
-98,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=169865"">2</a></td>"
-DUPONT HubertAG2R La Mondiale,stage,<td>99</td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/laurens-de-plus"">DE PLUS Laurens</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,<td></td>
-1,stage,<td></td>
-104,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140401"">1</a></td>"
-MEZGEC LukaORICA-Scott,stage,<td>105</td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/lars-ytting-bak"">BAK Lars Ytting</a><span class=""showIfMobile riderteam"">Lotto Soudal</span></div></td>"
-,stage,<td></td>
-1,stage,<td></td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>3</td>
-PETILLI SimoneUAE Team Emirates,stage,<td>6</td>
-FOLIFOROV AlexanderGazprom-RusVelo,stage,<td>9</td>
-SCHLEGEL MichalCCC Sprandi Polkowice ,stage,<td>12</td>
-CONTI ValerioUAE Team Emirates,stage,<td>15</td>
-SENNI ManuelBMC Racing Team,stage,<td>18</td>
-MAMYKIN MatveyTeam Katusha Alpecin,stage,<td>21</td>
-CICCONE GiulioBardiani - CSF,stage,<td>24</td>
-PIBERNIK LukaBahrain Merida Pro Cycling Team,stage,<td>27</td>
-SHALUNOV EvgenyGazprom-RusVelo,stage,<td>30</td>
-PEDERSEN MadsTrek - Segafredo,stage,<td>33</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>36</td>
-2,stage,<td>224</td>
-FRAILE OmarTeam Dimension Data,stage,<td>3</td>
-,stage,"<td><div><span class=""flag co""></span> <a href=""rider/nairo-quintana"">QUINTANA Nairo</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,<td></td>
-66,stage,<td></td>
-8,stage,<td>56</td>
-POZZOVIVO DomenicoAG2R La Mondiale,stage,<td>9</td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/thibaut-pinot"">PINOT Thibaut</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-,stage,<td></td>
-46,stage,<td></td>
-14,stage,<td>35</td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>15</td>
-,stage,"<td><div><span class=""flag pt""></span> <a href=""rider/rui-costa"">COSTA Rui</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,<td></td>
-27,stage,<td></td>
-20,stage,<td>26</td>
-FIRSANOV SergeyGazprom-RusVelo,stage,<td>21</td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/matej-mohoric"">MOHORIČ Matej</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,<td></td>
-22,stage,<td></td>
-26,stage,<td>21</td>
-TEUNS DylanBMC Racing Team,stage,<td>27</td>
-,stage,"<td><div><span class=""flag ie""></span> <a href=""rider/philip-deignan"">DEIGNAN Philip</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,<td></td>
-16,stage,<td></td>
-32,stage,<td>16</td>
-MAESTRI MircoBardiani - CSF,stage,<td>33</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,<td></td>
-12,stage,<td></td>
-38,stage,<td>11</td>
-MARCATO MarcoUAE Team Emirates,stage,<td>39</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/cesare-benedetti"">BENEDETTI Cesare</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-,stage,<td></td>
-9,stage,<td></td>
-44,stage,<td>8</td>
-DILLIER SilvanBMC Racing Team,stage,<td>45</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/julen-amezqueta"">AMEZQUETA Julen</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,<td></td>
-5,stage,<td></td>
-50,stage,<td>5</td>
-KIŠERLOVSKI RobertTeam Katusha Alpecin,stage,<td>51</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/ruben-plaza"">PLAZA Rubén</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,<td></td>
-4,stage,<td></td>
-56,stage,<td>3</td>
-FONZI GiuseppeWilier Triestina - Selle Italia,stage,<td>57</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,<td></td>
-2,stage,<td></td>
-62,stage,<td>2</td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>63</td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/hubert-dupont"">DUPONT Hubert</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,<td></td>
-1,stage,<td></td>
-68,stage,<td>1</td>
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>69</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/matteo-busato"">BUSATO Matteo</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,<td></td>
-1,stage,<td></td>
-74,stage,<td>1</td>
-BIAŁOBŁOCKI MarcinCCC Sprandi Polkowice ,stage,<td>75</td>
-WT,stage,"<td><span class=""flag es""></span> <a href=""team/movistar-team-20172"">Movistar Team</a></td>"
-WT,stage,"<td><span class=""flag fr""></span> <a href=""team/fdj-2017"">FDJ</a></td>"
-WT,stage,"<td><span class=""flag us""></span> <a href=""team/cannondale-drapac-pro-cycling-team-2017"">Cannondale-Drapac Pro Cycling Team</a></td>"
-WT,stage,"<td><span class=""flag gb""></span> <a href=""team/team-sky-2017"">Team Sky</a></td>"
-WT,stage,"<td><span class=""flag us""></span> <a href=""team/trek-segafredo-2017"">Trek - Segafredo</a></td>"
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/quick-step-floors-2017"">Quick-Step Floors</a></td>"
-WT,stage,"<td><span class=""flag ch""></span> <a href=""team/team-katusha-alpecin-2017"">Team Katusha Alpecin</a></td>"
-WT,stage,"<td><span class=""flag nl""></span> <a href=""team/team-lottonl-jumbo-2017"">Team LottoNL-Jumbo</a></td>"
-PCT,stage,"<td><span class=""flag pl""></span> <a href=""team/ccc-sprandi-polkowice-2017"">CCC Sprandi Polkowice </a></td>"
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/lotto-soudal-2017"">Lotto Soudal</a></td>"
-PCT,stage,"<td><span class=""flag ru""></span> <a href=""team/gazprom-rusvelo-2017"">Gazprom-RusVelo</a></td>"
-PINOT ThibautFDJ,stage,<td>1</td>
-50,stage,<td>40</td>
-POZZOVIVO DomenicoAG2R La Mondiale,stage,<td>4</td>
-18,stage,<td>4</td>
-YATES AdamORICA-Scott,stage,<td>7</td>
-10,stage,<td></td>
-DUMOULIN TomTeam Sunweb,stage,<td>10</td>
-5,stage,<td></td>
-FRAILE OmarTeam Dimension Data,stage,<td>13</td>
-2,stage,<td></td>
-DEIGNAN PhilipTeam Sky,stage,<td>16</td>
-,stage,<td></td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>19</td>
-,stage,<td></td>
-AMADOR AndreyMovistar Team,stage,<td>22</td>
-,stage,<td></td>
-PETILLI SimoneUAE Team Emirates,stage,<td>25</td>
-,stage,<td></td>
-HERNÁNDEZ BLÁZQUEZ JesúsTrek - Segafredo,stage,<td>28</td>
-,stage,<td></td>
-GASTAUER BenAG2R La Mondiale,stage,<td>31</td>
-,stage,<td></td>
-DE PLUS LaurensQuick-Step Floors,stage,<td>34</td>
-,stage,<td></td>
-CICCONE GiulioBardiani - CSF,stage,<td>37</td>
-,stage,<td></td>
-ZEITS AndreyAstana Pro Team,stage,<td>40</td>
-,stage,<td></td>
-SLAGTER Tom-JelteCannondale-Drapac Pro Cycling Team,stage,<td>43</td>
-,stage,<td></td>
-PLAZA RubénORICA-Scott,stage,<td>46</td>
-,stage,<td></td>
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>49</td>
-,stage,<td></td>
-CLEMENT StefTeam LottoNL-Jumbo,stage,<td>52</td>
-,stage,<td></td>
-LADAGNOUS MatthieuFDJ,stage,<td>55</td>
-,stage,<td></td>
-TIRALONGO PaoloAstana Pro Team,stage,<td>58</td>
-,stage,<td></td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>61</td>
-,stage,<td></td>
-DOMBROWSKI JoeCannondale-Drapac Pro Cycling Team,stage,<td>64</td>
-,stage,<td></td>
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>67</td>
-,stage,<td></td>
-SIUTSOU KanstantsinBahrain Merida Pro Cycling Team,stage,<td>70</td>
-,stage,<td></td>
-RODRÍGUEZ CristiánWilier Triestina - Selle Italia,stage,<td>73</td>
-,stage,<td></td>
-VAN DEN BROECK JurgenTeam LottoNL-Jumbo,stage,<td>76</td>
-,stage,<td></td>
-GROßSCHARTNER FelixCCC Sprandi Polkowice ,stage,<td>79</td>
-,stage,<td></td>
-PIBERNIK LukaBahrain Merida Pro Cycling Team,stage,<td>82</td>
-,stage,<td></td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>85</td>
-,stage,<td></td>
-AGNOLI ValerioBahrain Merida Pro Cycling Team,stage,<td>88</td>
-,stage,<td></td>
-BIZHIGITOV ZhandosAstana Pro Team,stage,<td>91</td>
-,stage,<td></td>
-HOFLAND MorenoLotto Soudal,stage,<td>94</td>
-,stage,<td></td>
-BÉRARD JulienAG2R La Mondiale,stage,<td>97</td>
-,stage,<td></td>
-SHALUNOV EvgenyGazprom-RusVelo,stage,<td>100</td>
-,stage,<td></td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>103</td>
-,stage,<td></td>
-MOHORIČ MatejUAE Team Emirates,stage,<td>106</td>
-,stage,<td></td>
-LUDVIGSSON TobiasFDJ,stage,<td>109</td>
-,stage,<td></td>
-KOSHEVOY IliaWilier Triestina - Selle Italia,stage,<td>112</td>
-,stage,<td></td>
-TEKLEHAIMANOT DanielTeam Dimension Data,stage,<td>115</td>
-,stage,<td></td>
-ROVNY IvanGazprom-RusVelo,stage,<td>118</td>
-,stage,<td></td>
-BILBAO PelloAstana Pro Team,stage,<td>121</td>
-,stage,<td></td>
-GOŁAŚ MichałTeam Sky,stage,<td>124</td>
-,stage,<td></td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>127</td>
-,stage,<td></td>
-CASTELIJNS TwanTeam LottoNL-Jumbo,stage,<td>130</td>
-,stage,<td></td>
-PUCCIO SalvatoreTeam Sky,stage,<td>133</td>
-,stage,<td></td>
-ROTA LorenzoBardiani - CSF,stage,<td>136</td>
-,stage,<td></td>
-HERRADA JoséMovistar Team,stage,<td>139</td>
-,stage,<td></td>
-BRUTT PavelGazprom-RusVelo,stage,<td>142</td>
-,stage,<td></td>
-VAN ZYL JohannTeam Dimension Data,stage,<td>145</td>
-,stage,<td></td>
-RICHEZE MaximilianoQuick-Step Floors,stage,<td>148</td>
-,stage,<td></td>
-BOEM NicolaBardiani - CSF,stage,<td>151</td>
-,stage,<td></td>
-HOWES AlexCannondale-Drapac Pro Cycling Team,stage,<td>154</td>
-,stage,<td></td>
-STUYVEN JasperTrek - Segafredo,stage,<td>157</td>
-,stage,<td></td>
-HEPBURN MichaelORICA-Scott,stage,<td>160</td>
-,stage,<td></td>
-VISCONTI GiovanniBahrain Merida Pro Cycling Team,stage,<td>DNF</td>
-,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/vincenzo-nibali"">NIBALI Vincenzo</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/tom-dumoulin"">DUMOULIN Tom</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/domenico-pozzovivo"">POZZOVIVO Domenico</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,"<td><div><span class=""flag gb""></span> <a href=""rider/adam-yates"">YATES Adam</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-formolo"">FORMOLO Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/jan-hirt"">HIRT Jan</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/patrick-konrad"">KONRAD Patrick</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/mikel-landa"">LANDA Mikel</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/tejay-van-garderen"">VAN GARDEREN Tejay</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/pierre-rolland"">ROLLAND Pierre</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/laurens-de-plus"">DE PLUS Laurens</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/simone-petilli"">PETILLI Simone</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/gorka-izagirre"">IZAGIRRE Gorka</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/jesper-hansen-1"">HANSEN Jesper</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/ruben-plaza"">PLAZA Rubén</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/laurens-ten-dam"">TEN DAM Laurens</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag za""></span> <a href=""rider/jacques-janse-van-rensburg"">JANSE VAN RENSBURG Jacques</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,"<td><div><span class=""flag ca""></span> <a href=""rider/michael-woods"">WOODS Michael</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/alexander-foliforov"">FOLIFOROV Alexander</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/julien-bernard"">BERNARD Julien</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/michal-schlegel"">SCHLEGEL Michal</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/peter-stetina"">STETINA Peter</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/jesus-hernandez-3"">HERNÁNDEZ BLÁZQUEZ Jesús</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/jose-joaquin-rojas"">ROJAS José Joaquín</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/cristian-rodriguez"">RODRÍGUEZ Cristián</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,"<td><div><span class=""flag de""></span> <a href=""rider/simon-geschke"">GESCHKE Simon</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/diego-rosa"">ROSA Diego</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/eros-capecchi"">CAPECCHI Eros</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag pt""></span> <a href=""rider/jose-goncalves"">GONÇALVES José</a><span class=""showIfMobile riderteam"">Team Katusha Alpecin</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/igor-anton"">ANTÓN Igor</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,"<td><div><span class=""flag kz""></span> <a href=""rider/andrey-zeits"">ZEITS Andrey</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/pello-bilbao"">BILBAO Pello</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-villella"">VILLELLA Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/georg-preidler"">PREIDLER Georg</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/jeremy-roy"">ROY Jérémy</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/dylan-teuns"">TEUNS Dylan</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/felix-grossschartner"">GROßSCHARTNER Felix</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/clement-chevrier"">CHEVRIER Clément</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/paolo-tiralongo"">TIRALONGO Paolo</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/chad-haga"">HAGA Chad</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/salvatore-puccio"">PUCCIO Salvatore</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/dries-devenyns"">DEVENYNS Dries</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/quentin-jauregui"">JAUREGUI Quentin</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,"<td><div><span class=""flag au""></span> <a href=""rider/adam-hansen"">HANSEN Adam</a><span class=""showIfMobile riderteam"">Lotto Soudal</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/giulio-ciccone"">CICCONE Giulio</a><span class=""showIfMobile riderteam"">Bardiani - CSF</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-firsanov"">FIRSANOV Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/julen-amezqueta"">AMEZQUETA Julen</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/luka-pibernik"">PIBERNIK Luka</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/vasil-kiryienka"">KIRYIENKA Vasil</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/pieter-serry"">SERRY Pieter</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/luka-mezgec"">MEZGEC Luka</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-agnoli"">AGNOLI Valerio</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/branislau-samoilau"">SAMOILAU Branislau</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag er""></span> <a href=""rider/daniel-teklehaimanot"">TEKLEHAIMANOT Daniel</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/cesare-benedetti"">BENEDETTI Cesare</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/martijn-keizer"">KEIZER Martijn</a><span class=""showIfMobile riderteam"">Team LottoNL-Jumbo</span></div></td>"
-,stage,"<td><div><span class=""flag no""></span> <a href=""rider/sindre-skjoestad-lunke"">LUNKE Sindre</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/lars-ytting-bak"">BAK Lars Ytting</a><span class=""showIfMobile riderteam"">Lotto Soudal</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/alexey-tsatevich"">TSATEVICH Alexey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/evgeny-shalunov"">SHALUNOV Evgeny</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag au""></span> <a href=""rider/michael-hepburn"">HEPBURN Michael</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag cz""></span> <a href=""rider/jan-barta"">BÁRTA Jan</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-,stage,"<td><div><span class=""flag co""></span> <a href=""rider/fernando-gaviria"">GAVIRIA Fernando</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/viacheslav-kuznetsov"">KUZNETSOV Viacheslav</a><span class=""showIfMobile riderteam"">Team Katusha Alpecin</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/pavel-brutt"">BRUTT Pavel</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/matej-mohoric"">MOHORIČ Matej</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/maciej-paterski"">PATERSKI Maciej</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/moreno-hofland"">HOFLAND Moreno</a><span class=""showIfMobile riderteam"">Lotto Soudal</span></div></td>"
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/michal-golas"">GOŁAŚ Michał</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,"<td><div><span class=""flag ca""></span> <a href=""rider/svein-tuft"">TUFT Svein</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/dmitry-kozonchuk"">KOZONTCHUK Dmitry</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/alberto-losada"">LOSADA Alberto</a><span class=""showIfMobile riderteam"">Team Katusha Alpecin</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/roberto-ferrari"">FERRARI Roberto</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,"<td><div><span class=""flag za""></span> <a href=""rider/johann-van-zyl"">VAN ZYL Johann</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-martinelli"">MARTINELLI Davide</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/ilia-koshevoy"">KOSHEVOY Ilia</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-lagutin"">LAGUTIN Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-,stage,"<td><div><span class=""flag kz""></span> <a href=""rider/zhandos-bizhigitov"">BIZHIGITOV Zhandos</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/giuseppe-fonzi"">FONZI Giuseppe</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-2,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=179769"">325</a></td>"
-BENNETT SamBORA - hansgrohe,stage,<td>3</td>
-,stage,"<td><div><span class=""flag er""></span> <a href=""rider/daniel-teklehaimanot"">TEKLEHAIMANOT Daniel</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-,stage,<td></td>
-76,stage,<td></td>
-8,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134947"">76</a></td>"
-FERRARI RobertoUAE Team Emirates,stage,<td>9</td>
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/tom-dumoulin"">DUMOULIN Tom</a><span class=""showIfMobile riderteam"">Team Sunweb</span></div></td>"
-,stage,<td></td>
-67,stage,<td></td>
-14,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140293"">63</a></td>"
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>15</td>
-,stage,"<td><div><span class=""flag lu""></span> <a href=""rider/bob-jungels"">JUNGELS Bob</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,<td></td>
-52,stage,<td></td>
-20,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140776"">50</a></td>"
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>21</td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/maciej-paterski"">PATERSKI Maciej</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,<td></td>
-41,stage,<td></td>
-26,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=139966"">40</a></td>"
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>27</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/gorka-izagirre"">IZAGIRRE Gorka</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,<td></td>
-32,stage,<td></td>
-32,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140438"">32</a></td>"
-FRAILE OmarTeam Dimension Data,stage,<td>33</td>
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/bauke-mollema"">MOLLEMA Bauke</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-,stage,<td></td>
-24,stage,<td></td>
-38,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=167585"">22</a></td>"
-KOSHEVOY IliaWilier Triestina - Selle Italia,stage,<td>39</td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/dries-devenyns"">DEVENYNS Dries</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,<td></td>
-20,stage,<td></td>
-44,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=136352"">16</a></td>"
-TRATNIK JanCCC Sprandi Polkowice ,stage,<td>45</td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/jan-polanc"">POLANC Jan</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,<td></td>
-15,stage,<td></td>
-50,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140431"">12</a></td>"
-BARBIN EnricoBardiani - CSF,stage,<td>51</td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/marcin-bialoblocki"">BIAŁOBŁOCKI Marcin</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-,stage,<td></td>
-11,stage,<td></td>
-56,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140231"">11</a></td>"
-OWSIAN ŁukaszCCC Sprandi Polkowice ,stage,<td>57</td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/pieter-serry"">SERRY Pieter</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,<td></td>
-9,stage,<td></td>
-62,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140568"">9</a></td>"
-ROSA DiegoTeam Sky,stage,<td>63</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/manuele-boaro"">BOARO Manuele</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-,stage,<td></td>
-8,stage,<td></td>
-68,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=162969"">7</a></td>"
-GROßSCHARTNER FelixCCC Sprandi Polkowice ,stage,<td>69</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-formolo"">FORMOLO Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-,stage,<td></td>
-6,stage,<td></td>
-74,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=135188"">6</a></td>"
-HENAO SebastiánTeam Sky,stage,<td>75</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/matteo-montaguti"">MONTAGUTI Matteo</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,<td></td>
-6,stage,<td></td>
-80,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140859"">6</a></td>"
-JANSE VAN RENSBURG JacquesTeam Dimension Data,stage,<td>81</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/matteo-busato"">BUSATO Matteo</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,<td></td>
-4,stage,<td></td>
-86,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140207"">4</a></td>"
-VAN ZYL JohannTeam Dimension Data,stage,<td>87</td>
-,stage,"<td><div><span class=""flag cr""></span> <a href=""rider/andrey-amador"">AMADOR Andrey</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,<td></td>
-3,stage,<td></td>
-92,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140268"">3</a></td>"
-MOLARD RudyFDJ,stage,<td>93</td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/benoit-vaugrenard"">VAUGRENARD Benoît</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-,stage,<td></td>
-2,stage,<td></td>
-98,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=169865"">2</a></td>"
-DUPONT HubertAG2R La Mondiale,stage,<td>99</td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/laurens-de-plus"">DE PLUS Laurens</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-,stage,<td></td>
-1,stage,<td></td>
-104,stage,"<td><a href=""race.php?id=171045&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140401"">1</a></td>"
-MEZGEC LukaORICA-Scott,stage,<td>105</td>
-,stage,"<td><div><span class=""flag dk""></span> <a href=""rider/lars-ytting-bak"">BAK Lars Ytting</a><span class=""showIfMobile riderteam"">Lotto Soudal</span></div></td>"
-,stage,<td></td>
-1,stage,<td></td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>3</td>
-PETILLI SimoneUAE Team Emirates,stage,<td>6</td>
-FOLIFOROV AlexanderGazprom-RusVelo,stage,<td>9</td>
-SCHLEGEL MichalCCC Sprandi Polkowice ,stage,<td>12</td>
-CONTI ValerioUAE Team Emirates,stage,<td>15</td>
-SENNI ManuelBMC Racing Team,stage,<td>18</td>
-MAMYKIN MatveyTeam Katusha Alpecin,stage,<td>21</td>
-CICCONE GiulioBardiani - CSF,stage,<td>24</td>
-PIBERNIK LukaBahrain Merida Pro Cycling Team,stage,<td>27</td>
-SHALUNOV EvgenyGazprom-RusVelo,stage,<td>30</td>
-PEDERSEN MadsTrek - Segafredo,stage,<td>33</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>36</td>
-2,stage,<td>224</td>
-FRAILE OmarTeam Dimension Data,stage,<td>3</td>
-,stage,"<td><div><span class=""flag co""></span> <a href=""rider/nairo-quintana"">QUINTANA Nairo</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-,stage,<td></td>
-66,stage,<td></td>
-8,stage,<td>56</td>
-POZZOVIVO DomenicoAG2R La Mondiale,stage,<td>9</td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/thibaut-pinot"">PINOT Thibaut</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-,stage,<td></td>
-46,stage,<td></td>
-14,stage,<td>35</td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>15</td>
-,stage,"<td><div><span class=""flag pt""></span> <a href=""rider/rui-costa"">COSTA Rui</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,<td></td>
-27,stage,<td></td>
-20,stage,<td>26</td>
-FIRSANOV SergeyGazprom-RusVelo,stage,<td>21</td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/matej-mohoric"">MOHORIČ Matej</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,<td></td>
-22,stage,<td></td>
-26,stage,<td>21</td>
-TEUNS DylanBMC Racing Team,stage,<td>27</td>
-,stage,"<td><div><span class=""flag ie""></span> <a href=""rider/philip-deignan"">DEIGNAN Philip</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-,stage,<td></td>
-16,stage,<td></td>
-32,stage,<td>16</td>
-MAESTRI MircoBardiani - CSF,stage,<td>33</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/dario-cataldo"">CATALDO Dario</a><span class=""showIfMobile riderteam"">Astana Pro Team</span></div></td>"
-,stage,<td></td>
-12,stage,<td></td>
-38,stage,<td>11</td>
-MARCATO MarcoUAE Team Emirates,stage,<td>39</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/cesare-benedetti"">BENEDETTI Cesare</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-,stage,<td></td>
-9,stage,<td></td>
-44,stage,<td>8</td>
-DILLIER SilvanBMC Racing Team,stage,<td>45</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/julen-amezqueta"">AMEZQUETA Julen</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,<td></td>
-5,stage,<td></td>
-50,stage,<td>5</td>
-KIŠERLOVSKI RobertTeam Katusha Alpecin,stage,<td>51</td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/ruben-plaza"">PLAZA Rubén</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-,stage,<td></td>
-4,stage,<td></td>
-56,stage,<td>3</td>
-FONZI GiuseppeWilier Triestina - Selle Italia,stage,<td>57</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-,stage,<td></td>
-2,stage,<td></td>
-62,stage,<td>2</td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>63</td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/hubert-dupont"">DUPONT Hubert</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-,stage,<td></td>
-1,stage,<td></td>
-68,stage,<td>1</td>
-BOARO ManueleBahrain Merida Pro Cycling Team,stage,<td>69</td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/matteo-busato"">BUSATO Matteo</a><span class=""showIfMobile riderteam"">Wilier Triestina - Selle Italia</span></div></td>"
-,stage,<td></td>
-1,stage,<td></td>
-74,stage,<td>1</td>
-BIAŁOBŁOCKI MarcinCCC Sprandi Polkowice ,stage,<td>75</td>
-WT,stage,"<td><span class=""flag es""></span> <a href=""team/movistar-team-20172"">Movistar Team</a></td>"
-WT,stage,"<td><span class=""flag fr""></span> <a href=""team/fdj-2017"">FDJ</a></td>"
-WT,stage,"<td><span class=""flag us""></span> <a href=""team/cannondale-drapac-pro-cycling-team-2017"">Cannondale-Drapac Pro Cycling Team</a></td>"
-WT,stage,"<td><span class=""flag gb""></span> <a href=""team/team-sky-2017"">Team Sky</a></td>"
-WT,stage,"<td><span class=""flag us""></span> <a href=""team/trek-segafredo-2017"">Trek - Segafredo</a></td>"
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/quick-step-floors-2017"">Quick-Step Floors</a></td>"
-WT,stage,"<td><span class=""flag ch""></span> <a href=""team/team-katusha-alpecin-2017"">Team Katusha Alpecin</a></td>"
-WT,stage,"<td><span class=""flag nl""></span> <a href=""team/team-lottonl-jumbo-2017"">Team LottoNL-Jumbo</a></td>"
-PCT,stage,"<td><span class=""flag pl""></span> <a href=""team/ccc-sprandi-polkowice-2017"">CCC Sprandi Polkowice </a></td>"
-WT,stage,"<td><span class=""flag be""></span> <a href=""team/lotto-soudal-2017"">Lotto Soudal</a></td>"
-PCT,stage,"<td><span class=""flag ru""></span> <a href=""team/gazprom-rusvelo-2017"">Gazprom-RusVelo</a></td>"
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>1</td>
-QUINZIATO ManuelBMC Racing Team,stage,<td>3</td>
-ROSSKOPF JoeyBMC Racing Team,stage,<td>5</td>
-PREIDLER GeorgTeam Sunweb,stage,<td>7</td>
-TRATNIK JanCCC Sprandi Polkowice ,stage,<td>9</td>
-BIAŁOBŁOCKI MarcinCCC Sprandi Polkowice ,stage,<td>11</td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>13</td>
-HEPBURN MichaelORICA-Scott,stage,<td>15</td>
-HAGA ChadTeam Sunweb,stage,<td>17</td>
-DILLIER SilvanBMC Racing Team,stage,<td>19</td>
-VAN GARDEREN TejayBMC Racing Team,stage,<td>21</td>
-PLAZA RubénORICA-Scott,stage,<td>23</td>
-PÖSTLBERGER LukasBORA - hansgrohe,stage,<td>25</td>
-QUINTANA NairoMovistar Team,stage,<td>27</td>
-KONRAD PatrickBORA - hansgrohe,stage,<td>29</td>
-MOLLEMA BaukeTrek - Segafredo,stage,<td>31</td>
-ZAKARIN IlnurTeam Katusha Alpecin,stage,<td>33</td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>35</td>
-MONFORT MaximeLotto Soudal,stage,<td>37</td>
-PATERSKI MaciejCCC Sprandi Polkowice ,stage,<td>39</td>
-MENDES JoséBORA - hansgrohe,stage,<td>41</td>
-CATALDO DarioAstana Pro Team,stage,<td>43</td>
-POLANC JanUAE Team Emirates,stage,<td>45</td>
-CONTI ValerioUAE Team Emirates,stage,<td>47</td>
-MOHORIČ MatejUAE Team Emirates,stage,<td>49</td>
-YATES AdamORICA-Scott,stage,<td>51</td>
-JUUL-JENSEN ChristopherORICA-Scott,stage,<td>53</td>
-SENNI ManuelBMC Racing Team,stage,<td>55</td>
-BERNARD JulienTrek - Segafredo,stage,<td>57</td>
-POZZOVIVO DomenicoAG2R La Mondiale,stage,<td>59</td>
-LADAGNOUS MatthieuFDJ,stage,<td>61</td>
-HENAO SebastiánTeam Sky,stage,<td>63</td>
-VERONA CarlosORICA-Scott,stage,<td>65</td>
-IZAGIRRE GorkaMovistar Team,stage,<td>67</td>
-GASTAUER BenAG2R La Mondiale,stage,<td>69</td>
-GAVIRIA FernandoQuick-Step Floors,stage,<td>71</td>
-PIBERNIK LukaBahrain Merida Pro Cycling Team,stage,<td>73</td>
-TSATEVICH AlexeyGazprom-RusVelo,stage,<td>75</td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>77</td>
-ROJAS José JoaquínMovistar Team,stage,<td>79</td>
-TEUNS DylanBMC Racing Team,stage,<td>81</td>
-FRAILE OmarTeam Dimension Data,stage,<td>83</td>
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>85</td>
-BATTAGLIN EnricoTeam LottoNL-Jumbo,stage,<td>87</td>
-CAPECCHI ErosQuick-Step Floors,stage,<td>89</td>
-AMEZQUETA JulenWilier Triestina - Selle Italia,stage,<td>91</td>
-HOFLAND MorenoLotto Soudal,stage,<td>93</td>
-TEN DAM LaurensTeam Sunweb,stage,<td>95</td>
-BRUTT PavelGazprom-RusVelo,stage,<td>97</td>
-SUTHERLAND RoryMovistar Team,stage,<td>99</td>
-BILBAO PelloAstana Pro Team,stage,<td>101</td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>103</td>
-STAMSNIJDER TomTeam Sunweb,stage,<td>105</td>
-DEIGNAN PhilipTeam Sky,stage,<td>107</td>
-SCHLEGEL MichalCCC Sprandi Polkowice ,stage,<td>109</td>
-MOLARD RudyFDJ,stage,<td>111</td>
-KUZNETSOV ViacheslavTeam Katusha Alpecin,stage,<td>113</td>
-FOLIFOROV AlexanderGazprom-RusVelo,stage,<td>115</td>
-MARTINELLI DavideQuick-Step Floors,stage,<td>117</td>
-MEZGEC LukaORICA-Scott,stage,<td>119</td>
-ANACONA WinnerMovistar Team,stage,<td>121</td>
-HANSEN JesperAstana Pro Team,stage,<td>123</td>
-BÉRARD JulienAG2R La Mondiale,stage,<td>125</td>
-HANSEN AdamLotto Soudal,stage,<td>127</td>
-ZHUPA EugertWilier Triestina - Selle Italia,stage,<td>129</td>
-BARBIN EnricoBardiani - CSF,stage,<td>131</td>
-RICHEZE MaximilianoQuick-Step Floors,stage,<td>133</td>
-STETINA PeterTrek - Segafredo,stage,<td>135</td>
-BERHANE NatnaelTeam Dimension Data,stage,<td>137</td>
-KIŠERLOVSKI RobertTeam Katusha Alpecin,stage,<td>139</td>
-MAESTRI MircoBardiani - CSF,stage,<td>141</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>143</td>
-FERRARI RobertoUAE Team Emirates,stage,<td>145</td>
-TIRALONGO PaoloAstana Pro Team,stage,<td>147</td>
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>149</td>
-HERNÁNDEZ BLÁZQUEZ JesúsTrek - Segafredo,stage,<td>151</td>
-JAUREGUI QuentinAG2R La Mondiale,stage,<td>153</td>
-POZZATO FilippoWilier Triestina - Selle Italia,stage,<td>155</td>
-CARTHY HughCannondale-Drapac Pro Cycling Team,stage,<td>157</td>
-ROTA LorenzoBardiani - CSF,stage,<td>159</td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>161</td>
-DUMOULIN TomTeam Sunweb,stage,<td>1</td>
-NIBALI VincenzoBahrain Merida Pro Cycling Team,stage,<td>3</td>
-ZAKARIN IlnurTeam Katusha Alpecin,stage,<td>5</td>
-MOLLEMA BaukeTrek - Segafredo,stage,<td>7</td>
-YATES AdamORICA-Scott,stage,<td>9</td>
-POLANC JanUAE Team Emirates,stage,<td>11</td>
-MONFORT MaximeLotto Soudal,stage,<td>13</td>
-REICHENBACH SébastienFDJ,stage,<td>15</td>
-LANDA MikelTeam Sky,stage,<td>17</td>
-DUPONT HubertAG2R La Mondiale,stage,<td>19</td>
-PELLIZOTTI FrancoBahrain Merida Pro Cycling Team,stage,<td>21</td>
-CLEMENT StefTeam LottoNL-Jumbo,stage,<td>23</td>
-ANACONA WinnerMovistar Team,stage,<td>25</td>
-COSTA RuiUAE Team Emirates,stage,<td>27</td>
-GASTAUER BenAG2R La Mondiale,stage,<td>29</td>
-KIŠERLOVSKI RobertTeam Katusha Alpecin,stage,<td>31</td>
-HENAO SebastiánTeam Sky,stage,<td>33</td>
-SIUTSOU KanstantsinBahrain Merida Pro Cycling Team,stage,<td>35</td>
-DEIGNAN PhilipTeam Sky,stage,<td>37</td>
-BIDARD FrançoisAG2R La Mondiale,stage,<td>39</td>
-MÜHLBERGER GregorBORA - hansgrohe,stage,<td>41</td>
-SÁNCHEZ Luis LeónAstana Pro Team,stage,<td>43</td>
-SCHLEGEL MichalCCC Sprandi Polkowice ,stage,<td>45</td>
-MARCZYŃSKI TomaszLotto Soudal,stage,<td>47</td>
-HERNÁNDEZ BLÁZQUEZ JesúsTrek - Segafredo,stage,<td>49</td>
-MONTAGUTI MatteoAG2R La Mondiale,stage,<td>51</td>
-MORABITO SteveFDJ,stage,<td>53</td>
-ROSA DiegoTeam Sky,stage,<td>55</td>
-VERONA CarlosORICA-Scott,stage,<td>57</td>
-BERHANE NatnaelTeam Dimension Data,stage,<td>59</td>
-HERRADA JoséMovistar Team,stage,<td>61</td>
-ZEITS AndreyAstana Pro Team,stage,<td>63</td>
-FRAILE OmarTeam Dimension Data,stage,<td>65</td>
-DILLIER SilvanBMC Racing Team,stage,<td>67</td>
-DOMBROWSKI JoeCannondale-Drapac Pro Cycling Team,stage,<td>69</td>
-PREIDLER GeorgTeam Sunweb,stage,<td>71</td>
-ROY JérémyFDJ,stage,<td>73</td>
-TEUNS DylanBMC Racing Team,stage,<td>75</td>
-SLAGTER Tom-JelteCannondale-Drapac Pro Cycling Team,stage,<td>77</td>
-SENNI ManuelBMC Racing Team,stage,<td>79</td>
-CHEVRIER ClémentAG2R La Mondiale,stage,<td>81</td>
-TIRALONGO PaoloAstana Pro Team,stage,<td>83</td>
-LUDVIGSSON TobiasFDJ,stage,<td>85</td>
-MAMYKIN MatveyTeam Katusha Alpecin,stage,<td>87</td>
-DEVENYNS DriesQuick-Step Floors,stage,<td>89</td>
-VAN DEN BROECK JurgenTeam LottoNL-Jumbo,stage,<td>91</td>
-HANSEN AdamLotto Soudal,stage,<td>93</td>
-CICCONE GiulioBardiani - CSF,stage,<td>95</td>
-LADAGNOUS MatthieuFDJ,stage,<td>97</td>
-AMEZQUETA JulenWilier Triestina - Selle Italia,stage,<td>99</td>
-SBARAGLI KristianTeam Dimension Data,stage,<td>101</td>
-VAUGRENARD BenoîtFDJ,stage,<td>103</td>
-SERRY PieterQuick-Step Floors,stage,<td>105</td>
-MEZGEC LukaORICA-Scott,stage,<td>107</td>
-JUUL-JENSEN ChristopherORICA-Scott,stage,<td>109</td>
-TEKLEHAIMANOT DanielTeam Dimension Data,stage,<td>111</td>
-MARCATO MarcoUAE Team Emirates,stage,<td>113</td>
-BENEDETTI CesareBORA - hansgrohe,stage,<td>115</td>
-VAN EMDEN JosTeam LottoNL-Jumbo,stage,<td>117</td>
-ROVNY IvanGazprom-RusVelo,stage,<td>119</td>
-TSATEVICH AlexeyGazprom-RusVelo,stage,<td>121</td>
-SHALUNOV EvgenyGazprom-RusVelo,stage,<td>123</td>
-BELKOV MaximTeam Katusha Alpecin,stage,<td>125</td>
-BÁRTA JanBORA - hansgrohe,stage,<td>127</td>
-GAVIRIA FernandoQuick-Step Floors,stage,<td>129</td>
-BÉRARD JulienAG2R La Mondiale,stage,<td>131</td>
-QUINZIATO ManuelBMC Racing Team,stage,<td>133</td>
-MOHORIČ MatejUAE Team Emirates,stage,<td>135</td>
-PATERSKI MaciejCCC Sprandi Polkowice ,stage,<td>137</td>
-HOFLAND MorenoLotto Soudal,stage,<td>139</td>
-GOŁAŚ MichałTeam Sky,stage,<td>141</td>
-MAESTRI MircoBardiani - CSF,stage,<td>143</td>
-KOZONTCHUK DmitryGazprom-RusVelo,stage,<td>145</td>
-LOSADA AlbertoTeam Katusha Alpecin,stage,<td>147</td>
-VAN ZYL JohannTeam Dimension Data,stage,<td>149</td>
-ROTA LorenzoBardiani - CSF,stage,<td>151</td>
-MARTINELLI DavideQuick-Step Floors,stage,<td>153</td>
-KOSHEVOY IliaWilier Triestina - Selle Italia,stage,<td>155</td>
-LAGUTIN SergeyGazprom-RusVelo,stage,<td>157</td>
-BIAŁOBŁOCKI MarcinCCC Sprandi Polkowice ,stage,<td>159</td>
-FONZI GiuseppeWilier Triestina - Selle Italia,stage,<td>161</td>
-2,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=179769"">325</a></td>"
-10,stage,<td>20</td>
-PÖSTLBERGER LukasBORA - hansgrohe,stage,<td>5</td>
-80,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/kristian-sbaragli"">SBARAGLI Kristian</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-10,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=134347"">70</a></td>"
-,stage,<td></td>
-JUNGELS BobQuick-Step Floors,stage,<td>13</td>
-63,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/vincenzo-nibali"">NIBALI Vincenzo</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-18,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=138908"">58</a></td>"
-,stage,<td></td>
-ROLLAND PierreCannondale-Drapac Pro Cycling Team,stage,<td>21</td>
-42,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/evgeny-shalunov"">SHALUNOV Evgeny</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-26,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=139966"">40</a></td>"
-,stage,<td></td>
-MARCATO MarcoUAE Team Emirates,stage,<td>29</td>
-32,stage,<td></td>
-,stage,"<td><div><span class=""flag si""></span> <a href=""rider/matej-mohoric"">MOHORIČ Matej</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-34,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=137764"">30</a></td>"
-,stage,<td></td>
-WOODS MichaelCannondale-Drapac Pro Cycling Team,stage,<td>37</td>
-22,stage,<td></td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/dries-devenyns"">DEVENYNS Dries</a><span class=""showIfMobile riderteam"">Quick-Step Floors</span></div></td>"
-42,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140024"">20</a></td>"
-,stage,<td></td>
-BERHANE NatnaelTeam Dimension Data,stage,<td>45</td>
-16,stage,<td></td>
-,stage,"<td><div><span class=""flag ru""></span> <a href=""rider/sergey-lagutin"">LAGUTIN Sergey</a><span class=""showIfMobile riderteam"">Gazprom-RusVelo</span></div></td>"
-50,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140813"">14</a></td>"
-,stage,<td></td>
-BARBIN EnricoBardiani - CSF,stage,<td>53</td>
-12,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/valerio-conti"">CONTI Valerio</a><span class=""showIfMobile riderteam"">UAE Team Emirates</span></div></td>"
-58,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140231"">11</a></td>"
-,stage,<td></td>
-SERRY PieterQuick-Step Floors,stage,<td>61</td>
-10,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/matthieu-ladagnous"">LADAGNOUS Matthieu</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-66,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140546"">9</a></td>"
-,stage,<td></td>
-SUTHERLAND RoryMovistar Team,stage,<td>69</td>
-7,stage,<td></td>
-,stage,"<td><div><span class=""flag us""></span> <a href=""rider/joey-rosskopf"">ROSSKOPF Joey</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-74,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=141131"">7</a></td>"
-,stage,<td></td>
-KONRAD PatrickBORA - hansgrohe,stage,<td>77</td>
-6,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/matteo-montaguti"">MONTAGUTI Matteo</a><span class=""showIfMobile riderteam"">AG2R La Mondiale</span></div></td>"
-82,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140576"">6</a></td>"
-,stage,<td></td>
-BUSATO MatteoWilier Triestina - Selle Italia,stage,<td>85</td>
-4,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/davide-villella"">VILLELLA Davide</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-90,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140101"">4</a></td>"
-,stage,<td></td>
-PELLIZOTTI FrancoBahrain Merida Pro Cycling Team,stage,<td>93</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/rudy-molard"">MOLARD Rudy</a><span class=""showIfMobile riderteam"">FDJ</span></div></td>"
-98,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140670"">2</a></td>"
-,stage,<td></td>
-MARTINELLI DavideQuick-Step Floors,stage,<td>101</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag fr""></span> <a href=""rider/julien-bernard"">BERNARD Julien</a><span class=""showIfMobile riderteam"">Trek - Segafredo</span></div></td>"
-106,stage,"<td><a href=""race.php?id=171046&amp;p=stages&amp;s=points-breakdown-per-stage&amp;rider=140401"">1</a></td>"
-,stage,<td></td>
-BOEM NicolaBardiani - CSF,stage,<td>109</td>
-224,stage,<td>80</td>
-20,stage,"<td><div><span class=""flag es""></span> <a href=""rider/omar-fraile"">FRAILE Omar</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-5,stage,<td>70</td>
-,stage,<td></td>
-DUMOULIN TomTeam Sunweb,stage,<td>8</td>
-54,stage,<td></td>
-,stage,"<td><div><span class=""flag it""></span> <a href=""rider/diego-rosa"">ROSA Diego</a><span class=""showIfMobile riderteam"">Team Sky</span></div></td>"
-13,stage,<td>46</td>
-,stage,<td></td>
-COSTA RuiUAE Team Emirates,stage,<td>16</td>
-30,stage,<td></td>
-,stage,"<td><div><span class=""flag er""></span> <a href=""rider/daniel-teklehaimanot"">TEKLEHAIMANOT Daniel</a><span class=""showIfMobile riderteam"">Team Dimension Data</span></div></td>"
-21,stage,<td>24</td>
-,stage,<td></td>
-BERHANE NatnaelTeam Dimension Data,stage,<td>24</td>
-21,stage,<td></td>
-,stage,"<td><div><span class=""flag be""></span> <a href=""rider/dylan-teuns"">TEUNS Dylan</a><span class=""showIfMobile riderteam"">BMC Racing Team</span></div></td>"
-29,stage,<td>18</td>
-,stage,<td></td>
-ANDREETTA SimoneBardiani - CSF,stage,<td>32</td>
-15,stage,<td></td>
-,stage,"<td><div><span class=""flag nl""></span> <a href=""rider/tom-jelte-slagter"">SLAGTER Tom-Jelte</a><span class=""showIfMobile riderteam"">Cannondale-Drapac Pro Cycling Team</span></div></td>"
-37,stage,<td>12</td>
-,stage,<td></td>
-BENEDETTI CesareBORA - hansgrohe,stage,<td>40</td>
-9,stage,<td></td>
-,stage,"<td><div><span class=""flag at""></span> <a href=""rider/lukas-postlberger"">PÖSTLBERGER Lukas</a><span class=""showIfMobile riderteam"">BORA - hansgrohe</span></div></td>"
-45,stage,<td>7</td>
-,stage,<td></td>
-JUNGELS BobQuick-Step Floors,stage,<td>48</td>
-5,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/ruben-plaza"">PLAZA Rubén</a><span class=""showIfMobile riderteam"">ORICA-Scott</span></div></td>"
-53,stage,<td>4</td>
-,stage,<td></td>
-TRATNIK JanCCC Sprandi Polkowice ,stage,<td>56</td>
-3,stage,<td></td>
-,stage,"<td><div><span class=""flag es""></span> <a href=""rider/jose-joaquin-rojas"">ROJAS José Joaquín</a><span class=""showIfMobile riderteam"">Movistar Team</span></div></td>"
-61,stage,<td>2</td>
-,stage,<td></td>
-DUPONT HubertAG2R La Mondiale,stage,<td>64</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag by""></span> <a href=""rider/kanstantsin-siutsou"">SIUTSOU Kanstantsin</a><span class=""showIfMobile riderteam"">Bahrain Merida Pro Cycling Team</span></div></td>"
-69,stage,<td>1</td>
-,stage,<td></td>
-BARBIN EnricoBardiani - CSF,stage,<td>72</td>
-1,stage,<td></td>
-,stage,"<td><div><span class=""flag pl""></span> <a href=""rider/marcin-bialoblocki"">BIAŁOBŁOCKI Marcin</a><span class=""showIfMobile riderteam"">CCC Sprandi Polkowice </span></div></td>"
-FORMOLO DavideCannondale-Drapac Pro Cycling Team,stage,<td>3</td>
-HENAO SebastiánTeam Sky,stage,<td>7</td>
-BERNARD JulienTrek - Segafredo,stage,<td>11</td>
-CONTI ValerioUAE Team Emirates,stage,<td>15</td>
-RAVASI EdwardUAE Team Emirates,stage,<td>19</td>
-CARTHY HughCannondale-Drapac Pro Cycling Team,stage,<td>23</td>
-PIBERNIK LukaBahrain Merida Pro Cycling Team,stage,<td>27</td>
-GAVIRIA FernandoQuick-Step Floors,stage,<td>31</td>
-MARTINELLI DavideQuick-Step Floors,stage,<td>35</td>
-WT,stage,"<td><span class=""flag fr""></span> <a href=""team/ag2r-la-mondiale-2017"">AG2R La Mondiale</a></td>"
-Cannondale-Drapac Pro Cycling Team,stage,<td>5</td>
-8,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag de""></span> <a href=""team/team-sunweb-2017"">Team Sunweb</a></td>"
-Team Katusha Alpecin,stage,<td>13</td>
-16,stage,<td>WT</td>
-WT,stage,"<td><span class=""flag za""></span> <a href=""team/dimension-data-2017"">Team Dimension Data</a></td>"
-Gazprom-RusVelo,stage,<td>21</td>
+0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
