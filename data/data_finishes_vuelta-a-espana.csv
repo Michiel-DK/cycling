@@ -50,7 +50,6 @@ Taaramäe Rein,0.1,2017,vuelta-a-espana
 Poels Wout,0.2,2017,vuelta-a-espana
 Ventoso Francisco José,0.3,2017,vuelta-a-espana
 Kreder Michel,0.2,2017,vuelta-a-espana
-Lobato Juan José,0.1,2017,vuelta-a-espana
 Debusschere Jens,0.1,2017,vuelta-a-espana
 Caruso Damiano,0.2,2017,vuelta-a-espana
 Le Bon Johan,0.1,2017,vuelta-a-espana
@@ -58,6 +57,7 @@ Fraile Omar,0.2,2017,vuelta-a-espana
 Pauwels Serge,0.2,2017,vuelta-a-espana
 Rossetto Stéphane,0.1,2017,vuelta-a-espana
 Pozzovivo Domenico,0.2,2017,vuelta-a-espana
+Lobato Juan José,0.1,2017,vuelta-a-espana
 Verona Carlos,0.2,2017,vuelta-a-espana
 Kudus Merhawi,0.2,2017,vuelta-a-espana
 Villella Davide,0.2,2017,vuelta-a-espana
@@ -143,19 +143,21 @@ Clarke Simon,0.36363636363636365,2018,vuelta-a-espana
 Dupont Hubert,0.45454545454545453,2018,vuelta-a-espana
 Martin Dan,0.2727272727272727,2018,vuelta-a-espana
 Bennett George,0.2727272727272727,2018,vuelta-a-espana
+Ventoso Francisco José,0.36363636363636365,2018,vuelta-a-espana
 Meintjes Louis,0.36363636363636365,2018,vuelta-a-espana
 Docker Mitchell,0.2727272727272727,2018,vuelta-a-espana
 Cherel Mikaël,0.36363636363636365,2018,vuelta-a-espana
-Ventoso Francisco José,0.36363636363636365,2018,vuelta-a-espana
+de la Cruz David,0.09090909090909091,2018,vuelta-a-espana
 Puccio Salvatore,0.2727272727272727,2018,vuelta-a-espana
 Mas Lluís,0.18181818181818182,2018,vuelta-a-espana
 Serry Pieter,0.2727272727272727,2018,vuelta-a-espana
 Bilbao Pello,0.36363636363636365,2018,vuelta-a-espana
-de la Cruz David,0.09090909090909091,2018,vuelta-a-espana
 Pardilla Sergio,0.2727272727272727,2018,vuelta-a-espana
 Quintana Nairo,0.2727272727272727,2018,vuelta-a-espana
 Urán Rigoberto,0.2727272727272727,2018,vuelta-a-espana
 Machado Tiago,0.36363636363636365,2018,vuelta-a-espana
+Lindeman Bert-Jan,0.2727272727272727,2018,vuelta-a-espana
+Henao Sergio,0.2727272727272727,2018,vuelta-a-espana
 Sagan Peter,0.09090909090909091,2018,vuelta-a-espana
 Brambilla Gianluca,0.18181818181818182,2018,vuelta-a-espana
 Armée Sander,0.2727272727272727,2018,vuelta-a-espana
@@ -163,8 +165,7 @@ Van der Sande Tosh,0.2727272727272727,2018,vuelta-a-espana
 Bouhanni Nacer,0.0,2018,vuelta-a-espana
 Rossetto Stéphane,0.18181818181818182,2018,vuelta-a-espana
 Fraile Omar,0.18181818181818182,2018,vuelta-a-espana
-Lindeman Bert-Jan,0.2727272727272727,2018,vuelta-a-espana
-Henao Sergio,0.2727272727272727,2018,vuelta-a-espana
+Castroviejo Jonathan,0.2727272727272727,2018,vuelta-a-espana
 Mollema Bauke,0.2727272727272727,2018,vuelta-a-espana
 Conti Valerio,0.2727272727272727,2018,vuelta-a-espana
 Anacona Winner,0.2727272727272727,2018,vuelta-a-espana
@@ -172,12 +173,11 @@ Oliveira Nelson,0.2727272727272727,2018,vuelta-a-espana
 Kudus Merhawi,0.18181818181818182,2018,vuelta-a-espana
 Gonçalves José,0.09090909090909091,2018,vuelta-a-espana
 Kruijswijk Steven,0.18181818181818182,2018,vuelta-a-espana
-Castroviejo Jonathan,0.2727272727272727,2018,vuelta-a-espana
+De Marchi Alessandro,0.2727272727272727,2018,vuelta-a-espana
 Herrada José,0.2727272727272727,2018,vuelta-a-espana
 King Ben,0.18181818181818182,2018,vuelta-a-espana
 Rolland Pierre,0.18181818181818182,2018,vuelta-a-espana
 Villella Davide,0.2727272727272727,2018,vuelta-a-espana
-De Marchi Alessandro,0.2727272727272727,2018,vuelta-a-espana
 Aru Fabio,0.2727272727272727,2018,vuelta-a-espana
 Sabatini Fabio,0.2727272727272727,2018,vuelta-a-espana
 Pellizotti Franco,0.2727272727272727,2018,vuelta-a-espana
@@ -187,11 +187,11 @@ Mørkøv Michael,0.18181818181818182,2018,vuelta-a-espana
 Langeveld Sebastian,0.18181818181818182,2018,vuelta-a-espana
 Gougeard Alexis,0.18181818181818182,2018,vuelta-a-espana
 Kochetkov Pavel,0.18181818181818182,2018,vuelta-a-espana
+Dennis Rohan,0.09090909090909091,2018,vuelta-a-espana
 Kelderman Wilco,0.18181818181818182,2018,vuelta-a-espana
 Pinot Thibaut,0.09090909090909091,2018,vuelta-a-espana
 Albasini Michael,0.09090909090909091,2018,vuelta-a-espana
 Van Asbroeck Tom,0.18181818181818182,2018,vuelta-a-espana
-Dennis Rohan,0.09090909090909091,2018,vuelta-a-espana
 Burghardt Marcus,0.09090909090909091,2018,vuelta-a-espana
 Schwarzmann Michael,0.18181818181818182,2018,vuelta-a-espana
 Felline Fabio,0.18181818181818182,2018,vuelta-a-espana
@@ -217,6 +217,7 @@ Izagirre Gorka,0.09090909090909091,2018,vuelta-a-espana
 Duval Julien,0.09090909090909091,2018,vuelta-a-espana
 Woods Michael,0.09090909090909091,2018,vuelta-a-espana
 Porte Richie,0.09090909090909091,2018,vuelta-a-espana
+Leezer Tom,0.09090909090909091,2018,vuelta-a-espana
 Formolo Davide,0.09090909090909091,2018,vuelta-a-espana
 Preidler Georg,0.09090909090909091,2018,vuelta-a-espana
 Bol Jetse,0.09090909090909091,2018,vuelta-a-espana
@@ -225,14 +226,16 @@ Trentin Matteo,0.09090909090909091,2018,vuelta-a-espana
 Sáez Héctor,0.09090909090909091,2018,vuelta-a-espana
 Mas Enric,0.09090909090909091,2018,vuelta-a-espana
 García Cortina Iván,0.09090909090909091,2018,vuelta-a-espana
-Leezer Tom,0.09090909090909091,2018,vuelta-a-espana
+De Tier Floris,0.09090909090909091,2018,vuelta-a-espana
+Teuns Dylan,0.09090909090909091,2018,vuelta-a-espana
 Teunissen Mike,0.09090909090909091,2018,vuelta-a-espana
 Mezgec Luka,0.09090909090909091,2018,vuelta-a-espana
 Prades Eduard,0.09090909090909091,2018,vuelta-a-espana
 Devenyns Dries,0.09090909090909091,2018,vuelta-a-espana
 Restrepo Jhonatan,0.09090909090909091,2018,vuelta-a-espana
-De Tier Floris,0.09090909090909091,2018,vuelta-a-espana
-Teuns Dylan,0.09090909090909091,2018,vuelta-a-espana
+Bookwalter Brent,0.09090909090909091,2018,vuelta-a-espana
+van Poppel Danny,0.09090909090909091,2018,vuelta-a-espana
+Rosskopf Joey,0.09090909090909091,2018,vuelta-a-espana
 Kwiatkowski Michał,0.0,2018,vuelta-a-espana
 Buchmann Emanuel,0.09090909090909091,2018,vuelta-a-espana
 McCarthy Jay,0.09090909090909091,2018,vuelta-a-espana
@@ -245,9 +248,6 @@ Viviani Elia,0.09090909090909091,2018,vuelta-a-espana
 Gallopin Tony,0.09090909090909091,2018,vuelta-a-espana
 Zakarin Ilnur,0.09090909090909091,2018,vuelta-a-espana
 Stalnov Nikita,0.09090909090909091,2018,vuelta-a-espana
-Bookwalter Brent,0.09090909090909091,2018,vuelta-a-espana
-van Poppel Danny,0.09090909090909091,2018,vuelta-a-espana
-Rosskopf Joey,0.09090909090909091,2018,vuelta-a-espana
 Valverde Alejandro,0.9166666666666666,2019,vuelta-a-espana
 Erviti Imanol,0.9166666666666666,2019,vuelta-a-espana
 Sánchez Luis León,0.5833333333333334,2019,vuelta-a-espana
@@ -255,10 +255,14 @@ Roche Nicolas,0.6666666666666666,2019,vuelta-a-espana
 Cataldo Dario,0.5833333333333334,2019,vuelta-a-espana
 Gilbert Philippe,0.4166666666666667,2019,vuelta-a-espana
 Maté Luis Ángel,0.5833333333333334,2019,vuelta-a-espana
+Delage Mickaël,0.3333333333333333,2019,vuelta-a-espana
 Nieve Mikel,0.5,2019,vuelta-a-espana
 Majka Rafał,0.4166666666666667,2019,vuelta-a-espana
 De Gendt Thomas,0.3333333333333333,2019,vuelta-a-espana
-Delage Mickaël,0.3333333333333333,2019,vuelta-a-espana
+Bennett George,0.3333333333333333,2019,vuelta-a-espana
+Quintana Nairo,0.3333333333333333,2019,vuelta-a-espana
+Degenkolb John,0.3333333333333333,2019,vuelta-a-espana
+Ventoso Francisco José,0.4166666666666667,2019,vuelta-a-espana
 de la Cruz David,0.16666666666666666,2019,vuelta-a-espana
 Puccio Salvatore,0.3333333333333333,2019,vuelta-a-espana
 Navarro Daniel,0.4166666666666667,2019,vuelta-a-espana
@@ -269,30 +273,29 @@ Gesink Robert,0.3333333333333333,2019,vuelta-a-espana
 Pardilla Sergio,0.3333333333333333,2019,vuelta-a-espana
 Docker Mitchell,0.3333333333333333,2019,vuelta-a-espana
 Meintjes Louis,0.4166666666666667,2019,vuelta-a-espana
-Bennett George,0.3333333333333333,2019,vuelta-a-espana
-Quintana Nairo,0.3333333333333333,2019,vuelta-a-espana
-Degenkolb John,0.3333333333333333,2019,vuelta-a-espana
-Ventoso Francisco José,0.4166666666666667,2019,vuelta-a-espana
+Rojas José Joaquín,0.16666666666666666,2019,vuelta-a-espana
+Aru Fabio,0.3333333333333333,2019,vuelta-a-espana
+Van der Sande Tosh,0.3333333333333333,2019,vuelta-a-espana
+King Ben,0.25,2019,vuelta-a-espana
 Stannard Ian,0.25,2019,vuelta-a-espana
 Kruijswijk Steven,0.25,2019,vuelta-a-espana
 Brambilla Gianluca,0.25,2019,vuelta-a-espana
 Herrada José,0.3333333333333333,2019,vuelta-a-espana
 Bewley Sam,0.25,2019,vuelta-a-espana
-Poels Wout,0.25,2019,vuelta-a-espana
 Oliveira Nelson,0.3333333333333333,2019,vuelta-a-espana
 Fraile Omar,0.25,2019,vuelta-a-espana
 Henao Sergio,0.3333333333333333,2019,vuelta-a-espana
 van Garderen Tejay,0.16666666666666666,2019,vuelta-a-espana
 Armée Sander,0.3333333333333333,2019,vuelta-a-espana
 Chaves Esteban,0.3333333333333333,2019,vuelta-a-espana
+Poels Wout,0.25,2019,vuelta-a-espana
 Martin Tony,0.0,2019,vuelta-a-espana
 Haussler Heinrich,0.25,2019,vuelta-a-espana
 Conti Valerio,0.3333333333333333,2019,vuelta-a-espana
 Rossetto Stéphane,0.25,2019,vuelta-a-espana
-King Ben,0.25,2019,vuelta-a-espana
-Rojas José Joaquín,0.16666666666666666,2019,vuelta-a-espana
-Aru Fabio,0.3333333333333333,2019,vuelta-a-espana
-Van der Sande Tosh,0.3333333333333333,2019,vuelta-a-espana
+Kochetkov Pavel,0.25,2019,vuelta-a-espana
+Richeze Maximiliano,0.25,2019,vuelta-a-espana
+Atapuma Darwin,0.25,2019,vuelta-a-espana
 López Miguel Ángel,0.16666666666666666,2019,vuelta-a-espana
 Fuglsang Jakob,0.25,2019,vuelta-a-espana
 Morabito Steve,0.16666666666666666,2019,vuelta-a-espana
@@ -300,14 +303,20 @@ Marczyński Tomasz,0.16666666666666666,2019,vuelta-a-espana
 Arndt Nikias,0.25,2019,vuelta-a-espana
 Madrazo Ángel,0.08333333333333333,2019,vuelta-a-espana
 Ludvigsson Tobias,0.25,2019,vuelta-a-espana
-Venter Jaco,0.25,2019,vuelta-a-espana
 Kelderman Wilco,0.25,2019,vuelta-a-espana
 Štybar Zdeněk,0.16666666666666666,2019,vuelta-a-espana
 Wallays Jelle,0.25,2019,vuelta-a-espana
 Howson Damien,0.25,2019,vuelta-a-espana
-Kochetkov Pavel,0.25,2019,vuelta-a-espana
-Richeze Maximiliano,0.25,2019,vuelta-a-espana
-Atapuma Darwin,0.25,2019,vuelta-a-espana
+Venter Jaco,0.25,2019,vuelta-a-espana
+Chevrier Clément,0.16666666666666666,2019,vuelta-a-espana
+Boaro Manuele,0.16666666666666666,2019,vuelta-a-espana
+Izagirre Gorka,0.16666666666666666,2019,vuelta-a-espana
+Arashiro Yukiya,0.16666666666666666,2019,vuelta-a-espana
+Formolo Davide,0.16666666666666666,2019,vuelta-a-espana
+Vilela Ricardo,0.16666666666666666,2019,vuelta-a-espana
+Craddock Lawson,0.08333333333333333,2019,vuelta-a-espana
+Grmay Tsgabu,0.16666666666666666,2019,vuelta-a-espana
+Schultz Nick,0.16666666666666666,2019,vuelta-a-espana
 Drucker Jempy,0.16666666666666666,2019,vuelta-a-espana
 Bol Jetse,0.16666666666666666,2019,vuelta-a-espana
 Rubio Diego,0.16666666666666666,2019,vuelta-a-espana
@@ -320,15 +329,15 @@ Teuns Dylan,0.16666666666666666,2019,vuelta-a-espana
 Sutherland Rory,0.16666666666666666,2019,vuelta-a-espana
 Chernetski Sergei,0.16666666666666666,2019,vuelta-a-espana
 Edet Nicolas,0.08333333333333333,2019,vuelta-a-espana
-Chevrier Clément,0.16666666666666666,2019,vuelta-a-espana
-Boaro Manuele,0.16666666666666666,2019,vuelta-a-espana
-Izagirre Gorka,0.16666666666666666,2019,vuelta-a-espana
-Arashiro Yukiya,0.16666666666666666,2019,vuelta-a-espana
-Formolo Davide,0.16666666666666666,2019,vuelta-a-espana
-Vilela Ricardo,0.16666666666666666,2019,vuelta-a-espana
-Craddock Lawson,0.08333333333333333,2019,vuelta-a-espana
-Grmay Tsgabu,0.16666666666666666,2019,vuelta-a-espana
-Schultz Nick,0.16666666666666666,2019,vuelta-a-espana
+Geoghegan Hart Tao,0.08333333333333333,2019,vuelta-a-espana
+Kuss Sepp,0.08333333333333333,2019,vuelta-a-espana
+Storer Michael,0.08333333333333333,2019,vuelta-a-espana
+Pibernik Luka,0.08333333333333333,2019,vuelta-a-espana
+Molano Juan Sebastián,0.08333333333333333,2019,vuelta-a-espana
+Cabedo Óscar,0.08333333333333333,2019,vuelta-a-espana
+Lastra Jonathan,0.08333333333333333,2019,vuelta-a-espana
+Thomas Benjamin,0.08333333333333333,2019,vuelta-a-espana
+Bizkarra Mikel,0.08333333333333333,2019,vuelta-a-espana
 Arcas Jorge,0.0,2019,vuelta-a-espana
 Pedrero Antonio,0.08333333333333333,2019,vuelta-a-espana
 Bidard François,0.08333333333333333,2019,vuelta-a-espana
@@ -364,15 +373,6 @@ Mühlberger Gregor,0.08333333333333333,2019,vuelta-a-espana
 Cubero Jorge,0.08333333333333333,2019,vuelta-a-espana
 Frankiny Kilian,0.0,2019,vuelta-a-espana
 Iturria Mikel,0.08333333333333333,2019,vuelta-a-espana
-Geoghegan Hart Tao,0.08333333333333333,2019,vuelta-a-espana
-Kuss Sepp,0.08333333333333333,2019,vuelta-a-espana
-Storer Michael,0.08333333333333333,2019,vuelta-a-espana
-Pibernik Luka,0.08333333333333333,2019,vuelta-a-espana
-Molano Juan Sebastián,0.08333333333333333,2019,vuelta-a-espana
-Cabedo Óscar,0.08333333333333333,2019,vuelta-a-espana
-Lastra Jonathan,0.08333333333333333,2019,vuelta-a-espana
-Thomas Benjamin,0.08333333333333333,2019,vuelta-a-espana
-Bizkarra Mikel,0.08333333333333333,2019,vuelta-a-espana
 Valverde Alejandro,0.9230769230769231,2020,vuelta-a-espana
 Erviti Imanol,0.9230769230769231,2020,vuelta-a-espana
 Sánchez Luis León,0.6153846153846154,2020,vuelta-a-espana
@@ -381,9 +381,9 @@ Delage Mickaël,0.3076923076923077,2020,vuelta-a-espana
 Nieve Mikel,0.5384615384615384,2020,vuelta-a-espana
 Terpstra Niki,0.38461538461538464,2020,vuelta-a-espana
 Bennett George,0.38461538461538464,2020,vuelta-a-espana
+de Kort Koen,0.38461538461538464,2020,vuelta-a-espana
 Docker Mitchell,0.38461538461538464,2020,vuelta-a-espana
 de la Cruz David,0.23076923076923078,2020,vuelta-a-espana
-de Kort Koen,0.38461538461538464,2020,vuelta-a-espana
 Froome Chris,0.38461538461538464,2020,vuelta-a-espana
 Gesink Robert,0.38461538461538464,2020,vuelta-a-espana
 Martin Dan,0.23076923076923078,2020,vuelta-a-espana
@@ -393,10 +393,10 @@ Chaves Esteban,0.38461538461538464,2020,vuelta-a-espana
 Poels Wout,0.3076923076923077,2020,vuelta-a-espana
 Van der Sande Tosh,0.38461538461538464,2020,vuelta-a-espana
 Herrada José,0.38461538461538464,2020,vuelta-a-espana
+Henao Sergio,0.38461538461538464,2020,vuelta-a-espana
 Rojas José Joaquín,0.23076923076923078,2020,vuelta-a-espana
 Fraile Omar,0.3076923076923077,2020,vuelta-a-espana
 van Garderen Tejay,0.15384615384615385,2020,vuelta-a-espana
-Henao Sergio,0.38461538461538464,2020,vuelta-a-espana
 Oliveira Nelson,0.38461538461538464,2020,vuelta-a-espana
 Madrazo Ángel,0.15384615384615385,2020,vuelta-a-espana
 Gasparotto Enrico,0.23076923076923078,2020,vuelta-a-espana
@@ -439,12 +439,12 @@ McCarthy Jay,0.15384615384615385,2020,vuelta-a-espana
 Jauregui Quentin,0.15384615384615385,2020,vuelta-a-espana
 Hofstede Lennard,0.07692307692307693,2020,vuelta-a-espana
 Cattaneo Mattia,0.07692307692307693,2020,vuelta-a-espana
+Berhane Natnael,0.15384615384615385,2020,vuelta-a-espana
 Arcas Jorge,0.07692307692307693,2020,vuelta-a-espana
 Aranburu Alex,0.15384615384615385,2020,vuelta-a-espana
 Aberasturi Jon,0.15384615384615385,2020,vuelta-a-espana
 Carthy Hugh,0.07692307692307693,2020,vuelta-a-espana
 Mohorič Matej,0.07692307692307693,2020,vuelta-a-espana
-Berhane Natnael,0.15384615384615385,2020,vuelta-a-espana
 Ezquerra Jesús,0.15384615384615385,2020,vuelta-a-espana
 Lastra Jonathan,0.15384615384615385,2020,vuelta-a-espana
 Gołaś Michał,0.07692307692307693,2020,vuelta-a-espana
@@ -522,6 +522,8 @@ Bol Jetse,0.2857142857142857,2021,vuelta-a-espana
 Taaramäe Rein,0.14285714285714285,2021,vuelta-a-espana
 López Miguel Ángel,0.21428571428571427,2021,vuelta-a-espana
 Verona Carlos,0.2857142857142857,2021,vuelta-a-espana
+Cort Magnus,0.21428571428571427,2021,vuelta-a-espana
+Lobato Juan José,0.14285714285714285,2021,vuelta-a-espana
 Carapaz Richard,0.21428571428571427,2021,vuelta-a-espana
 Hofstede Lennard,0.14285714285714285,2021,vuelta-a-espana
 Yates Adam,0.21428571428571427,2021,vuelta-a-espana
@@ -530,8 +532,6 @@ Mezgec Luka,0.14285714285714285,2021,vuelta-a-espana
 Arashiro Yukiya,0.21428571428571427,2021,vuelta-a-espana
 Haga Chad,0.21428571428571427,2021,vuelta-a-espana
 Dombrowski Joe,0.21428571428571427,2021,vuelta-a-espana
-Cort Magnus,0.21428571428571427,2021,vuelta-a-espana
-Lobato Juan José,0.14285714285714285,2021,vuelta-a-espana
 Mas Enric,0.21428571428571427,2021,vuelta-a-espana
 Cabedo Óscar,0.21428571428571427,2021,vuelta-a-espana
 Aberasturi Jon,0.21428571428571427,2021,vuelta-a-espana
@@ -550,6 +550,8 @@ Carthy Hugh,0.14285714285714285,2021,vuelta-a-espana
 De Tier Floris,0.14285714285714285,2021,vuelta-a-espana
 Padun Mark,0.07142857142857142,2021,vuelta-a-espana
 Barceló Fernando,0.07142857142857142,2021,vuelta-a-espana
+Iturria Mikel,0.14285714285714285,2021,vuelta-a-espana
+Le Gac Olivier,0.14285714285714285,2021,vuelta-a-espana
 Sinkeldam Ramon,0.07142857142857142,2021,vuelta-a-espana
 van Baarle Dylan,0.07142857142857142,2021,vuelta-a-espana
 Hirt Jan,0.14285714285714285,2021,vuelta-a-espana
@@ -558,15 +560,13 @@ Tusveld Martijn,0.14285714285714285,2021,vuelta-a-espana
 Janse van Rensburg Reinardt,0.14285714285714285,2021,vuelta-a-espana
 Molano Juan Sebastián,0.14285714285714285,2021,vuelta-a-espana
 Keukeleire Jens,0.14285714285714285,2021,vuelta-a-espana
-Iturria Mikel,0.14285714285714285,2021,vuelta-a-espana
-Le Gac Olivier,0.14285714285714285,2021,vuelta-a-espana
+Bizkarra Mikel,0.14285714285714285,2021,vuelta-a-espana
+Guarnieri Jacopo,0.14285714285714285,2021,vuelta-a-espana
 Bouwman Koen,0.14285714285714285,2021,vuelta-a-espana
 Eiking Odd Christian,0.07142857142857142,2021,vuelta-a-espana
 Matthews Michael,0.14285714285714285,2021,vuelta-a-espana
 Großschartner Felix,0.14285714285714285,2021,vuelta-a-espana
 Trentin Matteo,0.14285714285714285,2021,vuelta-a-espana
-Bizkarra Mikel,0.14285714285714285,2021,vuelta-a-espana
-Guarnieri Jacopo,0.14285714285714285,2021,vuelta-a-espana
 Roglič Primož,0.14285714285714285,2021,vuelta-a-espana
 Rodríguez Óscar,0.14285714285714285,2021,vuelta-a-espana
 Herrada Jesús,0.07142857142857142,2021,vuelta-a-espana
@@ -600,6 +600,7 @@ Philipsen Jasper,0.07142857142857142,2021,vuelta-a-espana
 Arensman Thymen,0.07142857142857142,2021,vuelta-a-espana
 Cepeda Jefferson Alveiro,0.07142857142857142,2021,vuelta-a-espana
 Knox James,0.07142857142857142,2021,vuelta-a-espana
+Scully Tom,0.07142857142857142,2021,vuelta-a-espana
 Bouchard Geoffrey,0.07142857142857142,2021,vuelta-a-espana
 Dewulf Stan,0.07142857142857142,2021,vuelta-a-espana
 Cras Steff,0.07142857142857142,2021,vuelta-a-espana
@@ -610,4 +611,69 @@ Nibali Antonio,0.07142857142857142,2021,vuelta-a-espana
 Gibbons Ryan,0.07142857142857142,2021,vuelta-a-espana
 Bagioli Andrea,0.0,2021,vuelta-a-espana
 Polanc Jan,0.07142857142857142,2021,vuelta-a-espana
-Scully Tom,0.07142857142857142,2021,vuelta-a-espana
+Valverde Alejandro,0.8666666666666667,2022,vuelta-a-espana
+Gesink Robert,0.4666666666666667,2022,vuelta-a-espana
+de la Cruz David,0.3333333333333333,2022,vuelta-a-espana
+Majka Rafał,0.4666666666666667,2022,vuelta-a-espana
+Poels Wout,0.4,2022,vuelta-a-espana
+Meintjes Louis,0.4,2022,vuelta-a-espana
+Froome Chris,0.4,2022,vuelta-a-espana
+De Gendt Thomas,0.3333333333333333,2022,vuelta-a-espana
+Kruijswijk Steven,0.26666666666666666,2022,vuelta-a-espana
+Nibali Vincenzo,0.3333333333333333,2022,vuelta-a-espana
+Quintana Nairo,0.3333333333333333,2022,vuelta-a-espana
+Armée Sander,0.3333333333333333,2022,vuelta-a-espana
+Chaves Esteban,0.4,2022,vuelta-a-espana
+Verona Carlos,0.26666666666666666,2022,vuelta-a-espana
+Landa Mikel,0.26666666666666666,2022,vuelta-a-espana
+Bilbao Pello,0.3333333333333333,2022,vuelta-a-espana
+Wallays Jelle,0.26666666666666666,2022,vuelta-a-espana
+De Marchi Alessandro,0.26666666666666666,2022,vuelta-a-espana
+Haig Jack,0.26666666666666666,2022,vuelta-a-espana
+Kelderman Wilco,0.26666666666666666,2022,vuelta-a-espana
+Mas Enric,0.26666666666666666,2022,vuelta-a-espana
+Kuss Sepp,0.26666666666666666,2022,vuelta-a-espana
+Arndt Nikias,0.26666666666666666,2022,vuelta-a-espana
+Warbasse Larry,0.2,2022,vuelta-a-espana
+Izagirre Ion,0.26666666666666666,2022,vuelta-a-espana
+Carapaz Richard,0.2,2022,vuelta-a-espana
+Bakelants Jan,0.26666666666666666,2022,vuelta-a-espana
+Hirt Jan,0.2,2022,vuelta-a-espana
+Soler Marc,0.2,2022,vuelta-a-espana
+Roglič Primož,0.2,2022,vuelta-a-espana
+De Tier Floris,0.2,2022,vuelta-a-espana
+Pozzovivo Domenico,0.13333333333333333,2022,vuelta-a-espana
+Dennis Rohan,0.06666666666666667,2022,vuelta-a-espana
+Tusveld Martijn,0.2,2022,vuelta-a-espana
+van Baarle Dylan,0.06666666666666667,2022,vuelta-a-espana
+Cras Steff,0.13333333333333333,2022,vuelta-a-espana
+Bidard François,0.13333333333333333,2022,vuelta-a-espana
+Mäder Gino,0.13333333333333333,2022,vuelta-a-espana
+Pellaud Simon,0.13333333333333333,2022,vuelta-a-espana
+Kwiatkowski Michał,0.06666666666666667,2022,vuelta-a-espana
+Campenaerts Victor,0.13333333333333333,2022,vuelta-a-espana
+Sivakov Pavel,0.06666666666666667,2022,vuelta-a-espana
+Buchmann Emanuel,0.13333333333333333,2022,vuelta-a-espana
+Teunissen Mike,0.13333333333333333,2022,vuelta-a-espana
+Hermans Ben,0.13333333333333333,2022,vuelta-a-espana
+Vanhoucke Harm,0.13333333333333333,2022,vuelta-a-espana
+Ghebreigzabhier Amanuel,0.06666666666666667,2022,vuelta-a-espana
+Champoussin Clément,0.13333333333333333,2022,vuelta-a-espana
+López Juan Pedro,0.13333333333333333,2022,vuelta-a-espana
+Peters Nans,0.13333333333333333,2022,vuelta-a-espana
+Higuita Sergio,0.06666666666666667,2022,vuelta-a-espana
+Vine Jay,0.06666666666666667,2022,vuelta-a-espana
+Hamilton Lucas,0.06666666666666667,2022,vuelta-a-espana
+Van Wilder Ilan,0.0,2022,vuelta-a-espana
+Vervaeke Louis,0.06666666666666667,2022,vuelta-a-espana
+Ackermann Pascal,0.06666666666666667,2022,vuelta-a-espana
+O'Connor Ben,0.06666666666666667,2022,vuelta-a-espana
+Thijssen Gerben,0.0,2022,vuelta-a-espana
+Palzer Anton,0.06666666666666667,2022,vuelta-a-espana
+Fabbro Matteo,0.06666666666666667,2022,vuelta-a-espana
+Meeus Jordi,0.06666666666666667,2022,vuelta-a-espana
+De Plus Laurens,0.0,2022,vuelta-a-espana
+Hindley Jai,0.06666666666666667,2022,vuelta-a-espana
+Van Gils Maxim,0.06666666666666667,2022,vuelta-a-espana
+Alaphilippe Julian,0.06666666666666667,2022,vuelta-a-espana
+Pogačar Tadej,0.06666666666666667,2022,vuelta-a-espana

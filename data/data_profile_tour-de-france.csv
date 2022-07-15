@@ -10,9 +10,10 @@ Thomas Geraint,Team Sky,590,13,top-gc-riders,2016
 Mollema Bauke,Trek - Segafredo,535,14,top-gc-riders,2016
 Bardet Romain,AG2R La Mondiale,523,16,top-gc-riders,2016
 Dumoulin Tom,Team Giant - Alpecin,496,17,top-gc-riders,2016
+Henao Sergio,Team Sky,494,18,top-gc-riders,2016
 Nibali Vincenzo,Astana Pro Team,485,19,top-gc-riders,2016
-Izagirre Ion,Movistar Team,468,21,top-gc-riders,2016
 Nieve Mikel,Team Sky,468,20,top-gc-riders,2016
+Izagirre Ion,Movistar Team,468,21,top-gc-riders,2016
 Boasson Hagen Edvald,Team Dimension Data,455,23,top-gc-riders,2016
 Costa Rui,Lampre - Merida,446,25,top-gc-riders,2016
 Dennis Rohan,BMC Racing Team,440,27,top-gc-riders,2016
@@ -46,23 +47,23 @@ Cherel Mikaël,AG2R La Mondiale,174,130,top-gc-riders,2016
 Konrad Patrick,Bora - Argon 18,173,132,top-gc-riders,2016
 Berhane Natnael,Team Dimension Data,169,137,top-gc-riders,2016
 Sánchez Luis León,Astana Pro Team,166,139,top-gc-riders,2016
-Degenkolb John,Team Giant - Alpecin,165,140,top-gc-riders,2016
 Rosa Diego,Astana Pro Team,165,142,top-gc-riders,2016
+Degenkolb John,Team Giant - Alpecin,165,140,top-gc-riders,2016
 van Baarle Dylan,Cannondale-Drapac Pro Cycling Team,161,149,top-gc-riders,2016
 Impey Daryl,ORICA-BikeExchange,159,152,top-gc-riders,2016
 Périchon Pierre-Luc,Fortuneo - Vital Concept,157,156,top-gc-riders,2016
 Grmay Tsgabu,Lampre - Merida,155,162,top-gc-riders,2016
-Naesen Oliver,IAM Cycling,142,179,top-gc-riders,2016
 Hansen Adam,Lotto Soudal,142,180,top-gc-riders,2016
-Bodnar Maciej,Tinkoff,140,182,top-gc-riders,2016
+Naesen Oliver,IAM Cycling,142,179,top-gc-riders,2016
 Theuns Edward,Trek - Segafredo,140,184,top-gc-riders,2016
+Bodnar Maciej,Tinkoff,140,182,top-gc-riders,2016
 Bennett George,Team LottoNL-Jumbo,137,187,top-gc-riders,2016
 Haller Marco,Team Katusha ,130,200,top-gc-riders,2016
 Anacona Winner,Movistar Team,121,211,top-gc-riders,2016
 Reichenbach Sébastien,FDJ,119,217,top-gc-riders,2016
 Durbridge Luke,ORICA-BikeExchange,110,234,top-gc-riders,2016
-Ladagnous Matthieu,FDJ,106,248,top-gc-riders,2016
 Debusschere Jens,Lotto Soudal,106,246,top-gc-riders,2016
+Ladagnous Matthieu,FDJ,106,248,top-gc-riders,2016
 Gautier Cyril,AG2R La Mondiale,100,261,top-gc-riders,2016
 Oliveira Nelson,Movistar Team,100,260,top-gc-riders,2016
 Hollenstein Reto,IAM Cycling,95,275,top-gc-riders,2016
@@ -87,16 +88,18 @@ Stuyven Jasper,Trek - Segafredo,47,483,top-gc-riders,2016
 Richeze Maximiliano,Etixx - Quick Step,45,492,top-gc-riders,2016
 Roosen Timo,Team LottoNL-Jumbo,44,501,top-gc-riders,2016
 Schär Michael,BMC Racing Team,41,524,top-gc-riders,2016
+Koren Kristijan,Cannondale-Drapac Pro Cycling Team,41,521,top-gc-riders,2016
 Keisse Iljo,Etixx - Quick Step,40,533,top-gc-riders,2016
 De Gendt Thomas,Lotto Soudal,40,534,top-gc-riders,2016
-Guarnieri Jacopo,Team Katusha ,35,599,top-gc-riders,2016
 Cimolai Davide,Lampre - Merida,35,600,top-gc-riders,2016
+Guarnieri Jacopo,Team Katusha ,35,599,top-gc-riders,2016
+Matthews Michael,ORICA-BikeExchange,30,673,top-gc-riders,2016
+Teklehaimanot Daniel,Team Dimension Data,30,655,top-gc-riders,2016
 Arashiro Yukiya,Lampre - Merida,30,656,top-gc-riders,2016
 Soupe Geoffrey,"Cofidis, Solutions Crédits",30,642,top-gc-riders,2016
-Matthews Michael,ORICA-BikeExchange,30,673,top-gc-riders,2016
-Lemoine Cyril,"Cofidis, Solutions Crédits",25,741,top-gc-riders,2016
 Roux Anthony,FDJ,25,743,top-gc-riders,2016
 Howes Alex,Cannondale-Drapac Pro Cycling Team,25,740,top-gc-riders,2016
+Lemoine Cyril,"Cofidis, Solutions Crédits",25,741,top-gc-riders,2016
 Langeveld Sebastian,Cannondale-Drapac Pro Cycling Team,24,771,top-gc-riders,2016
 Mørkøv Michael,Team Katusha ,21,799,top-gc-riders,2016
 McLay Daniel,Fortuneo - Vital Concept,18,858,top-gc-riders,2016
@@ -145,8 +148,8 @@ Gallopin Tony,Lotto Soudal,152.8,207,top-sprinters,2016
 Vachon Florian,Fortuneo - Vital Concept,151,210,top-sprinters,2016
 Renshaw Mark,Team Dimension Data,146.2,218,top-sprinters,2016
 Tiralongo Paolo,Astana Pro Team,135.4,236,top-sprinters,2016
-Janse van Rensburg Reinardt,Team Dimension Data,130,255,top-sprinters,2016
 Gène Yohann,Direct Energie,130,252,top-sprinters,2016
+Janse van Rensburg Reinardt,Team Dimension Data,130,255,top-sprinters,2016
 Gatto Oscar,Tinkoff,128,258,top-sprinters,2016
 Nibali Vincenzo,Astana Pro Team,127.2,264,top-sprinters,2016
 Haller Marco,Team Katusha ,127,265,top-sprinters,2016
@@ -174,8 +177,8 @@ van Baarle Dylan,Cannondale-Drapac Pro Cycling Team,76,487,top-sprinters,2016
 Kelderman Wilco,Team LottoNL-Jumbo,71.4,513,top-sprinters,2016
 Božič Borut,"Cofidis, Solutions Crédits",71.2,514,top-sprinters,2016
 Rolland Pierre,Cannondale-Drapac Pro Cycling Team,71,519,top-sprinters,2016
-Geschke Simon,Team Giant - Alpecin,70,525,top-sprinters,2016
 Elmiger Martin,IAM Cycling,70,528,top-sprinters,2016
+Geschke Simon,Team Giant - Alpecin,70,525,top-sprinters,2016
 Martens Paul,Team LottoNL-Jumbo,68,538,top-sprinters,2016
 Costa Rui,Lampre - Merida,66.5,550,top-sprinters,2016
 Howes Alex,Cannondale-Drapac Pro Cycling Team,66,556,top-sprinters,2016
@@ -202,9 +205,9 @@ Pauwels Serge,Team Dimension Data,45,761,top-sprinters,2016
 Ladagnous Matthieu,FDJ,43,785,top-sprinters,2016
 Edet Nicolas,"Cofidis, Solutions Crédits",43,799,top-sprinters,2016
 Izagirre Ion,Movistar Team,43,796,top-sprinters,2016
-Henderson Gregory,Lotto Soudal,42,806,top-sprinters,2016
 Bárta Jan,Bora - Argon 18,42,801,top-sprinters,2016
 Preidler Georg,Team Giant - Alpecin,42,812,top-sprinters,2016
+Henderson Gregory,Lotto Soudal,42,806,top-sprinters,2016
 Martin Tony,Etixx - Quick Step,41,817,top-sprinters,2016
 Chavanel Sylvain,Direct Energie,41,818,top-sprinters,2016
 Grivko Andrey,Astana Pro Team,40,825,top-sprinters,2016
@@ -283,8 +286,8 @@ Lutsenko Alexey,Astana Pro Team,52,213,top-time-trial-riders,2016
 Konrad Patrick,Bora - Argon 18,51,220,top-time-trial-riders,2016
 Sinkeldam Ramon,Team Giant - Alpecin,49,235,top-time-trial-riders,2016
 Stannard Ian,Team Sky,46,243,top-time-trial-riders,2016
-Froome Chris,Team Sky,46,259,top-time-trial-riders,2016
 Sepúlveda Eduardo,Fortuneo - Vital Concept,46,246,top-time-trial-riders,2016
+Froome Chris,Team Sky,46,259,top-time-trial-riders,2016
 Theuns Edward,Trek - Segafredo,45,263,top-time-trial-riders,2016
 Vermote Julien,Etixx - Quick Step,45,264,top-time-trial-riders,2016
 Mollema Bauke,Trek - Segafredo,44,271,top-time-trial-riders,2016
@@ -377,8 +380,8 @@ Rowe Luke,Team Sky,177,103,best-classic-riders,2016
 Stannard Ian,Team Sky,173,107,best-classic-riders,2016
 Laporte Christophe,"Cofidis, Solutions Crédits",172,108,best-classic-riders,2016
 Cavendish Mark,Team Dimension Data,170,109,best-classic-riders,2016
-Elmiger Martin,IAM Cycling,165,115,best-classic-riders,2016
 Sepúlveda Eduardo,Fortuneo - Vital Concept,165,113,best-classic-riders,2016
+Elmiger Martin,IAM Cycling,165,115,best-classic-riders,2016
 Delaplace Anthony,Fortuneo - Vital Concept,164,118,best-classic-riders,2016
 Meintjes Louis,Lampre - Merida,161,120,best-classic-riders,2016
 Lutsenko Alexey,Astana Pro Team,156,124,best-classic-riders,2016
@@ -394,15 +397,15 @@ Polanc Jan,Lampre - Merida,131,149,best-classic-riders,2016
 Boasson Hagen Edvald,Team Dimension Data,126,150,best-classic-riders,2016
 Božič Borut,"Cofidis, Solutions Crédits",121,162,best-classic-riders,2016
 Haller Marco,Team Katusha ,119,163,best-classic-riders,2016
-Impey Daryl,ORICA-BikeExchange,117,166,best-classic-riders,2016
 Majka Rafał,Tinkoff,117,167,best-classic-riders,2016
+Impey Daryl,ORICA-BikeExchange,117,166,best-classic-riders,2016
 Aru Fabio,Astana Pro Team,115,169,best-classic-riders,2016
 Gerrans Simon,ORICA-BikeExchange,115,170,best-classic-riders,2016
 Cummings Steve,Team Dimension Data,114,171,best-classic-riders,2016
 van Baarle Dylan,Cannondale-Drapac Pro Cycling Team,113,172,best-classic-riders,2016
 Cancellara Fabian,Trek - Segafredo,109,179,best-classic-riders,2016
-Martin Dan,Etixx - Quick Step,106,183,best-classic-riders,2016
 Oliveira Nelson,Movistar Team,106,184,best-classic-riders,2016
+Martin Dan,Etixx - Quick Step,106,183,best-classic-riders,2016
 Vicioso Ángel,Team Katusha ,105,185,best-classic-riders,2016
 Dumoulin Tom,Team Giant - Alpecin,104,186,best-classic-riders,2016
 Martens Paul,Team LottoNL-Jumbo,99,200,best-classic-riders,2016
@@ -411,11 +414,11 @@ Grivko Andrey,Astana Pro Team,96,204,best-classic-riders,2016
 Sánchez Luis León,Astana Pro Team,92,214,best-classic-riders,2016
 Bookwalter Brent,BMC Racing Team,92,213,best-classic-riders,2016
 Tulik Angélo,Direct Energie,91,216,best-classic-riders,2016
-Nieve Mikel,Team Sky,90,220,best-classic-riders,2016
 Geschke Simon,Team Giant - Alpecin,90,221,best-classic-riders,2016
+Nieve Mikel,Team Sky,90,220,best-classic-riders,2016
 McLay Daniel,Fortuneo - Vital Concept,88,226,best-classic-riders,2016
-Sieberg Marcel,Lotto Soudal,85,229,best-classic-riders,2016
 Schillinger Andreas,Bora - Argon 18,85,234,best-classic-riders,2016
+Sieberg Marcel,Lotto Soudal,85,229,best-classic-riders,2016
 Janse van Rensburg Reinardt,Team Dimension Data,84,238,best-classic-riders,2016
 Chavanel Sylvain,Direct Energie,82,240,best-classic-riders,2016
 Keisse Iljo,Etixx - Quick Step,80,241,best-classic-riders,2016
@@ -429,16 +432,16 @@ Vachon Florian,Fortuneo - Vital Concept,70,273,best-classic-riders,2016
 Langeveld Sebastian,Cannondale-Drapac Pro Cycling Team,69,278,best-classic-riders,2016
 Burghardt Marcus,BMC Racing Team,66,282,best-classic-riders,2016
 Pibernik Luka,Lampre - Merida,63,294,best-classic-riders,2016
-Lindeman Bert-Jan,Team LottoNL-Jumbo,60,303,best-classic-riders,2016
 Lemoine Cyril,"Cofidis, Solutions Crédits",60,305,best-classic-riders,2016
+Lindeman Bert-Jan,Team LottoNL-Jumbo,60,303,best-classic-riders,2016
 Schär Michael,BMC Racing Team,59,308,best-classic-riders,2016
 Renshaw Mark,Team Dimension Data,59,307,best-classic-riders,2016
 Pauwels Serge,Team Dimension Data,58,311,best-classic-riders,2016
-Sørensen Chris Anker,Fortuneo - Vital Concept,56,321,best-classic-riders,2016
 Benedetti Cesare,Bora - Argon 18,56,324,best-classic-riders,2016
+Sørensen Chris Anker,Fortuneo - Vital Concept,56,321,best-classic-riders,2016
 Reichenbach Sébastien,FDJ,55,333,best-classic-riders,2016
-Jeandesboz Fabrice,Direct Energie,55,327,best-classic-riders,2016
 Howard Leigh,IAM Cycling,55,328,best-classic-riders,2016
+Jeandesboz Fabrice,Direct Energie,55,327,best-classic-riders,2016
 Ladagnous Matthieu,FDJ,54,338,best-classic-riders,2016
 Maté Luis Ángel,"Cofidis, Solutions Crédits",53,342,best-classic-riders,2016
 Hayman Mathew,ORICA-BikeExchange,52,350,best-classic-riders,2016
@@ -453,60 +456,60 @@ Kiryienka Vasil,Team Sky,42,404,best-classic-riders,2016
 Grmay Tsgabu,Lampre - Merida,40,418,best-classic-riders,2016
 Roosen Timo,Team LottoNL-Jumbo,39,424,best-classic-riders,2016
 Edet Nicolas,"Cofidis, Solutions Crédits",38,428,best-classic-riders,2016
-Eisel Bernhard,Team Dimension Data,36,448,best-classic-riders,2016
 Mørkøv Michael,Team Katusha ,36,446,best-classic-riders,2016
+Eisel Bernhard,Team Dimension Data,36,448,best-classic-riders,2016
 Frank Mathias,IAM Cycling,35,457,best-classic-riders,2016
 Bak Lars Ytting,Lotto Soudal,35,455,best-classic-riders,2016
 Gautier Cyril,AG2R La Mondiale,35,456,best-classic-riders,2016
 Landa Mikel,Team Sky,34,469,best-classic-riders,2016
 Kišerlovski Robert,Tinkoff,34,470,best-classic-riders,2016
 Périchon Pierre-Luc,Fortuneo - Vital Concept,34,467,best-classic-riders,2016
-Guarnieri Jacopo,Team Katusha ,32,484,best-classic-riders,2016
 Gastauer Ben,AG2R La Mondiale,32,483,best-classic-riders,2016
+Guarnieri Jacopo,Team Katusha ,32,484,best-classic-riders,2016
 Rolland Pierre,Cannondale-Drapac Pro Cycling Team,31,488,best-classic-riders,2016
-Bono Matteo,Lampre - Merida,30,514,best-classic-riders,2016
-Bárta Jan,Bora - Argon 18,30,499,best-classic-riders,2016
 Martin Tony,Etixx - Quick Step,30,515,best-classic-riders,2016
 Juul-Jensen Christopher,ORICA-BikeExchange,30,496,best-classic-riders,2016
 Henderson Gregory,Lotto Soudal,30,503,best-classic-riders,2016
-Buchmann Emanuel,Bora - Argon 18,29,521,best-classic-riders,2016
+Bárta Jan,Bora - Argon 18,30,499,best-classic-riders,2016
+Bono Matteo,Lampre - Merida,30,514,best-classic-riders,2016
 Kittel Marcel,Etixx - Quick Step,29,523,best-classic-riders,2016
 Voeckler Thomas,Direct Energie,29,518,best-classic-riders,2016
+Buchmann Emanuel,Bora - Argon 18,29,521,best-classic-riders,2016
 Stetina Peter,Trek - Segafredo,28,532,best-classic-riders,2016
 Koren Kristijan,Cannondale-Drapac Pro Cycling Team,28,531,best-classic-riders,2016
 Zakarin Ilnur,Team Katusha ,26,550,best-classic-riders,2016
 Caruso Damiano,BMC Racing Team,26,556,best-classic-riders,2016
-Tosatto Matteo,Tinkoff,25,563,best-classic-riders,2016
 Preidler Georg,Team Giant - Alpecin,25,561,best-classic-riders,2016
+Tosatto Matteo,Tinkoff,25,563,best-classic-riders,2016
 Durbridge Luke,ORICA-BikeExchange,24,595,best-classic-riders,2016
-Morabito Steve,FDJ,23,601,best-classic-riders,2016
 Cherel Mikaël,AG2R La Mondiale,23,599,best-classic-riders,2016
+Morabito Steve,FDJ,23,601,best-classic-riders,2016
 Jeannesson Arnold,"Cofidis, Solutions Crédits",22,617,best-classic-riders,2016
 Losada Alberto,Team Katusha ,22,614,best-classic-riders,2016
 Enger Sondre Holst,IAM Cycling,21,629,best-classic-riders,2016
 Konrad Patrick,Bora - Argon 18,21,627,best-classic-riders,2016
-Izagirre Gorka,Movistar Team,20,659,best-classic-riders,2016
-Moinard Amaël,BMC Racing Team,20,666,best-classic-riders,2016
-Hansen Adam,Lotto Soudal,20,664,best-classic-riders,2016
 Richeze Maximiliano,Etixx - Quick Step,20,665,best-classic-riders,2016
+Hansen Adam,Lotto Soudal,20,664,best-classic-riders,2016
 Irizar Markel,Trek - Segafredo,20,667,best-classic-riders,2016
 Pineau Cédric,FDJ,20,646,best-classic-riders,2016
+Izagirre Gorka,Movistar Team,20,659,best-classic-riders,2016
+Moinard Amaël,BMC Racing Team,20,666,best-classic-riders,2016
 De Gendt Thomas,Lotto Soudal,19,669,best-classic-riders,2016
-Bonnet William,FDJ,15,829,best-classic-riders,2016
-Gène Yohann,Direct Energie,15,837,best-classic-riders,2016
-Hollenstein Reto,IAM Cycling,15,769,best-classic-riders,2016
 Bodnar Maciej,Tinkoff,15,794,best-classic-riders,2016
 Craddock Lawson,Cannondale-Drapac Pro Cycling Team,15,757,best-classic-riders,2016
 Sabatini Fabio,Etixx - Quick Step,15,788,best-classic-riders,2016
 Pantano Jarlinson,IAM Cycling,15,764,best-classic-riders,2016
+Bonnet William,FDJ,15,829,best-classic-riders,2016
+Hollenstein Reto,IAM Cycling,15,769,best-classic-riders,2016
+Gène Yohann,Direct Energie,15,837,best-classic-riders,2016
 Bennett George,Team LottoNL-Jumbo,14,845,best-classic-riders,2016
 Stuyven Jasper,Trek - Segafredo,13,869,best-classic-riders,2016
-Erviti Imanol,Movistar Team,10,980,best-classic-riders,2016
 Wagner Robert,Team LottoNL-Jumbo,10,936,best-classic-riders,2016
 ten Dam Laurens,Team Giant - Alpecin,10,931,best-classic-riders,2016
 Anacona Winner,Movistar Team,10,942,best-classic-riders,2016
 Clement Stef,IAM Cycling,10,948,best-classic-riders,2016
 Timmer Albert,Team Giant - Alpecin,10,985,best-classic-riders,2016
+Erviti Imanol,Movistar Team,10,980,best-classic-riders,2016
 Quintana Nairo,Movistar Team,1550,1,top-gc-riders,2017
 Froome Chris,Team Sky,1235,3,top-gc-riders,2017
 Bardet Romain,AG2R La Mondiale,938,4,top-gc-riders,2017
@@ -514,6 +517,7 @@ Porte Richie,BMC Racing Team,910,5,top-gc-riders,2017
 Valverde Alejandro,Movistar Team,858,6,top-gc-riders,2017
 Pinot Thibaut,FDJ,722,8,top-gc-riders,2017
 Izagirre Ion,Bahrain Merida Pro Cycling Team,691,9,top-gc-riders,2017
+Henao Sergio,Team Sky,690,10,top-gc-riders,2017
 Thomas Geraint,Team Sky,547,12,top-gc-riders,2017
 Chaves Esteban,ORICA-Scott,540,13,top-gc-riders,2017
 Van Avermaet Greg,BMC Racing Team,514,14,top-gc-riders,2017
@@ -537,8 +541,8 @@ Lutsenko Alexey,Astana Pro Team,280,59,top-gc-riders,2017
 Brambilla Gianluca,Quick-Step Floors,270,64,top-gc-riders,2017
 Barguil Warren,Team Sunweb,261,70,top-gc-riders,2017
 Urán Rigoberto,Cannondale-Drapac Pro Cycling Team,260,71,top-gc-riders,2017
-Nieve Mikel,Team Sky,251,75,top-gc-riders,2017
 Caruso Damiano,BMC Racing Team,251,74,top-gc-riders,2017
+Nieve Mikel,Team Sky,251,75,top-gc-riders,2017
 Gilbert Philippe,Quick-Step Floors,240,78,top-gc-riders,2017
 Štybar Zdeněk,Quick-Step Floors,234,81,top-gc-riders,2017
 Hollenstein Reto,Team Katusha Alpecin,233,84,top-gc-riders,2017
@@ -574,9 +578,9 @@ Bole Grega,Bahrain Merida Pro Cycling Team,120,210,top-gc-riders,2017
 Bevin Patrick,Cannondale-Drapac Pro Cycling Team,118,216,top-gc-riders,2017
 Cataldo Dario,Astana Pro Team,112,227,top-gc-riders,2017
 Brajkovič Janez,Bahrain Merida Pro Cycling Team,107,235,top-gc-riders,2017
-Politt Nils,Team Katusha Alpecin,105,242,top-gc-riders,2017
-van Baarle Dylan,Cannondale-Drapac Pro Cycling Team,105,239,top-gc-riders,2017
 Gruzdev Dmitriy,Astana Pro Team,105,240,top-gc-riders,2017
+van Baarle Dylan,Cannondale-Drapac Pro Cycling Team,105,239,top-gc-riders,2017
+Politt Nils,Team Katusha Alpecin,105,242,top-gc-riders,2017
 Bouhanni Nacer,"Cofidis, Solutions Crédits",100,254,top-gc-riders,2017
 Durbridge Luke,ORICA-Scott,100,249,top-gc-riders,2017
 Zeits Andrey,Astana Pro Team,100,250,top-gc-riders,2017
@@ -597,12 +601,12 @@ De Marchi Alessandro,BMC Racing Team,59,385,top-gc-riders,2017
 Bouet Maxime,Fortuneo - Oscaro,57,393,top-gc-riders,2017
 Boudat Thomas,Direct Energie,57,392,top-gc-riders,2017
 Moreno Javier,Bahrain Merida Pro Cycling Team,56,397,top-gc-riders,2017
-Pichon Laurent,Fortuneo - Oscaro,55,407,top-gc-riders,2017
-Clarke Simon,Cannondale-Drapac Pro Cycling Team,55,411,top-gc-riders,2017
 Thwaites Scott,Team Dimension Data,55,406,top-gc-riders,2017
+Clarke Simon,Cannondale-Drapac Pro Cycling Team,55,411,top-gc-riders,2017
+Pichon Laurent,Fortuneo - Oscaro,55,407,top-gc-riders,2017
 Hardy Romain,Fortuneo - Oscaro,54,423,top-gc-riders,2017
-Molard Rudy,FDJ,51,446,top-gc-riders,2017
 Gautier Cyril,AG2R La Mondiale,51,442,top-gc-riders,2017
+Molard Rudy,FDJ,51,446,top-gc-riders,2017
 Zabel Rick,Team Katusha Alpecin,50,451,top-gc-riders,2017
 Impey Daryl,ORICA-Scott,50,466,top-gc-riders,2017
 Geschke Simon,Team Sunweb,49,472,top-gc-riders,2017
@@ -610,8 +614,8 @@ Selig Rüdiger,BORA - hansgrohe,45,489,top-gc-riders,2017
 Keukeleire Jens,ORICA-Scott,44,498,top-gc-riders,2017
 Castroviejo Jonathan,Movistar Team,43,503,top-gc-riders,2017
 Roosen Timo,Team LottoNL-Jumbo,42,507,top-gc-riders,2017
-Simon Julien,"Cofidis, Solutions Crédits",41,513,top-gc-riders,2017
 Périchon Pierre-Luc,Fortuneo - Oscaro,41,512,top-gc-riders,2017
+Simon Julien,"Cofidis, Solutions Crédits",41,513,top-gc-riders,2017
 Degenkolb John,Trek - Segafredo,40,518,top-gc-riders,2017
 Laengen Vegard Stake,UAE Team Emirates,40,541,top-gc-riders,2017
 Rowe Luke,Team Sky,40,543,top-gc-riders,2017
@@ -624,13 +628,12 @@ Sinkeldam Ramon,Team Sunweb,35,609,top-gc-riders,2017
 Pasqualon Andrea,Wanty - Groupe Gobert,34,615,top-gc-riders,2017
 Matthews Michael,Team Sunweb,33,627,top-gc-riders,2017
 Konovalovas Ignatas,FDJ,33,628,top-gc-riders,2017
-Brown Nathan,Cannondale-Drapac Pro Cycling Team,31,639,top-gc-riders,2017
+Laporte Christophe,"Cofidis, Solutions Crédits",30,669,top-gc-riders,2017
 Bodnar Maciej,BORA - hansgrohe,30,660,top-gc-riders,2017
 Cimolai Davide,FDJ,30,647,top-gc-riders,2017
-Laporte Christophe,"Cofidis, Solutions Crédits",30,669,top-gc-riders,2017
 Trentin Matteo,Quick-Step Floors,25,728,top-gc-riders,2017
-Le Gac Olivier,FDJ,20,797,top-gc-riders,2017
 Démare Arnaud,FDJ,20,818,top-gc-riders,2017
+Le Gac Olivier,FDJ,20,797,top-gc-riders,2017
 Claeys Dimitri,"Cofidis, Solutions Crédits",17,880,top-gc-riders,2017
 Gesbert Élie,Fortuneo - Oscaro,16,886,top-gc-riders,2017
 Van Keirsbulck Guillaume,Wanty - Groupe Gobert,15,917,top-gc-riders,2017
@@ -713,8 +716,8 @@ Gène Yohann,Direct Energie,72,473,top-sprinters,2017
 Edet Nicolas,"Cofidis, Solutions Crédits",72,469,top-sprinters,2017
 Cummings Steve,Team Dimension Data,71.3,474,top-sprinters,2017
 Bauer Jack,Quick-Step Floors,68,493,top-sprinters,2017
-Yates Simon,ORICA-Scott,64,523,top-sprinters,2017
 Politt Nils,Team Katusha Alpecin,64,525,top-sprinters,2017
+Yates Simon,ORICA-Scott,64,523,top-sprinters,2017
 Teunissen Mike,Team Sunweb,61.6,551,top-sprinters,2017
 Urán Rigoberto,Cannondale-Drapac Pro Cycling Team,60.8,558,top-sprinters,2017
 Betancur Carlos,Movistar Team,60,563,top-sprinters,2017
@@ -731,15 +734,15 @@ Chaves Esteban,ORICA-Scott,50,670,top-sprinters,2017
 Rowe Luke,Team Sky,48.4,696,top-sprinters,2017
 Calmejane Lilian,Direct Energie,48,699,top-sprinters,2017
 Moinard Amaël,BMC Racing Team,47,711,top-sprinters,2017
-Vermote Julien,Quick-Step Floors,46,713,top-sprinters,2017
 Hayman Mathew,ORICA-Scott,46,718,top-sprinters,2017
+Vermote Julien,Quick-Step Floors,46,713,top-sprinters,2017
 McCarthy Jay,BORA - hansgrohe,45.5,721,top-sprinters,2017
 Božič Borut,Bahrain Merida Pro Cycling Team,45,726,top-sprinters,2017
 Frank Mathias,AG2R La Mondiale,44.8,738,top-sprinters,2017
 Roglič Primož,Team LottoNL-Jumbo,44,751,top-sprinters,2017
 Hollenstein Reto,Team Katusha Alpecin,43.8,752,top-sprinters,2017
-Minnaard Marco,Wanty - Groupe Gobert,43,761,top-sprinters,2017
 Martens Paul,Team LottoNL-Jumbo,43,763,top-sprinters,2017
+Minnaard Marco,Wanty - Groupe Gobert,43,761,top-sprinters,2017
 Pichon Laurent,Fortuneo - Oscaro,42,784,top-sprinters,2017
 Offredo Yoann,Wanty - Groupe Gobert,42,771,top-sprinters,2017
 Wellens Tim,Lotto Soudal,41.6,787,top-sprinters,2017
@@ -784,8 +787,8 @@ Kittel Marcel,Quick-Step Floors,162,58,top-time-trial-riders,2017
 Cummings Steve,Team Dimension Data,160,62,top-time-trial-riders,2017
 Aru Fabio,Astana Pro Team,160,61,top-time-trial-riders,2017
 Sütterlin Jasha,Movistar Team,156,65,top-time-trial-riders,2017
-De Gendt Thomas,Lotto Soudal,154,67,top-time-trial-riders,2017
 Kwiatkowski Michał,Team Sky,154,66,top-time-trial-riders,2017
+De Gendt Thomas,Lotto Soudal,154,67,top-time-trial-riders,2017
 Gallopin Tony,Lotto Soudal,141,71,top-time-trial-riders,2017
 Bevin Patrick,Cannondale-Drapac Pro Cycling Team,134,74,top-time-trial-riders,2017
 Felline Fabio,Trek - Segafredo,126,79,top-time-trial-riders,2017
@@ -794,19 +797,19 @@ Wellens Tim,Lotto Soudal,114,90,top-time-trial-riders,2017
 Ulissi Diego,UAE Team Emirates,106,105,top-time-trial-riders,2017
 Martin Dan,Quick-Step Floors,102,113,top-time-trial-riders,2017
 Roelandts Jürgen,Lotto Soudal,100,118,top-time-trial-riders,2017
-Chaves Esteban,ORICA-Scott,98,122,top-time-trial-riders,2017
 Petit Adrien,Direct Energie,98,121,top-time-trial-riders,2017
+Chaves Esteban,ORICA-Scott,98,122,top-time-trial-riders,2017
 Gruzdev Dmitriy,Astana Pro Team,96,124,top-time-trial-riders,2017
 Roche Nicolas,BMC Racing Team,91,131,top-time-trial-riders,2017
-Impey Daryl,ORICA-Scott,90,133,top-time-trial-riders,2017
 Henao Sergio,Team Sky,90,132,top-time-trial-riders,2017
+Impey Daryl,ORICA-Scott,90,133,top-time-trial-riders,2017
 Meintjes Louis,UAE Team Emirates,88,141,top-time-trial-riders,2017
 Sagan Peter,BORA - hansgrohe,88,142,top-time-trial-riders,2017
 Howson Damien,ORICA-Scott,87,144,top-time-trial-riders,2017
 Moreno Javier,Bahrain Merida Pro Cycling Team,83,153,top-time-trial-riders,2017
 Lutsenko Alexey,Astana Pro Team,78,158,top-time-trial-riders,2017
-Voeckler Thomas,Direct Energie,77,160,top-time-trial-riders,2017
 Erviti Imanol,Movistar Team,77,159,top-time-trial-riders,2017
+Voeckler Thomas,Direct Energie,77,160,top-time-trial-riders,2017
 Valgren Michael,Astana Pro Team,76,162,top-time-trial-riders,2017
 Majka Rafał,BORA - hansgrohe,75,168,top-time-trial-riders,2017
 Lammertink Maurits,Team Katusha Alpecin,70,182,top-time-trial-riders,2017
@@ -819,8 +822,8 @@ Démare Arnaud,FDJ,60,210,top-time-trial-riders,2017
 Pichon Laurent,Fortuneo - Oscaro,59,215,top-time-trial-riders,2017
 Van Avermaet Greg,BMC Racing Team,57,223,top-time-trial-riders,2017
 Pantano Jarlinson,Trek - Segafredo,54,236,top-time-trial-riders,2017
-Landa Mikel,Team Sky,51,250,top-time-trial-riders,2017
 Grmay Tsgabu,Bahrain Merida Pro Cycling Team,51,251,top-time-trial-riders,2017
+Landa Mikel,Team Sky,51,250,top-time-trial-riders,2017
 Vanspeybrouck Pieter,Wanty - Groupe Gobert,50,260,top-time-trial-riders,2017
 Kristoff Alexander,Team Katusha Alpecin,48,265,top-time-trial-riders,2017
 Boudat Thomas,Direct Energie,46,276,top-time-trial-riders,2017
@@ -831,17 +834,17 @@ Edet Nicolas,"Cofidis, Solutions Crédits",42,304,top-time-trial-riders,2017
 Latour Pierre,AG2R La Mondiale,41,316,top-time-trial-riders,2017
 Feillu Brice,Fortuneo - Oscaro,40,320,top-time-trial-riders,2017
 McLay Daniel,Fortuneo - Oscaro,40,319,top-time-trial-riders,2017
-Navarro Daniel,"Cofidis, Solutions Crédits",39,322,top-time-trial-riders,2017
 Sepúlveda Eduardo,Fortuneo - Oscaro,39,323,top-time-trial-riders,2017
+Navarro Daniel,"Cofidis, Solutions Crédits",39,322,top-time-trial-riders,2017
 Cavendish Mark,Team Dimension Data,38,324,top-time-trial-riders,2017
 Frank Mathias,AG2R La Mondiale,36,350,top-time-trial-riders,2017
 Van Keirsbulck Guillaume,Wanty - Groupe Gobert,36,349,top-time-trial-riders,2017
+Konovalovas Ignatas,FDJ,34,366,top-time-trial-riders,2017
 Swift Ben,UAE Team Emirates,34,364,top-time-trial-riders,2017
 Pasqualon Andrea,Wanty - Groupe Gobert,34,367,top-time-trial-riders,2017
-Konovalovas Ignatas,FDJ,34,366,top-time-trial-riders,2017
 Wagner Robert,Team LottoNL-Jumbo,33,374,top-time-trial-riders,2017
-Vichot Arthur,FDJ,30,438,top-time-trial-riders,2017
 Martens Paul,Team LottoNL-Jumbo,30,459,top-time-trial-riders,2017
+Vichot Arthur,FDJ,30,438,top-time-trial-riders,2017
 Bauer Jack,Quick-Step Floors,29,461,top-time-trial-riders,2017
 van Baarle Dylan,Cannondale-Drapac Pro Cycling Team,26,479,top-time-trial-riders,2017
 Bennati Daniele,Movistar Team,26,472,top-time-trial-riders,2017
@@ -851,17 +854,17 @@ Gilbert Philippe,Quick-Step Floors,21,585,top-time-trial-riders,2017
 Janse van Rensburg Reinardt,Team Dimension Data,20,638,top-time-trial-riders,2017
 Gène Yohann,Direct Energie,20,664,top-time-trial-riders,2017
 Naesen Oliver,AG2R La Mondiale,20,676,top-time-trial-riders,2017
-Bakelants Jan,AG2R La Mondiale,18,700,top-time-trial-riders,2017
 Roosen Timo,Team LottoNL-Jumbo,18,696,top-time-trial-riders,2017
+Bakelants Jan,AG2R La Mondiale,18,700,top-time-trial-riders,2017
 Zabel Rick,Team Katusha Alpecin,15,807,top-time-trial-riders,2017
-Vermote Julien,Quick-Step Floors,14,825,top-time-trial-riders,2017
 Nieve Mikel,Team Sky,14,832,top-time-trial-riders,2017
+Vermote Julien,Quick-Step Floors,14,825,top-time-trial-riders,2017
 Périchon Pierre-Luc,Fortuneo - Oscaro,13,848,top-time-trial-riders,2017
 Gogl Michael,Trek - Segafredo,12,861,top-time-trial-riders,2017
-Venter Jaco,Team Dimension Data,11,943,top-time-trial-riders,2017
 Vuillermoz Alexis,AG2R La Mondiale,11,941,top-time-trial-riders,2017
-Arndt Nikias,Team Sunweb,10,954,top-time-trial-riders,2017
+Venter Jaco,Team Dimension Data,11,943,top-time-trial-riders,2017
 Zeits Andrey,Astana Pro Team,10,997,top-time-trial-riders,2017
+Arndt Nikias,Team Sunweb,10,954,top-time-trial-riders,2017
 Sagan Peter,BORA - hansgrohe,1718,1,best-classic-riders,2017
 Van Avermaet Greg,BMC Racing Team,1255,2,best-classic-riders,2017
 Colbrelli Sonny,Bahrain Merida Pro Cycling Team,850,4,best-classic-riders,2017
@@ -892,8 +895,8 @@ Brambilla Gianluca,Quick-Step Floors,344,44,best-classic-riders,2017
 Trentin Matteo,Quick-Step Floors,342,45,best-classic-riders,2017
 Claeys Dimitri,"Cofidis, Solutions Crédits",336,46,best-classic-riders,2017
 Bettiol Alberto,Cannondale-Drapac Pro Cycling Team,332,47,best-classic-riders,2017
-Albasini Michael,ORICA-Scott,300,53,best-classic-riders,2017
 Swift Ben,UAE Team Emirates,300,54,best-classic-riders,2017
+Albasini Michael,ORICA-Scott,300,53,best-classic-riders,2017
 Aru Fabio,Astana Pro Team,294,58,best-classic-riders,2017
 McLay Daniel,Fortuneo - Oscaro,279,59,best-classic-riders,2017
 Bakelants Jan,AG2R La Mondiale,269,63,best-classic-riders,2017
@@ -928,8 +931,8 @@ Sieberg Marcel,Lotto Soudal,140,138,best-classic-riders,2017
 Lutsenko Alexey,Astana Pro Team,134,146,best-classic-riders,2017
 Gesink Robert,Team LottoNL-Jumbo,123,159,best-classic-riders,2017
 Thomas Geraint,Team Sky,122,161,best-classic-riders,2017
-Latour Pierre,AG2R La Mondiale,119,166,best-classic-riders,2017
 Meintjes Louis,UAE Team Emirates,119,167,best-classic-riders,2017
+Latour Pierre,AG2R La Mondiale,119,166,best-classic-riders,2017
 Geschke Simon,Team Sunweb,116,170,best-classic-riders,2017
 Clarke Simon,Cannondale-Drapac Pro Cycling Team,115,171,best-classic-riders,2017
 Arashiro Yukiya,Bahrain Merida Pro Cycling Team,114,174,best-classic-riders,2017
@@ -964,22 +967,22 @@ de Kort Koen,Trek - Segafredo,62,294,best-classic-riders,2017
 Janse van Rensburg Reinardt,Team Dimension Data,60,304,best-classic-riders,2017
 Božič Borut,Bahrain Merida Pro Cycling Team,59,305,best-classic-riders,2017
 Leezer Tom,Team LottoNL-Jumbo,58,316,best-classic-riders,2017
-Delage Mickaël,FDJ,55,336,best-classic-riders,2017
 Pinot Thibaut,FDJ,55,334,best-classic-riders,2017
+Delage Mickaël,FDJ,55,336,best-classic-riders,2017
+Moreno Javier,Bahrain Merida Pro Cycling Team,54,342,best-classic-riders,2017
 Backaert Frederik,Wanty - Groupe Gobert,54,343,best-classic-riders,2017
 Durbridge Luke,ORICA-Scott,54,346,best-classic-riders,2017
 Maté Luis Ángel,"Cofidis, Solutions Crédits",54,339,best-classic-riders,2017
 Pichon Laurent,Fortuneo - Oscaro,54,341,best-classic-riders,2017
-Moreno Javier,Bahrain Merida Pro Cycling Team,54,342,best-classic-riders,2017
 Sepúlveda Eduardo,Fortuneo - Oscaro,52,348,best-classic-riders,2017
 Bono Matteo,UAE Team Emirates,50,364,best-classic-riders,2017
 Roosen Timo,Team LottoNL-Jumbo,50,362,best-classic-riders,2017
 Sagan Juraj,BORA - hansgrohe,50,363,best-classic-riders,2017
 Gastauer Ben,AG2R La Mondiale,49,368,best-classic-riders,2017
-Schär Michael,BMC Racing Team,48,372,best-classic-riders,2017
 Caruso Damiano,BMC Racing Team,48,370,best-classic-riders,2017
-Hardy Romain,Fortuneo - Oscaro,46,383,best-classic-riders,2017
+Schär Michael,BMC Racing Team,48,372,best-classic-riders,2017
 Phinney Taylor,Cannondale-Drapac Pro Cycling Team,46,388,best-classic-riders,2017
+Hardy Romain,Fortuneo - Oscaro,46,383,best-classic-riders,2017
 Sinkeldam Ramon,Team Sunweb,45,392,best-classic-riders,2017
 Laengen Vegard Stake,UAE Team Emirates,44,396,best-classic-riders,2017
 Gène Yohann,Direct Energie,43,401,best-classic-riders,2017
@@ -990,10 +993,10 @@ Küng Stefan,BMC Racing Team,37,462,best-classic-riders,2017
 Konovalovas Ignatas,FDJ,37,463,best-classic-riders,2017
 Bennett George,Team LottoNL-Jumbo,37,460,best-classic-riders,2017
 Amador Andrey,Movistar Team,37,465,best-classic-riders,2017
+Hollenstein Reto,Team Katusha Alpecin,35,481,best-classic-riders,2017
 Bodnar Maciej,BORA - hansgrohe,35,480,best-classic-riders,2017
 Bak Lars Ytting,Lotto Soudal,35,473,best-classic-riders,2017
 Bouet Maxime,Fortuneo - Oscaro,35,476,best-classic-riders,2017
-Hollenstein Reto,Team Katusha Alpecin,35,481,best-classic-riders,2017
 Đurasek Kristijan,UAE Team Emirates,34,491,best-classic-riders,2017
 Navarro Daniel,"Cofidis, Solutions Crédits",32,501,best-classic-riders,2017
 Sütterlin Jasha,Movistar Team,32,499,best-classic-riders,2017
@@ -1005,31 +1008,31 @@ Martens Paul,Team LottoNL-Jumbo,30,512,best-classic-riders,2017
 Moinard Amaël,BMC Racing Team,29,530,best-classic-riders,2017
 Brown Nathan,Cannondale-Drapac Pro Cycling Team,27,561,best-classic-riders,2017
 Van Keirsbulck Guillaume,Wanty - Groupe Gobert,25,571,best-classic-riders,2017
+Cataldo Dario,Astana Pro Team,23,614,best-classic-riders,2017
 Vermote Julien,Quick-Step Floors,23,612,best-classic-riders,2017
 McCarthy Jay,BORA - hansgrohe,23,613,best-classic-riders,2017
-Cataldo Dario,Astana Pro Team,23,614,best-classic-riders,2017
 Zubeldia Haimar,Trek - Segafredo,22,628,best-classic-riders,2017
 Herrada Jesús,Movistar Team,22,630,best-classic-riders,2017
-Roglič Primož,Team LottoNL-Jumbo,21,639,best-classic-riders,2017
 Nieve Mikel,Team Sky,21,636,best-classic-riders,2017
+Roglič Primož,Team LottoNL-Jumbo,21,639,best-classic-riders,2017
 Venter Jaco,Team Dimension Data,20,666,best-classic-riders,2017
 Le Gac Olivier,FDJ,20,670,best-classic-riders,2017
 Wyss Danilo,BMC Racing Team,19,681,best-classic-riders,2017
 Grmay Tsgabu,Bahrain Merida Pro Cycling Team,17,704,best-classic-riders,2017
 Martin Tony,Team Katusha Alpecin,16,746,best-classic-riders,2017
-Selig Rüdiger,BORA - hansgrohe,15,767,best-classic-riders,2017
+Lemoine Cyril,"Cofidis, Solutions Crédits",15,845,best-classic-riders,2017
 Bauer Jack,Quick-Step Floors,15,768,best-classic-riders,2017
-Voeckler Thomas,Direct Energie,15,855,best-classic-riders,2017
+Selig Rüdiger,BORA - hansgrohe,15,767,best-classic-riders,2017
 Eisel Bernhard,Team Dimension Data,15,759,best-classic-riders,2017
+Voeckler Thomas,Direct Energie,15,855,best-classic-riders,2017
 Kišerlovski Robert,Team Katusha Alpecin,15,839,best-classic-riders,2017
 Martin Guillaume,Wanty - Groupe Gobert,15,834,best-classic-riders,2017
 Irizar Markel,Trek - Segafredo,15,815,best-classic-riders,2017
 Kozhatayev Bakhtiyar,Astana Pro Team,15,756,best-classic-riders,2017
-Lemoine Cyril,"Cofidis, Solutions Crédits",15,845,best-classic-riders,2017
 Sabatini Fabio,Quick-Step Floors,14,860,best-classic-riders,2017
 Tulik Angélo,Direct Energie,13,884,best-classic-riders,2017
-Castroviejo Jonathan,Movistar Team,12,911,best-classic-riders,2017
 Minnaard Marco,Wanty - Groupe Gobert,12,897,best-classic-riders,2017
+Castroviejo Jonathan,Movistar Team,12,911,best-classic-riders,2017
 Poljański Paweł,BORA - hansgrohe,10,995,best-classic-riders,2017
 Cimolai Davide,FDJ,10,963,best-classic-riders,2017
 Wagner Robert,Team LottoNL-Jumbo,10,982,best-classic-riders,2017
@@ -1077,8 +1080,8 @@ Castroviejo Jonathan,Team Sky,219,88,top-gc-riders,2018
 Taaramäe Rein,Direct Energie,199,101,top-gc-riders,2018
 Jungels Bob,Quick-Step Floors,195,104,top-gc-riders,2018
 Cort Magnus,Astana Pro Team,186,109,top-gc-riders,2018
-Stuyven Jasper,Trek - Segafredo,183,113,top-gc-riders,2018
 Claeys Dimitri,"Cofidis, Solutions Crédits",183,114,top-gc-riders,2018
+Stuyven Jasper,Trek - Segafredo,183,113,top-gc-riders,2018
 Kristoff Alexander,UAE Team Emirates,181,117,top-gc-riders,2018
 Molard Rudy,Groupama - FDJ,177,120,top-gc-riders,2018
 Herrada Jesús,"Cofidis, Solutions Crédits",176,121,top-gc-riders,2018
@@ -1118,8 +1121,8 @@ Politt Nils,Team Katusha Alpecin,76,330,top-gc-riders,2018
 Hardy Romain,Team Fortuneo - Samsic,75,334,top-gc-riders,2018
 Moscon Gianni,Team Sky,71,348,top-gc-riders,2018
 Le Gac Olivier,Groupama - FDJ,70,353,top-gc-riders,2018
-Vanmarcke Sep,Team EF Education First-Drapac p/b Cannondale,68,368,top-gc-riders,2018
 De Gendt Thomas,Lotto Soudal,68,369,top-gc-riders,2018
+Vanmarcke Sep,Team EF Education First-Drapac p/b Cannondale,68,368,top-gc-riders,2018
 Jansen Amund Grøndahl,Team LottoNL-Jumbo,68,370,top-gc-riders,2018
 Lampaert Yves,Quick-Step Floors,68,365,top-gc-riders,2018
 Bernard Julien,Trek - Segafredo,62,396,top-gc-riders,2018
@@ -1133,32 +1136,33 @@ Skujiņš Toms,Trek - Segafredo,48,490,top-gc-riders,2018
 Bodnar Maciej,BORA - hansgrohe,48,489,top-gc-riders,2018
 Arndt Nikias,Team Sunweb,46,502,top-gc-riders,2018
 Schär Michael,BMC Racing Team,43,524,top-gc-riders,2018
-Boudat Thomas,Direct Energie,38,565,top-gc-riders,2018
 Gruzdev Dmitriy,Astana Pro Team,38,574,top-gc-riders,2018
-Vermote Julien,Team Dimension Data,38,564,top-gc-riders,2018
 Terpstra Niki,Quick-Step Floors,38,567,top-gc-riders,2018
+Vermote Julien,Team Dimension Data,38,564,top-gc-riders,2018
+Boudat Thomas,Direct Energie,38,565,top-gc-riders,2018
 Turgis Anthony,"Cofidis, Solutions Crédits",37,581,top-gc-riders,2018
-Rowe Luke,Team Sky,36,603,top-gc-riders,2018
 Degenkolb John,Trek - Segafredo,36,604,top-gc-riders,2018
+Rowe Luke,Team Sky,36,603,top-gc-riders,2018
 Cavendish Mark,Team Dimension Data,35,610,top-gc-riders,2018
 Hepburn Michael,Mitchelton-Scott,34,622,top-gc-riders,2018
+Janse van Rensburg Reinardt,Team Dimension Data,33,642,top-gc-riders,2018
 Groenewegen Dylan,Team LottoNL-Jumbo,33,632,top-gc-riders,2018
 Declercq Tim,Quick-Step Floors,33,643,top-gc-riders,2018
-Janse van Rensburg Reinardt,Team Dimension Data,33,642,top-gc-riders,2018
 Pichon Laurent,Team Fortuneo - Samsic,32,651,top-gc-riders,2018
-Ludvigsson Tobias,Groupama - FDJ,30,677,top-gc-riders,2018
 Sinkeldam Ramon,Groupama - FDJ,30,688,top-gc-riders,2018
 Matthews Michael,Team Sunweb,30,690,top-gc-riders,2018
+Ludvigsson Tobias,Groupama - FDJ,30,677,top-gc-riders,2018
 Kochetkov Pavel,Team Katusha Alpecin,29,695,top-gc-riders,2018
-Ledanois Kévin,Team Fortuneo - Samsic,28,711,top-gc-riders,2018
 Richeze Maximiliano,Quick-Step Floors,28,719,top-gc-riders,2018
-Scully Tom,Team EF Education First-Drapac p/b Cannondale,25,802,top-gc-riders,2018
+Ledanois Kévin,Team Fortuneo - Samsic,28,711,top-gc-riders,2018
 Van Keirsbulck Guillaume,Wanty - Groupe Gobert,25,781,top-gc-riders,2018
+Scully Tom,Team EF Education First-Drapac p/b Cannondale,25,802,top-gc-riders,2018
 Fraile Omar,Astana Pro Team,23,840,top-gc-riders,2018
+Koren Kristijan,Bahrain Merida Pro Cycling Team,23,841,top-gc-riders,2018
 Craddock Lawson,Team EF Education First-Drapac p/b Cannondale,22,852,top-gc-riders,2018
+Oss Daniel,BORA - hansgrohe,21,867,top-gc-riders,2018
 Mühlberger Gregor,BORA - hansgrohe,21,868,top-gc-riders,2018
 Durbridge Luke,Mitchelton-Scott,21,865,top-gc-riders,2018
-Oss Daniel,BORA - hansgrohe,21,867,top-gc-riders,2018
 Kristoff Alexander,UAE Team Emirates,1561.3,1,top-sprinters,2018
 Groenewegen Dylan,Team LottoNL-Jumbo,1374,2,top-sprinters,2018
 Greipel André,Lotto Soudal,1303.8,3,top-sprinters,2018
@@ -1198,8 +1202,8 @@ Gallopin Tony,AG2R La Mondiale,187,159,top-sprinters,2018
 Benoot Tiesj,Lotto Soudal,174.6,166,top-sprinters,2018
 Janse van Rensburg Reinardt,Team Dimension Data,174,169,top-sprinters,2018
 Alaphilippe Julian,Quick-Step Floors,166.4,179,top-sprinters,2018
-Bevin Patrick,BMC Racing Team,151,196,top-sprinters,2018
 Rowe Luke,Team Sky,151,197,top-sprinters,2018
+Bevin Patrick,BMC Racing Team,151,196,top-sprinters,2018
 Arndt Nikias,Team Sunweb,138,217,top-sprinters,2018
 Keukeleire Jens,Lotto Soudal,132.4,228,top-sprinters,2018
 Bouet Maxime,Team Fortuneo - Samsic,131,231,top-sprinters,2018
@@ -1208,25 +1212,25 @@ Moscon Gianni,Team Sky,115,273,top-sprinters,2018
 Hardy Romain,Team Fortuneo - Samsic,115,270,top-sprinters,2018
 Van Keirsbulck Guillaume,Wanty - Groupe Gobert,106.8,293,top-sprinters,2018
 Sánchez Luis León,Astana Pro Team,103.2,301,top-sprinters,2018
-Durbridge Luke,Mitchelton-Scott,102,304,top-sprinters,2018
 Terpstra Niki,Quick-Step Floors,102,303,top-sprinters,2018
+Durbridge Luke,Mitchelton-Scott,102,304,top-sprinters,2018
 Chavanel Sylvain,Direct Energie,101,313,top-sprinters,2018
 Mühlberger Gregor,BORA - hansgrohe,99,323,top-sprinters,2018
 Froome Chris,Team Sky,96.1,332,top-sprinters,2018
 Bennati Daniele,Movistar Team,96,333,top-sprinters,2018
 Kwiatkowski Michał,Team Sky,83.6,382,top-sprinters,2018
 Edet Nicolas,"Cofidis, Solutions Crédits",82,388,top-sprinters,2018
-Sutherland Rory,UAE Team Emirates,80,397,top-sprinters,2018
 Bernal Egan,Team Sky,80,399,top-sprinters,2018
+Sutherland Rory,UAE Team Emirates,80,397,top-sprinters,2018
 Lampaert Yves,Quick-Step Floors,79,405,top-sprinters,2018
 Pöstlberger Lukas,BORA - hansgrohe,78.6,412,top-sprinters,2018
 Vuillermoz Alexis,AG2R La Mondiale,78,415,top-sprinters,2018
 Nibali Vincenzo,Bahrain Merida Pro Cycling Team,76.8,425,top-sprinters,2018
-Sinkeldam Ramon,Groupama - FDJ,72,453,top-sprinters,2018
 Porte Richie,BMC Racing Team,72,451,top-sprinters,2018
+Sinkeldam Ramon,Groupama - FDJ,72,453,top-sprinters,2018
 Landa Mikel,Movistar Team,71.5,454,top-sprinters,2018
-Slagter Tom-Jelte,Team Dimension Data,71,461,top-sprinters,2018
 Turgis Anthony,"Cofidis, Solutions Crédits",71,455,top-sprinters,2018
+Slagter Tom-Jelte,Team Dimension Data,71,461,top-sprinters,2018
 Grellier Fabien,Direct Energie,71,462,top-sprinters,2018
 Martin Guillaume,Wanty - Groupe Gobert,69,477,top-sprinters,2018
 Martens Paul,Team LottoNL-Jumbo,68.2,481,top-sprinters,2018
@@ -1234,8 +1238,8 @@ Thomas Geraint,Team Sky,67.8,490,top-sprinters,2018
 Bardet Romain,AG2R La Mondiale,64.7,509,top-sprinters,2018
 Rojas José Joaquín,Movistar Team,63.2,521,top-sprinters,2018
 Vachon Florian,Team Fortuneo - Samsic,63,525,top-sprinters,2018
-Valverde Alejandro,Movistar Team,62,536,top-sprinters,2018
 Gesbert Élie,Team Fortuneo - Samsic,62,528,top-sprinters,2018
+Valverde Alejandro,Movistar Team,62,536,top-sprinters,2018
 Caruso Damiano,BMC Racing Team,61,544,top-sprinters,2018
 Perez Anthony,"Cofidis, Solutions Crédits",60,547,top-sprinters,2018
 Quintana Nairo,Movistar Team,59.2,556,top-sprinters,2018
@@ -1245,18 +1249,18 @@ Urán Rigoberto,Team EF Education First-Drapac p/b Cannondale,54,596,top-sprinte
 Troia Oliviero,UAE Team Emirates,53,607,top-sprinters,2018
 Dillier Silvan,AG2R La Mondiale,52.4,611,top-sprinters,2018
 Smith Dion,Wanty - Groupe Gobert,51.4,622,top-sprinters,2018
-Claeys Dimitri,"Cofidis, Solutions Crédits",51,629,top-sprinters,2018
 Renshaw Mark,Team Dimension Data,51,632,top-sprinters,2018
 Skujiņš Toms,Trek - Segafredo,51,623,top-sprinters,2018
+Claeys Dimitri,"Cofidis, Solutions Crédits",51,629,top-sprinters,2018
 Pozzovivo Domenico,Bahrain Merida Pro Cycling Team,50.7,634,top-sprinters,2018
 Valgren Michael,Astana Pro Team,50,638,top-sprinters,2018
 Oss Daniel,BORA - hansgrohe,49,652,top-sprinters,2018
 Fuglsang Jakob,Astana Pro Team,47.4,665,top-sprinters,2018
 Yates Adam,Mitchelton-Scott,45.6,693,top-sprinters,2018
 Majka Rafał,BORA - hansgrohe,44.2,706,top-sprinters,2018
-Herrada Jesús,"Cofidis, Solutions Crédits",43,728,top-sprinters,2018
 Vanendert Jelle,Lotto Soudal,43,732,top-sprinters,2018
 Gaudu David,Groupama - FDJ,43,731,top-sprinters,2018
+Herrada Jesús,"Cofidis, Solutions Crédits",43,728,top-sprinters,2018
 Jungels Bob,Quick-Step Floors,39.6,796,top-sprinters,2018
 Fraile Omar,Astana Pro Team,38,812,top-sprinters,2018
 Phinney Taylor,Team EF Education First-Drapac p/b Cannondale,37,832,top-sprinters,2018
@@ -1297,12 +1301,12 @@ Politt Nils,Team Katusha Alpecin,176,50,top-time-trial-riders,2018
 Latour Pierre,AG2R La Mondiale,172,51,top-time-trial-riders,2018
 Durbridge Luke,Mitchelton-Scott,161,54,top-time-trial-riders,2018
 Moscon Gianni,Team Sky,153,58,top-time-trial-riders,2018
-Sánchez Luis León,Astana Pro Team,138,65,top-time-trial-riders,2018
 Kruijswijk Steven,Team LottoNL-Jumbo,138,67,top-time-trial-riders,2018
 Kragh Andersen Søren,Team Sunweb,138,66,top-time-trial-riders,2018
+Sánchez Luis León,Astana Pro Team,138,65,top-time-trial-riders,2018
 Haga Chad,Team Sunweb,128,70,top-time-trial-riders,2018
-Alaphilippe Julian,Quick-Step Floors,120,75,top-time-trial-riders,2018
 Phinney Taylor,Team EF Education First-Drapac p/b Cannondale,120,73,top-time-trial-riders,2018
+Alaphilippe Julian,Quick-Step Floors,120,75,top-time-trial-riders,2018
 Poels Wout,Team Sky,114,79,top-time-trial-riders,2018
 Caruso Damiano,BMC Racing Team,112,80,top-time-trial-riders,2018
 Izagirre Gorka,Bahrain Merida Pro Cycling Team,107,85,top-time-trial-riders,2018
@@ -1320,30 +1324,30 @@ Roosen Timo,Team LottoNL-Jumbo,74,141,top-time-trial-riders,2018
 Van Avermaet Greg,BMC Racing Team,72,144,top-time-trial-riders,2018
 Soler Marc,Movistar Team,72,143,top-time-trial-riders,2018
 Gruzdev Dmitriy,Astana Pro Team,70,152,top-time-trial-riders,2018
-Landa Mikel,Movistar Team,64,173,top-time-trial-riders,2018
 Kristoff Alexander,UAE Team Emirates,64,171,top-time-trial-riders,2018
+Landa Mikel,Movistar Team,64,173,top-time-trial-riders,2018
 Grmay Tsgabu,Trek - Segafredo,56,204,top-time-trial-riders,2018
 Oss Daniel,BORA - hansgrohe,54,213,top-time-trial-riders,2018
 Démare Arnaud,Groupama - FDJ,51,222,top-time-trial-riders,2018
-Pozzovivo Domenico,Bahrain Merida Pro Cycling Team,50,232,top-time-trial-riders,2018
-Pöstlberger Lukas,BORA - hansgrohe,50,227,top-time-trial-riders,2018
 Vanmarcke Sep,Team EF Education First-Drapac p/b Cannondale,50,233,top-time-trial-riders,2018
+Pöstlberger Lukas,BORA - hansgrohe,50,227,top-time-trial-riders,2018
+Pozzovivo Domenico,Bahrain Merida Pro Cycling Team,50,232,top-time-trial-riders,2018
 Vichot Arthur,Groupama - FDJ,46,264,top-time-trial-riders,2018
 Dillier Silvan,AG2R La Mondiale,45,266,top-time-trial-riders,2018
 Perez Anthony,"Cofidis, Solutions Crédits",44,275,top-time-trial-riders,2018
 Howson Damien,Mitchelton-Scott,44,274,top-time-trial-riders,2018
-Bennati Daniele,Movistar Team,42,289,top-time-trial-riders,2018
 Bouet Maxime,Team Fortuneo - Samsic,42,280,top-time-trial-riders,2018
-Laporte Christophe,"Cofidis, Solutions Crédits",41,293,top-time-trial-riders,2018
+Bennati Daniele,Movistar Team,42,289,top-time-trial-riders,2018
 De Buyst Jasper,Lotto Soudal,41,291,top-time-trial-riders,2018
+Laporte Christophe,"Cofidis, Solutions Crédits",41,293,top-time-trial-riders,2018
 Terpstra Niki,Quick-Step Floors,40,298,top-time-trial-riders,2018
 Bevin Patrick,BMC Racing Team,39,308,top-time-trial-riders,2018
 Gesink Robert,Team LottoNL-Jumbo,35,339,top-time-trial-riders,2018
-Keukeleire Jens,Lotto Soudal,30,414,top-time-trial-riders,2018
 Bernal Egan,Team Sky,30,381,top-time-trial-riders,2018
+Keukeleire Jens,Lotto Soudal,30,414,top-time-trial-riders,2018
 Martin Dan,UAE Team Emirates,28,446,top-time-trial-riders,2018
-Barguil Warren,Team Fortuneo - Samsic,26,462,top-time-trial-riders,2018
 Pasqualon Andrea,Wanty - Groupe Gobert,26,457,top-time-trial-riders,2018
+Barguil Warren,Team Fortuneo - Samsic,26,462,top-time-trial-riders,2018
 Skujiņš Toms,Trek - Segafredo,25,491,top-time-trial-riders,2018
 Yates Adam,Mitchelton-Scott,24,535,top-time-trial-riders,2018
 Vermote Julien,Team Dimension Data,22,559,top-time-trial-riders,2018
@@ -1352,18 +1356,18 @@ Benoot Tiesj,Lotto Soudal,21,569,top-time-trial-riders,2018
 Janse van Rensburg Reinardt,Team Dimension Data,21,571,top-time-trial-riders,2018
 Sieberg Marcel,Lotto Soudal,20,640,top-time-trial-riders,2018
 Erviti Imanol,Movistar Team,19,658,top-time-trial-riders,2018
-Vachon Florian,Team Fortuneo - Samsic,18,679,top-time-trial-riders,2018
 Rowe Luke,Team Sky,18,665,top-time-trial-riders,2018
 Vuillermoz Alexis,AG2R La Mondiale,18,662,top-time-trial-riders,2018
+Vachon Florian,Team Fortuneo - Samsic,18,679,top-time-trial-riders,2018
 Simon Julien,"Cofidis, Solutions Crédits",16,696,top-time-trial-riders,2018
 Kangert Tanel,Astana Pro Team,15,768,top-time-trial-riders,2018
-Quintana Nairo,Movistar Team,14,788,top-time-trial-riders,2018
 Claeys Dimitri,"Cofidis, Solutions Crédits",14,797,top-time-trial-riders,2018
-Scully Tom,Team EF Education First-Drapac p/b Cannondale,12,881,top-time-trial-riders,2018
-Schär Michael,BMC Racing Team,12,852,top-time-trial-riders,2018
+Quintana Nairo,Movistar Team,14,788,top-time-trial-riders,2018
 Colbrelli Sonny,Bahrain Merida Pro Cycling Team,12,839,top-time-trial-riders,2018
 Stuyven Jasper,Trek - Segafredo,12,864,top-time-trial-riders,2018
 Gaudu David,Groupama - FDJ,12,882,top-time-trial-riders,2018
+Scully Tom,Team EF Education First-Drapac p/b Cannondale,12,881,top-time-trial-riders,2018
+Schär Michael,BMC Racing Team,12,852,top-time-trial-riders,2018
 Van Avermaet Greg,BMC Racing Team,1826,1,best-classic-riders,2018
 Kristoff Alexander,UAE Team Emirates,1248,2,best-classic-riders,2018
 Sagan Peter,BORA - hansgrohe,1239,3,best-classic-riders,2018
@@ -1417,8 +1421,8 @@ Bernal Egan,Team Sky,194,96,best-classic-riders,2018
 Richeze Maximiliano,Quick-Step Floors,192,99,best-classic-riders,2018
 Kragh Andersen Søren,Team Sunweb,186,101,best-classic-riders,2018
 Vichot Arthur,Groupama - FDJ,182,104,best-classic-riders,2018
-Valgren Michael,Astana Pro Team,180,106,best-classic-riders,2018
 Dillier Silvan,AG2R La Mondiale,180,105,best-classic-riders,2018
+Valgren Michael,Astana Pro Team,180,106,best-classic-riders,2018
 Sánchez Luis León,Astana Pro Team,179,109,best-classic-riders,2018
 Boudat Thomas,Direct Energie,178,110,best-classic-riders,2018
 Rojas José Joaquín,Movistar Team,177,111,best-classic-riders,2018
@@ -1494,9 +1498,9 @@ Vachon Florian,Team Fortuneo - Samsic,31,566,best-classic-riders,2018
 Amador Andrey,Movistar Team,31,565,best-classic-riders,2018
 Hepburn Michael,Mitchelton-Scott,31,568,best-classic-riders,2018
 Cavendish Mark,Team Dimension Data,29,585,best-classic-riders,2018
-Thomson Jay Robert,Team Dimension Data,28,604,best-classic-riders,2018
 Moinard Amaël,Team Fortuneo - Samsic,28,597,best-classic-riders,2018
 Boswell Ian,Team Katusha Alpecin,28,595,best-classic-riders,2018
+Thomson Jay Robert,Team Dimension Data,28,604,best-classic-riders,2018
 Poljański Paweł,BORA - hansgrohe,26,634,best-classic-riders,2018
 Renshaw Mark,Team Dimension Data,26,635,best-classic-riders,2018
 Ledanois Kévin,Team Fortuneo - Samsic,26,630,best-classic-riders,2018
@@ -1504,8 +1508,8 @@ Caruso Damiano,BMC Racing Team,25,647,best-classic-riders,2018
 Zakarin Ilnur,Team Katusha Alpecin,24,658,best-classic-riders,2018
 Bouet Maxime,Team Fortuneo - Samsic,24,668,best-classic-riders,2018
 Pauwels Serge,Team Dimension Data,23,676,best-classic-riders,2018
-Navarro Daniel,"Cofidis, Solutions Crédits",22,686,best-classic-riders,2018
 Minnaard Marco,Wanty - Groupe Gobert,22,691,best-classic-riders,2018
+Navarro Daniel,"Cofidis, Solutions Crédits",22,686,best-classic-riders,2018
 Domont Axel,AG2R La Mondiale,21,710,best-classic-riders,2018
 Degand Thomas,Wanty - Groupe Gobert,20,739,best-classic-riders,2018
 Ferrari Roberto,UAE Team Emirates,20,738,best-classic-riders,2018
@@ -1513,9 +1517,9 @@ Castroviejo Jonathan,Team Sky,20,723,best-classic-riders,2018
 Koren Kristijan,Bahrain Merida Pro Cycling Team,19,753,best-classic-riders,2018
 Kruijswijk Steven,Team LottoNL-Jumbo,18,777,best-classic-riders,2018
 Bevin Patrick,BMC Racing Team,16,817,best-classic-riders,2018
-Grmay Tsgabu,Trek - Segafredo,15,845,best-classic-riders,2018
 Ludvigsson Tobias,Groupama - FDJ,15,857,best-classic-riders,2018
 Fraile Omar,Astana Pro Team,15,899,best-classic-riders,2018
+Grmay Tsgabu,Trek - Segafredo,15,845,best-classic-riders,2018
 Pellizotti Franco,Bahrain Merida Pro Cycling Team,13,961,best-classic-riders,2018
 Thomas Geraint,Team INEOS,1025,1,top-gc-riders,2019
 Valverde Alejandro,Movistar Team,1010,3,top-gc-riders,2019
@@ -1557,6 +1561,7 @@ Molard Rudy,Groupama - FDJ,287,66,top-gc-riders,2019
 Costa Rui,UAE Team Emirates,285,67,top-gc-riders,2019
 Haig Jack,Mitchelton-Scott,276,68,top-gc-riders,2019
 Devenyns Dries,Deceuninck - Quick Step,272,70,top-gc-riders,2019
+Henao Sergio,UAE Team Emirates,265,72,top-gc-riders,2019
 Dennis Rohan,Bahrain Merida,255,74,top-gc-riders,2019
 Edet Nicolas,"Cofidis, Solutions Crédits",252,77,top-gc-riders,2019
 Barguil Warren,Team Arkéa Samsic,250,78,top-gc-riders,2019
@@ -1582,8 +1587,8 @@ Verona Carlos,Movistar Team,149,147,top-gc-riders,2019
 Gonçalves José,Team Katusha Alpecin,141,158,top-gc-riders,2019
 van Baarle Dylan,Team INEOS,138,160,top-gc-riders,2019
 Castroviejo Jonathan,Team INEOS,137,163,top-gc-riders,2019
-Felline Fabio,Trek - Segafredo,134,167,top-gc-riders,2019
 Gaudu David,Groupama - FDJ,134,168,top-gc-riders,2019
+Felline Fabio,Trek - Segafredo,134,167,top-gc-riders,2019
 Colbrelli Sonny,Bahrain Merida,133,170,top-gc-riders,2019
 Mühlberger Gregor,BORA - hansgrohe,127,181,top-gc-riders,2019
 Taaramäe Rein,Team Total Direct Energie,127,182,top-gc-riders,2019
@@ -1593,16 +1598,16 @@ Bevin Patrick,CCC Team,120,195,top-gc-riders,2019
 Terpstra Niki,Team Total Direct Energie,118,200,top-gc-riders,2019
 Cherel Mikaël,AG2R La Mondiale,118,199,top-gc-riders,2019
 Perez Anthony,"Cofidis, Solutions Crédits",116,204,top-gc-riders,2019
-Lampaert Yves,Deceuninck - Quick Step,113,214,top-gc-riders,2019
 Clarke Simon,EF Education First,113,213,top-gc-riders,2019
+Lampaert Yves,Deceuninck - Quick Step,113,214,top-gc-riders,2019
 Geschke Simon,CCC Team,112,215,top-gc-riders,2019
 Stuyven Jasper,Trek - Segafredo,111,217,top-gc-riders,2019
 Houle Hugo,Astana Pro Team,110,224,top-gc-riders,2019
 Gougeard Alexis,AG2R La Mondiale,110,221,top-gc-riders,2019
 Amador Andrey,Movistar Team,105,234,top-gc-riders,2019
 Reichenbach Sébastien,Groupama - FDJ,101,243,top-gc-riders,2019
-Politt Nils,Team Katusha Alpecin,98,255,top-gc-riders,2019
 Skujiņš Toms,Trek - Segafredo,98,251,top-gc-riders,2019
+Politt Nils,Team Katusha Alpecin,98,255,top-gc-riders,2019
 Laporte Christophe,"Cofidis, Solutions Crédits",95,263,top-gc-riders,2019
 Jansen Amund Grøndahl,Team Jumbo-Visma,93,265,top-gc-riders,2019
 De Plus Laurens,Team Jumbo-Visma,84,295,top-gc-riders,2019
@@ -1611,8 +1616,8 @@ King Ben,Team Dimension Data,80,303,top-gc-riders,2019
 Kluge Roger,Lotto Soudal,80,302,top-gc-riders,2019
 Schär Michael,CCC Team,77,316,top-gc-riders,2019
 Oliveira Nelson,Movistar Team,75,325,top-gc-riders,2019
-Bouet Maxime,Team Arkéa Samsic,74,328,top-gc-riders,2019
 Asgreen Kasper,Deceuninck - Quick Step,74,330,top-gc-riders,2019
+Bouet Maxime,Team Arkéa Samsic,74,328,top-gc-riders,2019
 Berhane Natnael,"Cofidis, Solutions Crédits",73,336,top-gc-riders,2019
 Roux Anthony,Groupama - FDJ,70,350,top-gc-riders,2019
 Teunissen Mike,Team Jumbo-Visma,69,359,top-gc-riders,2019
@@ -1628,38 +1633,38 @@ Erviti Imanol,Movistar Team,60,407,top-gc-riders,2019
 Trentin Matteo,Mitchelton-Scott,58,416,top-gc-riders,2019
 Mørkøv Michael,Deceuninck - Quick Step,58,414,top-gc-riders,2019
 Valgren Michael,Team Dimension Data,58,422,top-gc-riders,2019
-Küng Stefan,Groupama - FDJ,56,431,top-gc-riders,2019
 Zabel Rick,Team Katusha Alpecin,56,429,top-gc-riders,2019
+Küng Stefan,Groupama - FDJ,56,431,top-gc-riders,2019
 Eiking Odd Christian,Wanty - Gobert Cycling Team,55,438,top-gc-riders,2019
-Hepburn Michael,Mitchelton-Scott,54,450,top-gc-riders,2019
 De Gendt Aimé,Wanty - Gobert Cycling Team,54,449,top-gc-riders,2019
+Hepburn Michael,Mitchelton-Scott,54,450,top-gc-riders,2019
 Janse van Rensburg Reinardt,Team Dimension Data,53,462,top-gc-riders,2019
 Rosskopf Joey,CCC Team,52,464,top-gc-riders,2019
-Durbridge Luke,Mitchelton-Scott,51,474,top-gc-riders,2019
 Simon Julien,"Cofidis, Solutions Crédits",51,473,top-gc-riders,2019
+Durbridge Luke,Mitchelton-Scott,51,474,top-gc-riders,2019
 Arndt Nikias,Team Sunweb,49,491,top-gc-riders,2019
 Oss Daniel,BORA - hansgrohe,43,523,top-gc-riders,2019
 Turgis Anthony,Team Total Direct Energie,42,532,top-gc-riders,2019
 Gesbert Élie,Team Arkéa Samsic,39,561,top-gc-riders,2019
 Ledanois Kévin,Team Arkéa Samsic,37,583,top-gc-riders,2019
-Dowsett Alex,Team Katusha Alpecin,36,596,top-gc-riders,2019
+Richeze Maximiliano,Deceuninck - Quick Step,36,592,top-gc-riders,2019
 Pöstlberger Lukas,BORA - hansgrohe,36,602,top-gc-riders,2019
 Rowe Luke,Team INEOS,36,589,top-gc-riders,2019
-Richeze Maximiliano,Deceuninck - Quick Step,36,592,top-gc-riders,2019
+Dowsett Alex,Team Katusha Alpecin,36,596,top-gc-riders,2019
 Bystrøm Sven Erik,UAE Team Emirates,34,616,top-gc-riders,2019
 Ewan Caleb,Lotto Soudal,32,639,top-gc-riders,2019
-Grellier Fabien,Team Total Direct Energie,30,661,top-gc-riders,2019
 De Buyst Jasper,Lotto Soudal,30,665,top-gc-riders,2019
+Langeveld Sebastian,EF Education First,30,659,top-gc-riders,2019
 Debusschere Jens,Team Katusha Alpecin,30,670,top-gc-riders,2019
 Scully Tom,EF Education First,30,663,top-gc-riders,2019
-Langeveld Sebastian,EF Education First,30,659,top-gc-riders,2019
+Grellier Fabien,Team Total Direct Energie,30,661,top-gc-riders,2019
 Bol Cees,Team Sunweb,29,681,top-gc-riders,2019
 Bonifazio Niccolò,Team Total Direct Energie,28,689,top-gc-riders,2019
 Würtz Schmidt Mads,Team Katusha Alpecin,28,697,top-gc-riders,2019
-Rossetto Stéphane,"Cofidis, Solutions Crédits",25,760,top-gc-riders,2019
 Delaplace Anthony,Team Arkéa Samsic,25,777,top-gc-riders,2019
-García Cortina Iván,Bahrain Merida,25,734,top-gc-riders,2019
 Philipsen Jasper,UAE Team Emirates,25,756,top-gc-riders,2019
+Rossetto Stéphane,"Cofidis, Solutions Crédits",25,760,top-gc-riders,2019
+García Cortina Iván,Bahrain Merida,25,734,top-gc-riders,2019
 Nizzolo Giacomo,Team Dimension Data,23,811,top-gc-riders,2019
 Kämna Lennard,Team Sunweb,22,812,top-gc-riders,2019
 Ladagnous Matthieu,Groupama - FDJ,22,816,top-gc-riders,2019
@@ -1729,17 +1734,17 @@ Fraile Omar,Astana Pro Team,90,389,top-sprinters,2019
 Yates Simon,Mitchelton-Scott,89,398,top-sprinters,2019
 Herrada Jesús,"Cofidis, Solutions Crédits",83.8,423,top-sprinters,2019
 Houle Hugo,Astana Pro Team,83,425,top-sprinters,2019
-Taaramäe Rein,Team Total Direct Energie,80,441,top-sprinters,2019
 Moscon Gianni,Team INEOS,80,442,top-sprinters,2019
-Kwiatkowski Michał,Team INEOS,79,446,top-sprinters,2019
+Taaramäe Rein,Team Total Direct Energie,80,441,top-sprinters,2019
 Simon Julien,"Cofidis, Solutions Crédits",79,452,top-sprinters,2019
+Kwiatkowski Michał,Team INEOS,79,446,top-sprinters,2019
 Backaert Frederik,Wanty - Gobert Cycling Team,76.8,468,top-sprinters,2019
 Barguil Warren,Team Arkéa Samsic,74.6,486,top-sprinters,2019
 Woods Michael,EF Education First,73,496,top-sprinters,2019
 Ladagnous Matthieu,Groupama - FDJ,70,525,top-sprinters,2019
+Perez Anthony,"Cofidis, Solutions Crédits",67,542,top-sprinters,2019
 Bilbao Pello,Astana Pro Team,67,543,top-sprinters,2019
 Edet Nicolas,"Cofidis, Solutions Crédits",67,536,top-sprinters,2019
-Perez Anthony,"Cofidis, Solutions Crédits",67,542,top-sprinters,2019
 Turgis Anthony,Team Total Direct Energie,63,566,top-sprinters,2019
 Skujiņš Toms,Trek - Segafredo,60,595,top-sprinters,2019
 Bettiol Alberto,EF Education First,59,607,top-sprinters,2019
@@ -1759,8 +1764,8 @@ de Kort Koen,Trek - Segafredo,35,922,top-sprinters,2019
 Thomas Geraint,Team INEOS,34,962,top-sprinters,2019
 Roche Nicolas,Team Sunweb,34,961,top-sprinters,2019
 Teuns Dylan,Bahrain Merida,33.2,966,top-sprinters,2019
-Asgreen Kasper,Deceuninck - Quick Step,33,972,top-sprinters,2019
 Martin Dan,UAE Team Emirates,33,983,top-sprinters,2019
+Asgreen Kasper,Deceuninck - Quick Step,33,972,top-sprinters,2019
 Dennis Rohan,Bahrain Merida,1180,1,top-time-trial-riders,2019
 Kwiatkowski Michał,Team INEOS,810,3,top-time-trial-riders,2019
 Castroviejo Jonathan,Team INEOS,748,4,top-time-trial-riders,2019
@@ -1772,8 +1777,8 @@ Dowsett Alex,Team Katusha Alpecin,364,12,top-time-trial-riders,2019
 Thomas Geraint,Team INEOS,358,13,top-time-trial-riders,2019
 Kragh Andersen Søren,Team Sunweb,332,16,top-time-trial-riders,2019
 Matthews Michael,Team Sunweb,330,17,top-time-trial-riders,2019
-Rosskopf Joey,CCC Team,308,20,top-time-trial-riders,2019
 van Garderen Tejay,EF Education First,308,18,top-time-trial-riders,2019
+Rosskopf Joey,CCC Team,308,20,top-time-trial-riders,2019
 Tratnik Jan,Bahrain Merida,294,22,top-time-trial-riders,2019
 Schachmann Maximilian,BORA - hansgrohe,290,23,top-time-trial-riders,2019
 Kruijswijk Steven,Team Jumbo-Visma,248,27,top-time-trial-riders,2019
@@ -1794,8 +1799,8 @@ Durbridge Luke,Mitchelton-Scott,155,57,top-time-trial-riders,2019
 Teuns Dylan,Bahrain Merida,150,59,top-time-trial-riders,2019
 Gallopin Tony,AG2R La Mondiale,149,60,top-time-trial-riders,2019
 Izagirre Gorka,Astana Pro Team,148,62,top-time-trial-riders,2019
-Haga Chad,Team Sunweb,146,63,top-time-trial-riders,2019
 Porte Richie,Trek - Segafredo,146,64,top-time-trial-riders,2019
+Haga Chad,Team Sunweb,146,63,top-time-trial-riders,2019
 De Marchi Alessandro,CCC Team,143,65,top-time-trial-riders,2019
 Valverde Alejandro,Movistar Team,124,76,top-time-trial-riders,2019
 Wellens Tim,Lotto Soudal,120,79,top-time-trial-riders,2019
@@ -1810,8 +1815,8 @@ De Plus Laurens,Team Jumbo-Visma,97,100,top-time-trial-riders,2019
 Keukeleire Jens,Lotto Soudal,96,104,top-time-trial-riders,2019
 Scully Tom,EF Education First,96,102,top-time-trial-riders,2019
 Felline Fabio,Trek - Segafredo,95,105,top-time-trial-riders,2019
-Mas Enric,Deceuninck - Quick Step,94,108,top-time-trial-riders,2019
 De Gendt Thomas,Lotto Soudal,94,107,top-time-trial-riders,2019
+Mas Enric,Deceuninck - Quick Step,94,108,top-time-trial-riders,2019
 Caruso Damiano,Bahrain Merida,91,112,top-time-trial-riders,2019
 Terpstra Niki,Team Total Direct Energie,89,118,top-time-trial-riders,2019
 Würtz Schmidt Mads,Team Katusha Alpecin,80,129,top-time-trial-riders,2019
@@ -1823,9 +1828,9 @@ Impey Daryl,Mitchelton-Scott,76,134,top-time-trial-riders,2019
 Costa Rui,UAE Team Emirates,72,150,top-time-trial-riders,2019
 van Aert Wout,Team Jumbo-Visma,70,153,top-time-trial-riders,2019
 Aru Fabio,UAE Team Emirates,70,154,top-time-trial-riders,2019
-Buchmann Emanuel,BORA - hansgrohe,66,167,top-time-trial-riders,2019
 Calmejane Lilian,Team Total Direct Energie,66,166,top-time-trial-riders,2019
 Asgreen Kasper,Deceuninck - Quick Step,66,165,top-time-trial-riders,2019
+Buchmann Emanuel,BORA - hansgrohe,66,167,top-time-trial-riders,2019
 Skujiņš Toms,Trek - Segafredo,62,178,top-time-trial-riders,2019
 Delaplace Anthony,Team Arkéa Samsic,61,180,top-time-trial-riders,2019
 Houle Hugo,Astana Pro Team,60,185,top-time-trial-riders,2019
@@ -1833,8 +1838,8 @@ Lutsenko Alexey,Astana Pro Team,58,196,top-time-trial-riders,2019
 Yates Adam,Mitchelton-Scott,54,206,top-time-trial-riders,2019
 Henao Sergio,UAE Team Emirates,52,217,top-time-trial-riders,2019
 Périchon Pierre-Luc,"Cofidis, Solutions Crédits",50,234,top-time-trial-riders,2019
-Rossetto Stéphane,"Cofidis, Solutions Crédits",47,243,top-time-trial-riders,2019
 Cosnefroy Benoît,AG2R La Mondiale,47,244,top-time-trial-riders,2019
+Rossetto Stéphane,"Cofidis, Solutions Crédits",47,243,top-time-trial-riders,2019
 Martin Dan,UAE Team Emirates,46,247,top-time-trial-riders,2019
 De Gendt Aimé,Wanty - Gobert Cycling Team,45,261,top-time-trial-riders,2019
 Cummings Steve,Team Dimension Data,42,278,top-time-trial-riders,2019
@@ -1862,8 +1867,8 @@ Reichenbach Sébastien,Groupama - FDJ,16,757,top-time-trial-riders,2019
 Bernard Julien,Trek - Segafredo,15,770,top-time-trial-riders,2019
 Bardet Romain,AG2R La Mondiale,14,783,top-time-trial-riders,2019
 Ladagnous Matthieu,Groupama - FDJ,14,786,top-time-trial-riders,2019
-Urán Rigoberto,EF Education First,13,811,top-time-trial-riders,2019
 Bol Cees,Team Sunweb,13,807,top-time-trial-riders,2019
+Urán Rigoberto,EF Education First,13,811,top-time-trial-riders,2019
 Haig Jack,Mitchelton-Scott,12,887,top-time-trial-riders,2019
 Greipel André,Team Arkéa Samsic,12,853,top-time-trial-riders,2019
 Berhane Natnael,"Cofidis, Solutions Crédits",12,882,top-time-trial-riders,2019
@@ -1895,8 +1900,8 @@ Laporte Christophe,"Cofidis, Solutions Crédits",382,35,best-classic-riders,2019
 Lampaert Yves,Deceuninck - Quick Step,378,36,best-classic-riders,2019
 Trentin Matteo,Mitchelton-Scott,354,40,best-classic-riders,2019
 Debusschere Jens,Team Katusha Alpecin,350,41,best-classic-riders,2019
-Urán Rigoberto,EF Education First,342,43,best-classic-riders,2019
 van Aert Wout,Team Jumbo-Visma,342,44,best-classic-riders,2019
+Urán Rigoberto,EF Education First,342,43,best-classic-riders,2019
 Ewan Caleb,Lotto Soudal,329,46,best-classic-riders,2019
 Groenewegen Dylan,Team Jumbo-Visma,326,47,best-classic-riders,2019
 Skujiņš Toms,Trek - Segafredo,320,50,best-classic-riders,2019
@@ -1916,8 +1921,8 @@ Nizzolo Giacomo,Team Dimension Data,210,88,best-classic-riders,2019
 Meurisse Xandro,Wanty - Gobert Cycling Team,209,89,best-classic-riders,2019
 Roux Anthony,Groupama - FDJ,203,94,best-classic-riders,2019
 Wiśniowski Łukasz,CCC Team,194,98,best-classic-riders,2019
-Cosnefroy Benoît,AG2R La Mondiale,185,101,best-classic-riders,2019
 Bol Cees,Team Sunweb,185,103,best-classic-riders,2019
+Cosnefroy Benoît,AG2R La Mondiale,185,101,best-classic-riders,2019
 Tratnik Jan,Bahrain Merida,182,105,best-classic-riders,2019
 Martin Guillaume,Wanty - Gobert Cycling Team,172,115,best-classic-riders,2019
 De Marchi Alessandro,CCC Team,170,117,best-classic-riders,2019
@@ -1926,16 +1931,16 @@ Vuillermoz Alexis,AG2R La Mondiale,160,126,best-classic-riders,2019
 Kragh Andersen Søren,Team Sunweb,157,128,best-classic-riders,2019
 Henao Sergio,UAE Team Emirates,150,131,best-classic-riders,2019
 Arndt Nikias,Team Sunweb,148,135,best-classic-riders,2019
+Greipel André,Team Arkéa Samsic,146,139,best-classic-riders,2019
 Mühlberger Gregor,BORA - hansgrohe,146,140,best-classic-riders,2019
 Reichenbach Sébastien,Groupama - FDJ,146,137,best-classic-riders,2019
 Ciccone Giulio,Trek - Segafredo,146,138,best-classic-riders,2019
-Greipel André,Team Arkéa Samsic,146,139,best-classic-riders,2019
 Jansen Amund Grøndahl,Team Jumbo-Visma,145,141,best-classic-riders,2019
 Barguil Warren,Team Arkéa Samsic,142,147,best-classic-riders,2019
 Taaramäe Rein,Team Total Direct Energie,139,155,best-classic-riders,2019
 Herrada Jesús,"Cofidis, Solutions Crédits",137,156,best-classic-riders,2019
-Cort Magnus,Astana Pro Team,136,158,best-classic-riders,2019
 Gaudu David,Groupama - FDJ,136,157,best-classic-riders,2019
+Cort Magnus,Astana Pro Team,136,158,best-classic-riders,2019
 De Gendt Aimé,Wanty - Gobert Cycling Team,134,159,best-classic-riders,2019
 Martin Dan,UAE Team Emirates,133,162,best-classic-riders,2019
 Lutsenko Alexey,Astana Pro Team,131,165,best-classic-riders,2019
@@ -1954,24 +1959,24 @@ Devenyns Dries,Deceuninck - Quick Step,103,206,best-classic-riders,2019
 Kelderman Wilco,Team Sunweb,100,215,best-classic-riders,2019
 Sánchez Luis León,Astana Pro Team,98,218,best-classic-riders,2019
 Richeze Maximiliano,Deceuninck - Quick Step,98,220,best-classic-riders,2019
-Ladagnous Matthieu,Groupama - FDJ,97,222,best-classic-riders,2019
 Kwiatkowski Michał,Team INEOS,97,223,best-classic-riders,2019
+Ladagnous Matthieu,Groupama - FDJ,97,222,best-classic-riders,2019
 Keukeleire Jens,Lotto Soudal,90,237,best-classic-riders,2019
 Mørkøv Michael,Deceuninck - Quick Step,90,242,best-classic-riders,2019
 Haig Jack,Mitchelton-Scott,89,243,best-classic-riders,2019
 Würtz Schmidt Mads,Team Katusha Alpecin,88,246,best-classic-riders,2019
 Bak Lars Ytting,Team Dimension Data,84,251,best-classic-riders,2019
 van Baarle Dylan,Team INEOS,82,257,best-classic-riders,2019
-Backaert Frederik,Wanty - Gobert Cycling Team,78,266,best-classic-riders,2019
 Küng Stefan,Groupama - FDJ,78,265,best-classic-riders,2019
+Backaert Frederik,Wanty - Gobert Cycling Team,78,266,best-classic-riders,2019
 Oss Daniel,BORA - hansgrohe,77,267,best-classic-riders,2019
 Schär Michael,CCC Team,73,283,best-classic-riders,2019
 Kruijswijk Steven,Team Jumbo-Visma,72,286,best-classic-riders,2019
-Quintana Nairo,Movistar Team,69,295,best-classic-riders,2019
 Turgis Anthony,Team Total Direct Energie,69,297,best-classic-riders,2019
+Quintana Nairo,Movistar Team,69,295,best-classic-riders,2019
 Bernal Egan,Team INEOS,67,302,best-classic-riders,2019
-Roche Nicolas,Team Sunweb,66,312,best-classic-riders,2019
 Edet Nicolas,"Cofidis, Solutions Crédits",66,313,best-classic-riders,2019
+Roche Nicolas,Team Sunweb,66,312,best-classic-riders,2019
 Asgreen Kasper,Deceuninck - Quick Step,65,319,best-classic-riders,2019
 Caruso Damiano,Bahrain Merida,65,314,best-classic-riders,2019
 Delaplace Anthony,Team Arkéa Samsic,64,324,best-classic-riders,2019
@@ -1981,55 +1986,55 @@ Pauwels Serge,CCC Team,60,345,best-classic-riders,2019
 Langeveld Sebastian,EF Education First,55,364,best-classic-riders,2019
 Yates Simon,Mitchelton-Scott,55,368,best-classic-riders,2019
 Gallopin Tony,AG2R La Mondiale,47,396,best-classic-riders,2019
-Bonifazio Niccolò,Team Total Direct Energie,46,406,best-classic-riders,2019
 Gonçalves José,Team Katusha Alpecin,46,407,best-classic-riders,2019
+Bonifazio Niccolò,Team Total Direct Energie,46,406,best-classic-riders,2019
 Janse van Rensburg Reinardt,Team Dimension Data,45,412,best-classic-riders,2019
 Soler Marc,Movistar Team,44,416,best-classic-riders,2019
 Izagirre Gorka,Astana Pro Team,43,420,best-classic-riders,2019
 Oliveira Nelson,Movistar Team,43,422,best-classic-riders,2019
 Juul-Jensen Christopher,Mitchelton-Scott,42,429,best-classic-riders,2019
 Yates Adam,Mitchelton-Scott,40,449,best-classic-riders,2019
+Zabel Rick,Team Katusha Alpecin,39,462,best-classic-riders,2019
 Ourselin Paul,Team Total Direct Energie,39,454,best-classic-riders,2019
 Eiking Odd Christian,Wanty - Gobert Cycling Team,39,459,best-classic-riders,2019
-Zabel Rick,Team Katusha Alpecin,39,462,best-classic-riders,2019
-Durbridge Luke,Mitchelton-Scott,38,466,best-classic-riders,2019
 Laengen Vegard Stake,UAE Team Emirates,38,463,best-classic-riders,2019
+Durbridge Luke,Mitchelton-Scott,38,466,best-classic-riders,2019
+Geschke Simon,CCC Team,37,477,best-classic-riders,2019
+Cherel Mikaël,AG2R La Mondiale,37,472,best-classic-riders,2019
 King Ben,Team Dimension Data,37,476,best-classic-riders,2019
 Offredo Yoann,Wanty - Gobert Cycling Team,37,468,best-classic-riders,2019
 Bystrøm Sven Erik,UAE Team Emirates,37,471,best-classic-riders,2019
-Geschke Simon,CCC Team,37,477,best-classic-riders,2019
-Cherel Mikaël,AG2R La Mondiale,37,472,best-classic-riders,2019
 Grellier Fabien,Team Total Direct Energie,36,483,best-classic-riders,2019
 Fraile Omar,Astana Pro Team,33,511,best-classic-riders,2019
 Aru Fabio,UAE Team Emirates,31,539,best-classic-riders,2019
 Clarke Simon,EF Education First,30,549,best-classic-riders,2019
-Felline Fabio,Trek - Segafredo,28,567,best-classic-riders,2019
 Van Melsen Kévin,Wanty - Gobert Cycling Team,28,573,best-classic-riders,2019
+Felline Fabio,Trek - Segafredo,28,567,best-classic-riders,2019
 Martin Tony,Team Jumbo-Visma,28,571,best-classic-riders,2019
+Kangert Tanel,EF Education First,27,580,best-classic-riders,2019
 Haller Marco,Team Katusha Alpecin,27,587,best-classic-riders,2019
 Pöstlberger Lukas,BORA - hansgrohe,27,579,best-classic-riders,2019
-Kangert Tanel,EF Education First,27,580,best-classic-riders,2019
 Bernard Julien,Trek - Segafredo,25,618,best-classic-riders,2019
 Rowe Luke,Team INEOS,23,656,best-classic-riders,2019
 Monfort Maxime,Lotto Soudal,22,662,best-classic-riders,2019
+Landa Mikel,Movistar Team,20,692,best-classic-riders,2019
 Erviti Imanol,Movistar Team,20,707,best-classic-riders,2019
 Cummings Steve,Team Dimension Data,20,691,best-classic-riders,2019
-Landa Mikel,Movistar Team,20,692,best-classic-riders,2019
 Sicard Romain,Team Total Direct Energie,19,722,best-classic-riders,2019
-Scully Tom,EF Education First,18,751,best-classic-riders,2019
 van Garderen Tejay,EF Education First,18,740,best-classic-riders,2019
 Mas Enric,Deceuninck - Quick Step,18,741,best-classic-riders,2019
 Bettiol Alberto,EF Education First,18,755,best-classic-riders,2019
+Scully Tom,EF Education First,18,751,best-classic-riders,2019
 Bilbao Pello,Astana Pro Team,17,767,best-classic-riders,2019
 Perez Anthony,"Cofidis, Solutions Crédits",17,765,best-classic-riders,2019
-Berhane Natnael,"Cofidis, Solutions Crédits",16,789,best-classic-riders,2019
 Hepburn Michael,Mitchelton-Scott,16,797,best-classic-riders,2019
-Haga Chad,Team Sunweb,15,808,best-classic-riders,2019
+Berhane Natnael,"Cofidis, Solutions Crédits",16,789,best-classic-riders,2019
 Rosskopf Joey,CCC Team,15,837,best-classic-riders,2019
 Gougeard Alexis,AG2R La Mondiale,15,820,best-classic-riders,2019
+Haga Chad,Team Sunweb,15,808,best-classic-riders,2019
 Moinard Amaël,Team Arkéa Samsic,13,893,best-classic-riders,2019
-Dowsett Alex,Team Katusha Alpecin,10,981,best-classic-riders,2019
 Kluge Roger,Lotto Soudal,10,979,best-classic-riders,2019
+Dowsett Alex,Team Katusha Alpecin,10,981,best-classic-riders,2019
 Roglič Primož,Team Jumbo-Visma,1340,1,top-gc-riders,2020
 Bernal Egan,INEOS Grenadiers,1196,2,top-gc-riders,2020
 Valverde Alejandro,Movistar Team,960,3,top-gc-riders,2020
@@ -2072,24 +2077,24 @@ Neilands Krists,Israel Start-Up Nation,285,65,top-gc-riders,2020
 Martínez Daniel Felipe,EF Pro Cycling,278,69,top-gc-riders,2020
 Formolo Davide,UAE Team Emirates,272,72,top-gc-riders,2020
 Calmejane Lilian,Team Total Direct Energie,270,74,top-gc-riders,2020
-Carthy Hugh,EF Pro Cycling,263,77,top-gc-riders,2020
 Soler Marc,Movistar Team,263,76,top-gc-riders,2020
+Carthy Hugh,EF Pro Cycling,263,77,top-gc-riders,2020
 Hirt Jan,CCC Team,250,81,top-gc-riders,2020
 Madouas Valentin,Groupama - FDJ,247,83,top-gc-riders,2020
 Bilbao Pello,Bahrain - McLaren,237,89,top-gc-riders,2020
 Kwiatkowski Michał,INEOS Grenadiers,231,90,top-gc-riders,2020
 Hirschi Marc,Team Sunweb,226,92,top-gc-riders,2020
 van Baarle Dylan,INEOS Grenadiers,223,93,top-gc-riders,2020
-Schachmann Maximilian,BORA - hansgrohe,221,95,top-gc-riders,2020
 De Buyst Jasper,Lotto Soudal,221,96,top-gc-riders,2020
+Schachmann Maximilian,BORA - hansgrohe,221,95,top-gc-riders,2020
 Dumoulin Tom,Team Jumbo-Visma,220,98,top-gc-riders,2020
 Reichenbach Sébastien,Groupama - FDJ,215,100,top-gc-riders,2020
 Pacher Quentin,B&B Hotels - Vital Concept p/b KTM,211,101,top-gc-riders,2020
 de la Cruz David,UAE Team Emirates,205,105,top-gc-riders,2020
 Molard Rudy,Groupama - FDJ,202,108,top-gc-riders,2020
+Turgis Anthony,Team Total Direct Energie,200,109,top-gc-riders,2020
 Kristoff Alexander,UAE Team Emirates,200,111,top-gc-riders,2020
 Laporte Christophe,Cofidis,200,110,top-gc-riders,2020
-Turgis Anthony,Team Total Direct Energie,200,109,top-gc-riders,2020
 Anacona Winner,Team Arkéa Samsic,195,118,top-gc-riders,2020
 Küng Stefan,Groupama - FDJ,192,119,top-gc-riders,2020
 Edet Nicolas,Cofidis,188,122,top-gc-riders,2020
@@ -2098,8 +2103,8 @@ Izagirre Gorka,Astana Pro Team,183,125,top-gc-riders,2020
 Trentin Matteo,CCC Team,181,126,top-gc-riders,2020
 Keukeleire Jens,EF Pro Cycling,180,128,top-gc-riders,2020
 Chaves Esteban,Mitchelton-Scott,165,141,top-gc-riders,2020
-Boasson Hagen Edvald,NTT Pro Cycling,156,150,top-gc-riders,2020
 Rosa Diego,Team Arkéa Samsic,156,151,top-gc-riders,2020
+Boasson Hagen Edvald,NTT Pro Cycling,156,150,top-gc-riders,2020
 Asgreen Kasper,Deceuninck - Quick Step,155,153,top-gc-riders,2020
 Coquard Bryan,B&B Hotels - Vital Concept p/b KTM,151,161,top-gc-riders,2020
 Colbrelli Sonny,Bahrain - McLaren,150,163,top-gc-riders,2020
@@ -2136,20 +2141,20 @@ Kämna Lennard,BORA - hansgrohe,78,312,top-gc-riders,2020
 Fraile Omar,Astana Pro Team,78,313,top-gc-riders,2020
 Mohorič Matej,Bahrain - McLaren,76,317,top-gc-riders,2020
 Cavagna Rémi,Deceuninck - Quick Step,75,325,top-gc-riders,2020
-Mørkøv Michael,Deceuninck - Quick Step,74,329,top-gc-riders,2020
 Nieuwenhuis Joris,Team Sunweb,74,333,top-gc-riders,2020
-Arndt Nikias,Team Sunweb,72,342,top-gc-riders,2020
+Mørkøv Michael,Deceuninck - Quick Step,74,329,top-gc-riders,2020
 Castroviejo Jonathan,INEOS Grenadiers,72,347,top-gc-riders,2020
+Arndt Nikias,Team Sunweb,72,342,top-gc-riders,2020
 Perez Anthony,Cofidis,67,367,top-gc-riders,2020
 Quintana Dayer,Team Arkéa Samsic,66,370,top-gc-riders,2020
 Cherel Mikaël,AG2R La Mondiale,66,373,top-gc-riders,2020
 Rojas José Joaquín,Movistar Team,64,382,top-gc-riders,2020
 Niv Guy,Israel Start-Up Nation,64,386,top-gc-riders,2020
 Gesink Robert,Team Jumbo-Visma,63,397,top-gc-riders,2020
-Verona Carlos,Movistar Team,61,406,top-gc-riders,2020
 Périchon Pierre-Luc,Cofidis,61,402,top-gc-riders,2020
-Erviti Imanol,Movistar Team,60,414,top-gc-riders,2020
+Verona Carlos,Movistar Team,61,406,top-gc-riders,2020
 Peters Nans,AG2R La Mondiale,60,407,top-gc-riders,2020
+Erviti Imanol,Movistar Team,60,414,top-gc-riders,2020
 Kuss Sepp,Team Jumbo-Visma,59,416,top-gc-riders,2020
 Schär Michael,CCC Team,59,415,top-gc-riders,2020
 Haller Marco,Bahrain - McLaren,58,421,top-gc-riders,2020
@@ -2157,31 +2162,31 @@ Walscheid Max,NTT Pro Cycling,55,432,top-gc-riders,2020
 Barthe Cyril,B&B Hotels - Vital Concept p/b KTM,51,459,top-gc-riders,2020
 Juul-Jensen Christopher,Mitchelton-Scott,50,475,top-gc-riders,2020
 Pedersen Casper,Team Sunweb,46,504,top-gc-riders,2020
+Gautier Cyril,B&B Hotels - Vital Concept p/b KTM,43,518,top-gc-riders,2020
 Viviani Elia,Cofidis,43,525,top-gc-riders,2020
 Oss Daniel,BORA - hansgrohe,43,520,top-gc-riders,2020
 Sagan Peter,BORA - hansgrohe,43,524,top-gc-riders,2020
-Gautier Cyril,B&B Hotels - Vital Concept p/b KTM,43,518,top-gc-riders,2020
 Elissonde Kenny,Trek - Segafredo,42,540,top-gc-riders,2020
 Degenkolb John,Lotto Soudal,41,546,top-gc-riders,2020
 Ladagnous Matthieu,Groupama - FDJ,40,548,top-gc-riders,2020
-Debusschere Jens,B&B Hotels - Vital Concept p/b KTM,38,563,top-gc-riders,2020
 Pöstlberger Lukas,BORA - hansgrohe,38,572,top-gc-riders,2020
-Laengen Vegard Stake,UAE Team Emirates,36,588,top-gc-riders,2020
-Kluge Roger,Lotto Soudal,36,596,top-gc-riders,2020
+Debusschere Jens,B&B Hotels - Vital Concept p/b KTM,38,563,top-gc-riders,2020
 Bennett Sam,Deceuninck - Quick Step,36,583,top-gc-riders,2020
 Ewan Caleb,Lotto Soudal,36,597,top-gc-riders,2020
-Ledanois Kévin,Team Arkéa Samsic,35,608,top-gc-riders,2020
+Laengen Vegard Stake,UAE Team Emirates,36,588,top-gc-riders,2020
+Kluge Roger,Lotto Soudal,36,596,top-gc-riders,2020
 Theuns Edward,Trek - Segafredo,35,606,top-gc-riders,2020
-Bauer Jack,Mitchelton-Scott,33,641,top-gc-riders,2020
+Ledanois Kévin,Team Arkéa Samsic,35,608,top-gc-riders,2020
 Declercq Tim,Deceuninck - Quick Step,33,627,top-gc-riders,2020
 Consonni Simone,Cofidis,33,626,top-gc-riders,2020
+Bauer Jack,Mitchelton-Scott,33,641,top-gc-riders,2020
 Venturini Clément,AG2R La Mondiale,30,664,top-gc-riders,2020
 Gogl Michael,NTT Pro Cycling,30,667,top-gc-riders,2020
 Bewley Sam,Mitchelton-Scott,28,698,top-gc-riders,2020
+De Marchi Alessandro,CCC Team,25,745,top-gc-riders,2020
 Mezgec Luka,Mitchelton-Scott,25,728,top-gc-riders,2020
 Grellier Fabien,Team Total Direct Energie,25,743,top-gc-riders,2020
 Koch Jonas,CCC Team,25,739,top-gc-riders,2020
-De Marchi Alessandro,CCC Team,25,745,top-gc-riders,2020
 Rowe Luke,INEOS Grenadiers,18,865,top-gc-riders,2020
 Chevalier Maxime,B&B Hotels - Vital Concept p/b KTM,14,925,top-gc-riders,2020
 Pedersen Mads,Trek - Segafredo,13,970,top-gc-riders,2020
@@ -2282,8 +2287,8 @@ Oliveira Nelson,Movistar Team,31.2,860,top-sprinters,2020
 Kwiatkowski Michał,INEOS Grenadiers,30.5,880,top-sprinters,2020
 Molard Rudy,Groupama - FDJ,30,890,top-sprinters,2020
 Asgreen Kasper,Deceuninck - Quick Step,28,942,top-sprinters,2020
-Chevalier Maxime,B&B Hotels - Vital Concept p/b KTM,27,966,top-sprinters,2020
 Izagirre Ion,Astana Pro Team,27,964,top-sprinters,2020
+Chevalier Maxime,B&B Hotels - Vital Concept p/b KTM,27,966,top-sprinters,2020
 Roglič Primož,Team Jumbo-Visma,876,1,top-time-trial-riders,2020
 Küng Stefan,Groupama - FDJ,576,4,top-time-trial-riders,2020
 De Gendt Thomas,Lotto Soudal,419,9,top-time-trial-riders,2020
@@ -2311,20 +2316,20 @@ Pedersen Mads,Trek - Segafredo,159,63,top-time-trial-riders,2020
 Porte Richie,Trek - Segafredo,154,65,top-time-trial-riders,2020
 van Aert Wout,Team Jumbo-Visma,150,67,top-time-trial-riders,2020
 van Baarle Dylan,INEOS Grenadiers,145,72,top-time-trial-riders,2020
-Carthy Hugh,EF Pro Cycling,144,74,top-time-trial-riders,2020
 Soler Marc,Movistar Team,144,73,top-time-trial-riders,2020
+Carthy Hugh,EF Pro Cycling,144,74,top-time-trial-riders,2020
 Buchmann Emanuel,BORA - hansgrohe,142,77,top-time-trial-riders,2020
 Urán Rigoberto,EF Pro Cycling,140,78,top-time-trial-riders,2020
 Pinot Thibaut,Groupama - FDJ,138,80,top-time-trial-riders,2020
-Pogačar Tadej,UAE Team Emirates,136,82,top-time-trial-riders,2020
 Mas Enric,Movistar Team,136,81,top-time-trial-riders,2020
+Pogačar Tadej,UAE Team Emirates,136,82,top-time-trial-riders,2020
 Bernal Egan,INEOS Grenadiers,130,86,top-time-trial-riders,2020
 Großschartner Felix,BORA - hansgrohe,122,92,top-time-trial-riders,2020
 Schachmann Maximilian,BORA - hansgrohe,120,93,top-time-trial-riders,2020
 Perez Anthony,Cofidis,116,94,top-time-trial-riders,2020
 Latour Pierre,AG2R La Mondiale,114,96,top-time-trial-riders,2020
-Boasson Hagen Edvald,NTT Pro Cycling,106,103,top-time-trial-riders,2020
 Gibbons Ryan,NTT Pro Cycling,106,102,top-time-trial-riders,2020
+Boasson Hagen Edvald,NTT Pro Cycling,106,103,top-time-trial-riders,2020
 Valverde Alejandro,Movistar Team,102,108,top-time-trial-riders,2020
 Carapaz Richard,INEOS Grenadiers,86,129,top-time-trial-riders,2020
 Neilands Krists,Israel Start-Up Nation,85,131,top-time-trial-riders,2020
@@ -2334,15 +2339,15 @@ Anacona Winner,Team Arkéa Samsic,76,151,top-time-trial-riders,2020
 Polanc Jan,UAE Team Emirates,76,153,top-time-trial-riders,2020
 Mohorič Matej,Bahrain - McLaren,69,173,top-time-trial-riders,2020
 Turgis Anthony,Team Total Direct Energie,69,174,top-time-trial-riders,2020
-Lutsenko Alexey,Astana Pro Team,63,187,top-time-trial-riders,2020
 Trentin Matteo,CCC Team,63,185,top-time-trial-riders,2020
+Lutsenko Alexey,Astana Pro Team,63,187,top-time-trial-riders,2020
 Sánchez Luis León,Astana Pro Team,62,194,top-time-trial-riders,2020
 Castroviejo Jonathan,INEOS Grenadiers,62,197,top-time-trial-riders,2020
-Walscheid Max,NTT Pro Cycling,62,192,top-time-trial-riders,2020
 Frison Frederik,Lotto Soudal,62,196,top-time-trial-riders,2020
+Walscheid Max,NTT Pro Cycling,62,192,top-time-trial-riders,2020
 Sivakov Pavel,INEOS Grenadiers,57,214,top-time-trial-riders,2020
-De Buyst Jasper,Lotto Soudal,54,225,top-time-trial-riders,2020
 Arndt Nikias,Team Sunweb,54,228,top-time-trial-riders,2020
+De Buyst Jasper,Lotto Soudal,54,225,top-time-trial-riders,2020
 Quintana Nairo,Team Arkéa Samsic,53,229,top-time-trial-riders,2020
 Martin Dan,Israel Start-Up Nation,52,233,top-time-trial-riders,2020
 Coquard Bryan,B&B Hotels - Vital Concept p/b KTM,51,237,top-time-trial-riders,2020
@@ -2355,8 +2360,8 @@ Colbrelli Sonny,Bahrain - McLaren,36,338,top-time-trial-riders,2020
 Valgren Michael,NTT Pro Cycling,36,348,top-time-trial-riders,2020
 De Marchi Alessandro,CCC Team,36,344,top-time-trial-riders,2020
 Chaves Esteban,Mitchelton-Scott,35,351,top-time-trial-riders,2020
-Bol Cees,Team Sunweb,34,358,top-time-trial-riders,2020
 Amador Andrey,INEOS Grenadiers,34,363,top-time-trial-riders,2020
+Bol Cees,Team Sunweb,34,358,top-time-trial-riders,2020
 Pedersen Casper,Team Sunweb,33,368,top-time-trial-riders,2020
 Izagirre Gorka,Astana Pro Team,31,385,top-time-trial-riders,2020
 Herrada Jesús,Cofidis,30,440,top-time-trial-riders,2020
@@ -2365,12 +2370,12 @@ Benoot Tiesj,Team Sunweb,28,457,top-time-trial-riders,2020
 Landa Mikel,Bahrain - McLaren,27,474,top-time-trial-riders,2020
 Kämna Lennard,BORA - hansgrohe,26,494,top-time-trial-riders,2020
 Jansen Amund Grøndahl,Team Jumbo-Visma,25,535,top-time-trial-riders,2020
-Kluge Roger,Lotto Soudal,24,566,top-time-trial-riders,2020
 Rosa Diego,Team Arkéa Samsic,24,565,top-time-trial-riders,2020
+Kluge Roger,Lotto Soudal,24,566,top-time-trial-riders,2020
 Viviani Elia,Cofidis,23,573,top-time-trial-riders,2020
+Madouas Valentin,Groupama - FDJ,22,586,top-time-trial-riders,2020
 Higuita Sergio,EF Pro Cycling,22,587,top-time-trial-riders,2020
 Hermans Ben,Israel Start-Up Nation,22,581,top-time-trial-riders,2020
-Madouas Valentin,Groupama - FDJ,22,586,top-time-trial-riders,2020
 Poels Wout,Bahrain - McLaren,20,639,top-time-trial-riders,2020
 Molard Rudy,Groupama - FDJ,20,605,top-time-trial-riders,2020
 Roche Nicolas,Team Sunweb,20,618,top-time-trial-riders,2020
@@ -2382,8 +2387,8 @@ Consonni Simone,Cofidis,17,707,top-time-trial-riders,2020
 Reichenbach Sébastien,Groupama - FDJ,16,741,top-time-trial-riders,2020
 Van Avermaet Greg,CCC Team,15,801,top-time-trial-riders,2020
 Pöstlberger Lukas,BORA - hansgrohe,14,814,top-time-trial-riders,2020
-Swift Connor,Team Arkéa Samsic,13,834,top-time-trial-riders,2020
 Aru Fabio,UAE Team Emirates,13,836,top-time-trial-riders,2020
+Swift Connor,Team Arkéa Samsic,13,834,top-time-trial-riders,2020
 Mørkøv Michael,Deceuninck - Quick Step,12,873,top-time-trial-riders,2020
 Russo Clément,Team Arkéa Samsic,11,946,top-time-trial-riders,2020
 Ladagnous Matthieu,Groupama - FDJ,10,982,top-time-trial-riders,2020
@@ -2450,8 +2455,8 @@ Rowe Luke,INEOS Grenadiers,213,107,best-classic-riders,2020
 Bardet Romain,AG2R La Mondiale,207,111,best-classic-riders,2020
 Haller Marco,Bahrain - McLaren,199,114,best-classic-riders,2020
 Laporte Christophe,Cofidis,198,115,best-classic-riders,2020
-Bonifazio Niccolò,Team Total Direct Energie,190,118,best-classic-riders,2020
 Molard Rudy,Groupama - FDJ,190,119,best-classic-riders,2020
+Bonifazio Niccolò,Team Total Direct Energie,190,118,best-classic-riders,2020
 Consonni Simone,Cofidis,189,121,best-classic-riders,2020
 De Buyst Jasper,Lotto Soudal,188,122,best-classic-riders,2020
 Debusschere Jens,B&B Hotels - Vital Concept p/b KTM,187,123,best-classic-riders,2020
@@ -2474,9 +2479,9 @@ Amador Andrey,INEOS Grenadiers,90,222,best-classic-riders,2020
 Verona Carlos,Movistar Team,89,223,best-classic-riders,2020
 Hermans Ben,Israel Start-Up Nation,86,233,best-classic-riders,2020
 Landa Mikel,Bahrain - McLaren,85,234,best-classic-riders,2020
-Pacher Quentin,B&B Hotels - Vital Concept p/b KTM,84,238,best-classic-riders,2020
 Rosa Diego,Team Arkéa Samsic,84,240,best-classic-riders,2020
 De Marchi Alessandro,CCC Team,84,239,best-classic-riders,2020
+Pacher Quentin,B&B Hotels - Vital Concept p/b KTM,84,238,best-classic-riders,2020
 van Baarle Dylan,INEOS Grenadiers,83,241,best-classic-riders,2020
 Poels Wout,Bahrain - McLaren,82,243,best-classic-riders,2020
 Russo Clément,Team Arkéa Samsic,81,248,best-classic-riders,2020
@@ -2485,31 +2490,31 @@ Périchon Pierre-Luc,Cofidis,74,272,best-classic-riders,2020
 Kreuziger Roman,NTT Pro Cycling,71,281,best-classic-riders,2020
 Izagirre Ion,Astana Pro Team,67,288,best-classic-riders,2020
 Oss Daniel,BORA - hansgrohe,64,295,best-classic-riders,2020
-Kuss Sepp,Team Jumbo-Visma,62,305,best-classic-riders,2020
 Powless Neilson,EF Pro Cycling,62,303,best-classic-riders,2020
-Ledanois Kévin,Team Arkéa Samsic,61,311,best-classic-riders,2020
+Kuss Sepp,Team Jumbo-Visma,62,305,best-classic-riders,2020
 Gogl Michael,NTT Pro Cycling,61,307,best-classic-riders,2020
+Ledanois Kévin,Team Arkéa Samsic,61,311,best-classic-riders,2020
 Houle Hugo,Astana Pro Team,59,320,best-classic-riders,2020
 Caruso Damiano,Bahrain - McLaren,56,338,best-classic-riders,2020
 Gautier Cyril,B&B Hotels - Vital Concept p/b KTM,53,353,best-classic-riders,2020
 Schär Michael,CCC Team,52,357,best-classic-riders,2020
-Dumoulin Tom,Team Jumbo-Visma,51,364,best-classic-riders,2020
 Juul-Jensen Christopher,Mitchelton-Scott,51,362,best-classic-riders,2020
+Dumoulin Tom,Team Jumbo-Visma,51,364,best-classic-riders,2020
 Oliveira Nelson,Movistar Team,50,366,best-classic-riders,2020
 Perez Anthony,Cofidis,49,369,best-classic-riders,2020
 Boasson Hagen Edvald,NTT Pro Cycling,48,374,best-classic-riders,2020
 Reza Kévin,B&B Hotels - Vital Concept p/b KTM,46,396,best-classic-riders,2020
 Carthy Hugh,EF Pro Cycling,44,405,best-classic-riders,2020
-Nieuwenhuis Joris,Team Sunweb,43,408,best-classic-riders,2020
 Kragh Andersen Søren,Team Sunweb,43,409,best-classic-riders,2020
+Nieuwenhuis Joris,Team Sunweb,43,408,best-classic-riders,2020
 Nieve Mikel,Mitchelton-Scott,42,421,best-classic-riders,2020
 Bauer Jack,Mitchelton-Scott,42,420,best-classic-riders,2020
 Reichenbach Sébastien,Groupama - FDJ,39,449,best-classic-riders,2020
 Chaves Esteban,Mitchelton-Scott,38,455,best-classic-riders,2020
 Declercq Tim,Deceuninck - Quick Step,38,452,best-classic-riders,2020
 Polanc Jan,UAE Team Emirates,38,456,best-classic-riders,2020
-Edet Nicolas,Cofidis,37,461,best-classic-riders,2020
 Barthe Cyril,B&B Hotels - Vital Concept p/b KTM,37,466,best-classic-riders,2020
+Edet Nicolas,Cofidis,37,461,best-classic-riders,2020
 Martínez Daniel Felipe,EF Pro Cycling,36,471,best-classic-riders,2020
 Mühlberger Gregor,BORA - hansgrohe,35,481,best-classic-riders,2020
 Devenyns Dries,Deceuninck - Quick Step,35,484,best-classic-riders,2020
@@ -2519,24 +2524,24 @@ Marcato Marco,UAE Team Emirates,31,520,best-classic-riders,2020
 Elissonde Kenny,Trek - Segafredo,29,541,best-classic-riders,2020
 Zakarin Ilnur,CCC Team,28,555,best-classic-riders,2020
 Fraile Omar,Astana Pro Team,27,566,best-classic-riders,2020
-Soupe Geoffrey,Team Total Direct Energie,26,567,best-classic-riders,2020
 Bilbao Pello,Bahrain - McLaren,26,575,best-classic-riders,2020
-Geschke Simon,CCC Team,25,583,best-classic-riders,2020
+Soupe Geoffrey,Team Total Direct Energie,26,567,best-classic-riders,2020
 Cousin Jérôme,Team Total Direct Energie,25,578,best-classic-riders,2020
-Aru Fabio,UAE Team Emirates,24,610,best-classic-riders,2020
+Geschke Simon,CCC Team,25,583,best-classic-riders,2020
 Swift Connor,Team Arkéa Samsic,24,606,best-classic-riders,2020
+Aru Fabio,UAE Team Emirates,24,610,best-classic-riders,2020
 Cherel Mikaël,AG2R La Mondiale,22,629,best-classic-riders,2020
 Laengen Vegard Stake,UAE Team Emirates,21,647,best-classic-riders,2020
 Rolland Pierre,B&B Hotels - Vital Concept p/b KTM,20,660,best-classic-riders,2020
 Cataldo Dario,Movistar Team,19,673,best-classic-riders,2020
 Eg Niklas,Trek - Segafredo,18,688,best-classic-riders,2020
-Carapaz Richard,INEOS Grenadiers,17,702,best-classic-riders,2020
 Pedersen Casper,Team Sunweb,17,714,best-classic-riders,2020
+Carapaz Richard,INEOS Grenadiers,17,702,best-classic-riders,2020
 Cras Steff,Lotto Soudal,16,728,best-classic-riders,2020
-Castroviejo Jonathan,INEOS Grenadiers,15,807,best-classic-riders,2020
 Großschartner Felix,BORA - hansgrohe,15,813,best-classic-riders,2020
 Roche Nicolas,Team Sunweb,15,766,best-classic-riders,2020
 Bennett George,Team Jumbo-Visma,15,814,best-classic-riders,2020
+Castroviejo Jonathan,INEOS Grenadiers,15,807,best-classic-riders,2020
 Sicard Romain,Team Total Direct Energie,11,896,best-classic-riders,2020
 Burgaudeau Mathieu,Team Total Direct Energie,11,901,best-classic-riders,2020
 Pinot Thibaut,Groupama - FDJ,10,926,best-classic-riders,2020
@@ -2571,8 +2576,8 @@ Barguil Warren,Team Arkéa Samsic,262,45,top-gc-riders,2021
 Geschke Simon,Cofidis,259,46,top-gc-riders,2021
 Soler Marc,Movistar Team,257,47,top-gc-riders,2021
 van der Poel Mathieu,Alpecin-Fenix,255,48,top-gc-riders,2021
-McNulty Brandon,UAE Team Emirates,240,52,top-gc-riders,2021
 Lutsenko Alexey,Astana - Premier Tech,240,53,top-gc-riders,2021
+McNulty Brandon,UAE Team Emirates,240,52,top-gc-riders,2021
 Urán Rigoberto,EF Education - Nippo,236,54,top-gc-riders,2021
 Benoot Tiesj,Team DSM,215,57,top-gc-riders,2021
 Paret-Peintre Aurélien,AG2R Citroën Team,213,58,top-gc-riders,2021
@@ -2585,20 +2590,21 @@ Van Avermaet Greg,AG2R Citroën Team,171,71,top-gc-riders,2021
 van Baarle Dylan,INEOS Grenadiers,170,75,top-gc-riders,2021
 Pedersen Mads,Trek - Segafredo,155,81,top-gc-riders,2021
 Teuns Dylan,Bahrain - Victorious,150,83,top-gc-riders,2021
-Meurisse Xandro,Alpecin-Fenix,143,89,top-gc-riders,2021
 Cattaneo Mattia,Deceuninck - Quick Step,143,88,top-gc-riders,2021
+Meurisse Xandro,Alpecin-Fenix,143,89,top-gc-riders,2021
 Meintjes Louis,Intermarché - Wanty - Gobert Matériaux,140,92,top-gc-riders,2021
 Colbrelli Sonny,Bahrain - Victorious,140,91,top-gc-riders,2021
 Elissonde Kenny,Trek - Segafredo,136,93,top-gc-riders,2021
 Verona Carlos,Movistar Team,135,94,top-gc-riders,2021
+Henao Sergio,Team Qhubeka NextHash,130,100,top-gc-riders,2021
 Cosnefroy Benoît,AG2R Citroën Team,128,101,top-gc-riders,2021
 Powless Neilson,EF Education - Nippo,111,109,top-gc-riders,2021
-Vingegaard Jonas,Team Jumbo-Visma,110,111,top-gc-riders,2021
 Woods Michael,Israel Start-Up Nation,110,110,top-gc-riders,2021
+Vingegaard Jonas,Team Jumbo-Visma,110,111,top-gc-riders,2021
 van Aert Wout,Team Jumbo-Visma,105,118,top-gc-riders,2021
-Madouas Valentin,Groupama - FDJ,102,123,top-gc-riders,2021
 Mollema Bauke,Trek - Segafredo,102,122,top-gc-riders,2021
 Herrada Jesús,Cofidis,102,124,top-gc-riders,2021
+Madouas Valentin,Groupama - FDJ,102,123,top-gc-riders,2021
 Pacher Quentin,B&B Hotels p/b KTM,101,125,top-gc-riders,2021
 Teunissen Mike,Team Jumbo-Visma,95,134,top-gc-riders,2021
 Fernández Rubén,Cofidis,95,135,top-gc-riders,2021
@@ -2613,105 +2619,105 @@ O'Connor Ben,AG2R Citroën Team,75,168,top-gc-riders,2021
 Kwiatkowski Michał,INEOS Grenadiers,74,172,top-gc-riders,2021
 Alaphilippe Julian,Deceuninck - Quick Step,73,174,top-gc-riders,2021
 Bakelants Jan,Intermarché - Wanty - Gobert Matériaux,72,176,top-gc-riders,2021
-Armirail Bruno,Groupama - FDJ,71,180,top-gc-riders,2021
 Sütterlin Jasha,Team DSM,71,181,top-gc-riders,2021
-Zimmermann Georg,Intermarché - Wanty - Gobert Matériaux,70,187,top-gc-riders,2021
+Armirail Bruno,Groupama - FDJ,71,180,top-gc-riders,2021
 Bouhanni Nacer,Team Arkéa Samsic,70,182,top-gc-riders,2021
 Naesen Oliver,AG2R Citroën Team,70,193,top-gc-riders,2021
 De Gendt Thomas,Lotto Soudal,70,194,top-gc-riders,2021
+Zimmermann Georg,Intermarché - Wanty - Gobert Matériaux,70,187,top-gc-riders,2021
 Gesink Robert,Team Jumbo-Visma,70,186,top-gc-riders,2021
 Formolo Davide,UAE Team Emirates,69,196,top-gc-riders,2021
 Walscheid Max,Team Qhubeka NextHash,64,205,top-gc-riders,2021
 Castroviejo Jonathan,INEOS Grenadiers,63,207,top-gc-riders,2021
 Rodríguez Cristián,TotalEnergies,60,215,top-gc-riders,2021
-Bissegger Stefan,EF Education - Nippo,55,223,top-gc-riders,2021
 Mørkøv Michael,Deceuninck - Quick Step,55,224,top-gc-riders,2021
+Bissegger Stefan,EF Education - Nippo,55,223,top-gc-riders,2021
 Valgren Michael,EF Education - Nippo,53,230,top-gc-riders,2021
 Peters Nans,AG2R Citroën Team,50,247,top-gc-riders,2021
 Erviti Imanol,Movistar Team,50,249,top-gc-riders,2021
-Haller Marco,Bahrain - Victorious,49,258,top-gc-riders,2021
 Barbero Carlos,Team Qhubeka NextHash,49,256,top-gc-riders,2021
+Haller Marco,Bahrain - Victorious,49,258,top-gc-riders,2021
 Politt Nils,BORA - hansgrohe,49,260,top-gc-riders,2021
 Gilbert Philippe,Lotto Soudal,49,259,top-gc-riders,2021
-Sagan Peter,BORA - hansgrohe,45,271,top-gc-riders,2021
 Périchon Pierre-Luc,Cofidis,45,274,top-gc-riders,2021
-Dillier Silvan,Alpecin-Fenix,40,292,top-gc-riders,2021
+Sagan Peter,BORA - hansgrohe,45,271,top-gc-riders,2021
 Swift Connor,Team Arkéa Samsic,40,297,top-gc-riders,2021
+Dillier Silvan,Alpecin-Fenix,40,292,top-gc-riders,2021
 Hirschi Marc,UAE Team Emirates,39,304,top-gc-riders,2021
 Houle Hugo,Astana - Premier Tech,37,311,top-gc-riders,2021
-Kruijswijk Steven,Team Jumbo-Visma,36,322,top-gc-riders,2021
 Vliegen Loïc,Intermarché - Wanty - Gobert Matériaux,36,323,top-gc-riders,2021
+Kruijswijk Steven,Team Jumbo-Visma,36,322,top-gc-riders,2021
 Kluge Roger,Lotto Soudal,35,329,top-gc-riders,2021
 Asgreen Kasper,Deceuninck - Quick Step,35,331,top-gc-riders,2021
+Laengen Vegard Stake,UAE Team Emirates,35,326,top-gc-riders,2021
 Rowe Luke,INEOS Grenadiers,35,332,top-gc-riders,2021
 Theuns Edward,Trek - Segafredo,35,327,top-gc-riders,2021
 Declercq Tim,Deceuninck - Quick Step,35,333,top-gc-riders,2021
-Laengen Vegard Stake,UAE Team Emirates,35,326,top-gc-riders,2021
 Delaplace Anthony,Team Arkéa Samsic,34,337,top-gc-riders,2021
-Mezgec Luka,Team BikeExchange,33,345,top-gc-riders,2021
 Zabel Rick,Israel Start-Up Nation,33,353,top-gc-riders,2021
 Ewan Caleb,Lotto Soudal,33,344,top-gc-riders,2021
 Froome Chris,Israel Start-Up Nation,33,347,top-gc-riders,2021
 Goldstein Omer,Israel Start-Up Nation,33,346,top-gc-riders,2021
-Godon Dorian,AG2R Citroën Team,32,360,top-gc-riders,2021
+Mezgec Luka,Team BikeExchange,33,345,top-gc-riders,2021
 Mohorič Matej,Bahrain - Victorious,32,362,top-gc-riders,2021
-Pedersen Casper,Team DSM,31,370,top-gc-riders,2021
+Godon Dorian,AG2R Citroën Team,32,360,top-gc-riders,2021
 Barthe Cyril,B&B Hotels p/b KTM,31,372,top-gc-riders,2021
 Schelling Ide,BORA - hansgrohe,31,369,top-gc-riders,2021
+Pedersen Casper,Team DSM,31,370,top-gc-riders,2021
 Skujiņš Toms,Trek - Segafredo,31,374,top-gc-riders,2021
-Bjerg Mikkel,UAE Team Emirates,30,402,top-gc-riders,2021
-Bol Cees,Team DSM,30,395,top-gc-riders,2021
-Laporte Christophe,Cofidis,30,394,top-gc-riders,2021
-Koch Jonas,Intermarché - Wanty - Gobert Matériaux,30,405,top-gc-riders,2021
-Boasson Hagen Edvald,TotalEnergies,30,387,top-gc-riders,2021
-Gautier Cyril,B&B Hotels p/b KTM,30,390,top-gc-riders,2021
-Ballerini Davide,Deceuninck - Quick Step,30,375,top-gc-riders,2021
 Juul-Jensen Christopher,Team BikeExchange,30,399,top-gc-riders,2021
 Rota Lorenzo,Intermarché - Wanty - Gobert Matériaux,30,391,top-gc-riders,2021
-Schär Michael,AG2R Citroën Team,30,392,top-gc-riders,2021
-Arcas Jorge,Movistar Team,30,401,top-gc-riders,2021
+Koch Jonas,Intermarché - Wanty - Gobert Matériaux,30,405,top-gc-riders,2021
+Boasson Hagen Edvald,TotalEnergies,30,387,top-gc-riders,2021
 de Bod Stefan,Astana - Premier Tech,30,377,top-gc-riders,2021
-Guarnieri Jacopo,Groupama - FDJ,28,413,top-gc-riders,2021
+Gautier Cyril,B&B Hotels p/b KTM,30,390,top-gc-riders,2021
+Bjerg Mikkel,UAE Team Emirates,30,402,top-gc-riders,2021
+Ballerini Davide,Deceuninck - Quick Step,30,375,top-gc-riders,2021
+Schär Michael,AG2R Citroën Team,30,392,top-gc-riders,2021
+Bol Cees,Team DSM,30,395,top-gc-riders,2021
+Arcas Jorge,Movistar Team,30,401,top-gc-riders,2021
+Laporte Christophe,Cofidis,30,394,top-gc-riders,2021
 Campenaerts Victor,Team Qhubeka NextHash,28,415,top-gc-riders,2021
+Guarnieri Jacopo,Groupama - FDJ,28,413,top-gc-riders,2021
 Van der Sande Tosh,Lotto Soudal,28,430,top-gc-riders,2021
-Oss Daniel,BORA - hansgrohe,25,489,top-gc-riders,2021
-Rickaert Jonas,Alpecin-Fenix,25,471,top-gc-riders,2021
-Scotson Miles,Groupama - FDJ,25,475,top-gc-riders,2021
-Turgis Anthony,TotalEnergies,25,494,top-gc-riders,2021
-Guerreiro Ruben,EF Education - Nippo,25,496,top-gc-riders,2021
-Clarke Simon,Team Qhubeka NextHash,25,480,top-gc-riders,2021
-Gruzdev Dmitriy,Astana - Premier Tech,25,499,top-gc-riders,2021
-Jansen Amund Grøndahl,Team BikeExchange,25,454,top-gc-riders,2021
 Donovan Mark,Team DSM,25,512,top-gc-riders,2021
-Aranburu Alex,Astana - Premier Tech,25,500,top-gc-riders,2021
+Rickaert Jonas,Alpecin-Fenix,25,471,top-gc-riders,2021
+Turgis Anthony,TotalEnergies,25,494,top-gc-riders,2021
 Nieuwenhuis Joris,Team DSM,25,485,top-gc-riders,2021
-Chevalier Maxime,B&B Hotels p/b KTM,25,469,top-gc-riders,2021
+Scotson Miles,Groupama - FDJ,25,475,top-gc-riders,2021
 Wright Fred,Bahrain - Victorious,25,466,top-gc-riders,2021
-Buchmann Emanuel,BORA - hansgrohe,25,457,top-gc-riders,2021
+Clarke Simon,Team Qhubeka NextHash,25,480,top-gc-riders,2021
 Russo Clément,Team Arkéa Samsic,25,464,top-gc-riders,2021
 Bernard Julien,Trek - Segafredo,25,461,top-gc-riders,2021
 Simon Julien,TotalEnergies,25,463,top-gc-riders,2021
+Jansen Amund Grøndahl,Team BikeExchange,25,454,top-gc-riders,2021
+Aranburu Alex,Astana - Premier Tech,25,500,top-gc-riders,2021
+Chevalier Maxime,B&B Hotels p/b KTM,25,469,top-gc-riders,2021
+Buchmann Emanuel,BORA - hansgrohe,25,457,top-gc-riders,2021
 Coquard Bryan,B&B Hotels p/b KTM,25,505,top-gc-riders,2021
+Oss Daniel,BORA - hansgrohe,25,489,top-gc-riders,2021
+Guerreiro Ruben,EF Education - Nippo,25,496,top-gc-riders,2021
+Gruzdev Dmitriy,Astana - Premier Tech,25,499,top-gc-riders,2021
 Cabot Jérémy,TotalEnergies,24,517,top-gc-riders,2021
 Konovalovas Ignatas,Groupama - FDJ,23,530,top-gc-riders,2021
 Rutsch Jonas,EF Education - Nippo,22,536,top-gc-riders,2021
 Durbridge Luke,Team BikeExchange,22,535,top-gc-riders,2021
-Cort Magnus,EF Education - Nippo,20,562,top-gc-riders,2021
 Bonnamour Franck,B&B Hotels p/b KTM,20,551,top-gc-riders,2021
+Cort Magnus,EF Education - Nippo,20,562,top-gc-riders,2021
 Hollenstein Reto,Israel Start-Up Nation,20,566,top-gc-riders,2021
 Van Moer Brent,Lotto Soudal,20,584,top-gc-riders,2021
 Perez Anthony,Cofidis,17,623,top-gc-riders,2021
 García Cortina Iván,Movistar Team,15,647,top-gc-riders,2021
 Matthews Michael,Team BikeExchange,14,651,top-gc-riders,2021
 Merlier Tim,Alpecin-Fenix,13,671,top-gc-riders,2021
-Eekhoff Nils,Team DSM,10,712,top-gc-riders,2021
 Boivin Guillaume,Israel Start-Up Nation,10,731,top-gc-riders,2021
+Eekhoff Nils,Team DSM,10,712,top-gc-riders,2021
 Lemoine Cyril,B&B Hotels p/b KTM,9,738,top-gc-riders,2021
 Cavendish Mark,Deceuninck - Quick Step,8,743,top-gc-riders,2021
-Sbaragli Kristian,Alpecin-Fenix,5,881,top-gc-riders,2021
-Gogl Michael,Team Qhubeka NextHash,5,851,top-gc-riders,2021
 van Poppel Danny,Intermarché - Wanty - Gobert Matériaux,5,886,top-gc-riders,2021
 Latour Pierre,TotalEnergies,5,838,top-gc-riders,2021
+Sbaragli Kristian,Alpecin-Fenix,5,881,top-gc-riders,2021
+Gogl Michael,Team Qhubeka NextHash,5,851,top-gc-riders,2021
 Démare Arnaud,Groupama - FDJ,946,3,top-sprinters,2021
 Ewan Caleb,Lotto Soudal,714,4,top-sprinters,2021
 Sagan Peter,BORA - hansgrohe,637.2,5,top-sprinters,2021
@@ -2722,8 +2728,8 @@ Pedersen Mads,Trek - Segafredo,402,11,top-sprinters,2021
 Coquard Bryan,B&B Hotels p/b KTM,325,17,top-sprinters,2021
 Merlier Tim,Alpecin-Fenix,312,19,top-sprinters,2021
 Walscheid Max,Team Qhubeka NextHash,287.8,22,top-sprinters,2021
-Ballerini Davide,Deceuninck - Quick Step,283,23,top-sprinters,2021
 Bol Cees,Team DSM,283,24,top-sprinters,2021
+Ballerini Davide,Deceuninck - Quick Step,283,23,top-sprinters,2021
 Cort Magnus,EF Education - Nippo,273.8,27,top-sprinters,2021
 Mezgec Luka,Team BikeExchange,252.6,28,top-sprinters,2021
 van Poppel Danny,Intermarché - Wanty - Gobert Matériaux,240,31,top-sprinters,2021
@@ -2773,9 +2779,9 @@ Gilbert Philippe,Lotto Soudal,50,276,top-sprinters,2021
 Dillier Silvan,Alpecin-Fenix,49,287,top-sprinters,2021
 Pogačar Tadej,UAE Team Emirates,48.7,289,top-sprinters,2021
 Mohorič Matej,Bahrain - Victorious,48.5,290,top-sprinters,2021
-Izagirre Ion,Astana - Premier Tech,48,294,top-sprinters,2021
 Benoot Tiesj,Team DSM,48,293,top-sprinters,2021
 Van der Sande Tosh,Lotto Soudal,48,292,top-sprinters,2021
+Izagirre Ion,Astana - Premier Tech,48,294,top-sprinters,2021
 Hirschi Marc,UAE Team Emirates,47.5,296,top-sprinters,2021
 Wright Fred,Bahrain - Victorious,44,311,top-sprinters,2021
 Godon Dorian,AG2R Citroën Team,42.2,322,top-sprinters,2021
@@ -2788,8 +2794,8 @@ Guarnieri Jacopo,Groupama - FDJ,34,383,top-sprinters,2021
 Nibali Vincenzo,Trek - Segafredo,33,396,top-sprinters,2021
 Bernard Julien,Trek - Segafredo,32,402,top-sprinters,2021
 Houle Hugo,Astana - Premier Tech,31.2,411,top-sprinters,2021
-Rota Lorenzo,Intermarché - Wanty - Gobert Matériaux,31,416,top-sprinters,2021
 Zimmermann Georg,Intermarché - Wanty - Gobert Matériaux,31,418,top-sprinters,2021
+Rota Lorenzo,Intermarché - Wanty - Gobert Matériaux,31,416,top-sprinters,2021
 Teunissen Mike,Team Jumbo-Visma,30.2,420,top-sprinters,2021
 Haller Marco,Bahrain - Victorious,30,421,top-sprinters,2021
 Pacher Quentin,B&B Hotels p/b KTM,30,429,top-sprinters,2021
@@ -2817,16 +2823,16 @@ Poels Wout,Bahrain - Victorious,17.2,654,top-sprinters,2021
 Boivin Guillaume,Israel Start-Up Nation,17,671,top-sprinters,2021
 Koch Jonas,Intermarché - Wanty - Gobert Matériaux,17,668,top-sprinters,2021
 Majka Rafał,UAE Team Emirates,16.4,676,top-sprinters,2021
-Rickaert Jonas,Alpecin-Fenix,16,699,top-sprinters,2021
-Lemoine Cyril,B&B Hotels p/b KTM,16,684,top-sprinters,2021
 Meintjes Louis,Intermarché - Wanty - Gobert Matériaux,16,705,top-sprinters,2021
 Russo Clément,Team Arkéa Samsic,16,682,top-sprinters,2021
 Küng Stefan,Groupama - FDJ,16,695,top-sprinters,2021
+Rickaert Jonas,Alpecin-Fenix,16,699,top-sprinters,2021
+Lemoine Cyril,B&B Hotels p/b KTM,16,684,top-sprinters,2021
 Kwiatkowski Michał,INEOS Grenadiers,15.9,720,top-sprinters,2021
 Doubey Fabien,TotalEnergies,15,733,top-sprinters,2021
+Gautier Cyril,B&B Hotels p/b KTM,14,755,top-sprinters,2021
 Declercq Tim,Deceuninck - Quick Step,14,748,top-sprinters,2021
 van Poppel Boy,Intermarché - Wanty - Gobert Matériaux,14,756,top-sprinters,2021
-Gautier Cyril,B&B Hotels p/b KTM,14,755,top-sprinters,2021
 Rodríguez Cristián,TotalEnergies,13,786,top-sprinters,2021
 Durbridge Luke,Team BikeExchange,13,795,top-sprinters,2021
 Woods Michael,Israel Start-Up Nation,12.8,806,top-sprinters,2021
@@ -2863,10 +2869,10 @@ Teuns Dylan,Bahrain - Victorious,99,55,top-time-trial-riders,2021
 Matthews Michael,Team BikeExchange,98,56,top-time-trial-riders,2021
 van der Poel Mathieu,Alpecin-Fenix,92,59,top-time-trial-riders,2021
 Cattaneo Mattia,Deceuninck - Quick Step,90,61,top-time-trial-riders,2021
-Pedersen Mads,Trek - Segafredo,80,67,top-time-trial-riders,2021
 Carapaz Richard,INEOS Grenadiers,80,69,top-time-trial-riders,2021
-Fuglsang Jakob,Astana - Premier Tech,76,73,top-time-trial-riders,2021
+Pedersen Mads,Trek - Segafredo,80,67,top-time-trial-riders,2021
 Geoghegan Hart Tao,INEOS Grenadiers,76,71,top-time-trial-riders,2021
+Fuglsang Jakob,Astana - Premier Tech,76,73,top-time-trial-riders,2021
 Politt Nils,BORA - hansgrohe,73,74,top-time-trial-riders,2021
 Castroviejo Jonathan,INEOS Grenadiers,70,77,top-time-trial-riders,2021
 Konrad Patrick,BORA - hansgrohe,66,82,top-time-trial-riders,2021
@@ -2878,17 +2884,17 @@ Latour Pierre,TotalEnergies,56,100,top-time-trial-riders,2021
 Delaplace Anthony,Team Arkéa Samsic,51,107,top-time-trial-riders,2021
 Cort Magnus,EF Education - Nippo,50,109,top-time-trial-riders,2021
 Poels Wout,Bahrain - Victorious,48,114,top-time-trial-riders,2021
-López Miguel Ángel,Movistar Team,46,119,top-time-trial-riders,2021
 Démare Arnaud,Groupama - FDJ,46,118,top-time-trial-riders,2021
+López Miguel Ángel,Movistar Team,46,119,top-time-trial-riders,2021
 O'Connor Ben,AG2R Citroën Team,45,120,top-time-trial-riders,2021
 Valgren Michael,EF Education - Nippo,44,124,top-time-trial-riders,2021
 Paret-Peintre Aurélien,AG2R Citroën Team,43,126,top-time-trial-riders,2021
 Kwiatkowski Michał,INEOS Grenadiers,42,130,top-time-trial-riders,2021
 Izagirre Ion,Astana - Premier Tech,42,133,top-time-trial-riders,2021
-Yates Simon,Team BikeExchange,38,145,top-time-trial-riders,2021
-Martin Dan,Israel Start-Up Nation,38,148,top-time-trial-riders,2021
 Haig Jack,Bahrain - Victorious,38,147,top-time-trial-riders,2021
 Laporte Christophe,Cofidis,38,144,top-time-trial-riders,2021
+Yates Simon,Team BikeExchange,38,145,top-time-trial-riders,2021
+Martin Dan,Israel Start-Up Nation,38,148,top-time-trial-riders,2021
 Barguil Warren,Team Arkéa Samsic,34,158,top-time-trial-riders,2021
 Dillier Silvan,Alpecin-Fenix,34,161,top-time-trial-riders,2021
 Cosnefroy Benoît,AG2R Citroën Team,30,195,top-time-trial-riders,2021
@@ -2898,30 +2904,30 @@ Colbrelli Sonny,Bahrain - Victorious,26,231,top-time-trial-riders,2021
 Fernández Rubén,Cofidis,26,234,top-time-trial-riders,2021
 Rolland Pierre,B&B Hotels p/b KTM,25,256,top-time-trial-riders,2021
 de Bod Stefan,Astana - Premier Tech,25,271,top-time-trial-riders,2021
-Boasson Hagen Edvald,TotalEnergies,22,303,top-time-trial-riders,2021
 Mohorič Matej,Bahrain - Victorious,22,296,top-time-trial-riders,2021
 Geschke Simon,Cofidis,22,305,top-time-trial-riders,2021
+Boasson Hagen Edvald,TotalEnergies,22,303,top-time-trial-riders,2021
 Benoot Tiesj,Team DSM,20,312,top-time-trial-riders,2021
 Teunissen Mike,Team Jumbo-Visma,18,378,top-time-trial-riders,2021
-Sweeny Harry,Lotto Soudal,16,388,top-time-trial-riders,2021
 McLay Daniel,Team Arkéa Samsic,16,392,top-time-trial-riders,2021
 Philipsen Jasper,Alpecin-Fenix,16,428,top-time-trial-riders,2021
+Sweeny Harry,Lotto Soudal,16,388,top-time-trial-riders,2021
 Meurisse Xandro,Alpecin-Fenix,15,450,top-time-trial-riders,2021
 Alaphilippe Julian,Deceuninck - Quick Step,14,452,top-time-trial-riders,2021
 Nibali Vincenzo,Trek - Segafredo,14,458,top-time-trial-riders,2021
 Perez Anthony,Cofidis,14,460,top-time-trial-riders,2021
-Chaves Esteban,Team BikeExchange,12,509,top-time-trial-riders,2021
 García Cortina Iván,Movistar Team,12,515,top-time-trial-riders,2021
+Chaves Esteban,Team BikeExchange,12,509,top-time-trial-riders,2021
 Eekhoff Nils,Team DSM,11,531,top-time-trial-riders,2021
+van Baarle Dylan,INEOS Grenadiers,10,547,top-time-trial-riders,2021
 Bonnamour Franck,B&B Hotels p/b KTM,10,571,top-time-trial-riders,2021
 Bol Cees,Team DSM,10,535,top-time-trial-riders,2021
-van Baarle Dylan,INEOS Grenadiers,10,547,top-time-trial-riders,2021
-Godon Dorian,AG2R Citroën Team,6,716,top-time-trial-riders,2021
 Martin Guillaume,Cofidis,6,704,top-time-trial-riders,2021
-Gesink Robert,Team Jumbo-Visma,5,750,top-time-trial-riders,2021
+Godon Dorian,AG2R Citroën Team,6,716,top-time-trial-riders,2021
 Oss Daniel,BORA - hansgrohe,5,787,top-time-trial-riders,2021
-Valverde Alejandro,Movistar Team,4,810,top-time-trial-riders,2021
+Gesink Robert,Team Jumbo-Visma,5,750,top-time-trial-riders,2021
 Higuita Sergio,EF Education - Nippo,4,841,top-time-trial-riders,2021
+Valverde Alejandro,Movistar Team,4,810,top-time-trial-riders,2021
 Rickaert Jonas,Alpecin-Fenix,3,954,top-time-trial-riders,2021
 Gaudu David,Groupama - FDJ,3,884,top-time-trial-riders,2021
 van Aert Wout,Team Jumbo-Visma,1081,1,best-classic-riders,2021
@@ -2957,8 +2963,8 @@ Madouas Valentin,Groupama - FDJ,221,46,best-classic-riders,2021
 Turgis Anthony,TotalEnergies,207,50,best-classic-riders,2021
 Mohorič Matej,Bahrain - Victorious,197,52,best-classic-riders,2021
 van Baarle Dylan,INEOS Grenadiers,180,54,best-classic-riders,2021
-Clarke Simon,Team Qhubeka NextHash,179,55,best-classic-riders,2021
 Benoot Tiesj,Team DSM,179,56,best-classic-riders,2021
+Clarke Simon,Team Qhubeka NextHash,179,55,best-classic-riders,2021
 Formolo Davide,UAE Team Emirates,178,57,best-classic-riders,2021
 Rickaert Jonas,Alpecin-Fenix,175,58,best-classic-riders,2021
 Vliegen Loïc,Intermarché - Wanty - Gobert Matériaux,173,60,best-classic-riders,2021
@@ -3000,8 +3006,8 @@ Urán Rigoberto,EF Education - Nippo,57,186,best-classic-riders,2021
 Meurisse Xandro,Alpecin-Fenix,56,190,best-classic-riders,2021
 Simon Julien,TotalEnergies,54,199,best-classic-riders,2021
 Bilbao Pello,Bahrain - Victorious,54,200,best-classic-riders,2021
-Walscheid Max,Team Qhubeka NextHash,50,209,best-classic-riders,2021
 Paret-Peintre Aurélien,AG2R Citroën Team,50,206,best-classic-riders,2021
+Walscheid Max,Team Qhubeka NextHash,50,209,best-classic-riders,2021
 Houle Hugo,Astana - Premier Tech,48,211,best-classic-riders,2021
 Costa Rui,UAE Team Emirates,47,213,best-classic-riders,2021
 Rowe Luke,INEOS Grenadiers,42,227,best-classic-riders,2021
@@ -3011,77 +3017,625 @@ Boasson Hagen Edvald,TotalEnergies,40,241,best-classic-riders,2021
 Yates Simon,Team BikeExchange,40,243,best-classic-riders,2021
 Fernández Rubén,Cofidis,40,235,best-classic-riders,2021
 Zimmermann Georg,Intermarché - Wanty - Gobert Matériaux,39,250,best-classic-riders,2021
-Fraile Omar,Astana - Premier Tech,38,254,best-classic-riders,2021
 Bissegger Stefan,EF Education - Nippo,38,256,best-classic-riders,2021
 Elissonde Kenny,Trek - Segafredo,38,257,best-classic-riders,2021
+Fraile Omar,Astana - Premier Tech,38,254,best-classic-riders,2021
 Schelling Ide,BORA - hansgrohe,37,261,best-classic-riders,2021
 Skujiņš Toms,Trek - Segafredo,36,266,best-classic-riders,2021
 Bennett Sean,Team Qhubeka NextHash,35,271,best-classic-riders,2021
 Delaplace Anthony,Team Arkéa Samsic,35,267,best-classic-riders,2021
-Latour Pierre,TotalEnergies,32,282,best-classic-riders,2021
 Dillier Silvan,Alpecin-Fenix,32,287,best-classic-riders,2021
 Kluge Roger,Lotto Soudal,32,289,best-classic-riders,2021
 Guerreiro Ruben,EF Education - Nippo,32,284,best-classic-riders,2021
+Latour Pierre,TotalEnergies,32,282,best-classic-riders,2021
 Henao Sergio,Team Qhubeka NextHash,31,292,best-classic-riders,2021
-Politt Nils,BORA - hansgrohe,30,299,best-classic-riders,2021
 Higuita Sergio,EF Education - Nippo,30,296,best-classic-riders,2021
-Lemoine Cyril,B&B Hotels p/b KTM,29,312,best-classic-riders,2021
+Politt Nils,BORA - hansgrohe,30,299,best-classic-riders,2021
 Theuns Edward,Trek - Segafredo,29,304,best-classic-riders,2021
-Schär Michael,AG2R Citroën Team,26,326,best-classic-riders,2021
+Lemoine Cyril,B&B Hotels p/b KTM,29,312,best-classic-riders,2021
 Meintjes Louis,Intermarché - Wanty - Gobert Matériaux,26,325,best-classic-riders,2021
 Peters Nans,AG2R Citroën Team,26,327,best-classic-riders,2021
 Bonnamour Franck,B&B Hotels p/b KTM,26,329,best-classic-riders,2021
-Poels Wout,Bahrain - Victorious,25,333,best-classic-riders,2021
+Schär Michael,AG2R Citroën Team,26,326,best-classic-riders,2021
 Majka Rafał,UAE Team Emirates,25,345,best-classic-riders,2021
 López Miguel Ángel,Movistar Team,25,343,best-classic-riders,2021
+Poels Wout,Bahrain - Victorious,25,333,best-classic-riders,2021
 Pöstlberger Lukas,BORA - hansgrohe,24,355,best-classic-riders,2021
 Van der Sande Tosh,Lotto Soudal,23,365,best-classic-riders,2021
 Kelderman Wilco,BORA - hansgrohe,22,377,best-classic-riders,2021
 Quintana Nairo,Team Arkéa Samsic,22,370,best-classic-riders,2021
 Goldstein Omer,Israel Start-Up Nation,21,384,best-classic-riders,2021
-Juul-Jensen Christopher,Team BikeExchange,20,390,best-classic-riders,2021
 Hollenstein Reto,Israel Start-Up Nation,20,401,best-classic-riders,2021
-Bol Cees,Team DSM,19,404,best-classic-riders,2021
+Juul-Jensen Christopher,Team BikeExchange,20,390,best-classic-riders,2021
 Gautier Cyril,B&B Hotels p/b KTM,19,402,best-classic-riders,2021
+Bol Cees,Team DSM,19,404,best-classic-riders,2021
 Zabel Rick,Israel Start-Up Nation,18,408,best-classic-riders,2021
 Van Moer Brent,Lotto Soudal,18,411,best-classic-riders,2021
 Wallays Jelle,Cofidis,18,417,best-classic-riders,2021
 Boivin Guillaume,Israel Start-Up Nation,18,421,best-classic-riders,2021
-Chaves Esteban,Team BikeExchange,17,428,best-classic-riders,2021
 Arcas Jorge,Movistar Team,17,424,best-classic-riders,2021
+Chaves Esteban,Team BikeExchange,17,428,best-classic-riders,2021
 Kuss Sepp,Team Jumbo-Visma,15,488,best-classic-riders,2021
 Doubey Fabien,TotalEnergies,15,489,best-classic-riders,2021
 Guarnieri Jacopo,Groupama - FDJ,15,472,best-classic-riders,2021
-Oss Daniel,BORA - hansgrohe,13,555,best-classic-riders,2021
-de Bod Stefan,Astana - Premier Tech,13,552,best-classic-riders,2021
 Armirail Bruno,Groupama - FDJ,13,549,best-classic-riders,2021
 Jansen Amund Grøndahl,Team BikeExchange,13,537,best-classic-riders,2021
+Oss Daniel,BORA - hansgrohe,13,555,best-classic-riders,2021
+de Bod Stefan,Astana - Premier Tech,13,552,best-classic-riders,2021
 Perez Anthony,Cofidis,12,565,best-classic-riders,2021
+Swift Connor,Team Arkéa Samsic,11,581,best-classic-riders,2021
 Izagirre Ion,Astana - Premier Tech,11,576,best-classic-riders,2021
 Barthe Cyril,B&B Hotels p/b KTM,11,572,best-classic-riders,2021
 Verona Carlos,Movistar Team,11,578,best-classic-riders,2021
-Swift Connor,Team Arkéa Samsic,11,581,best-classic-riders,2021
-Périchon Pierre-Luc,Cofidis,10,622,best-classic-riders,2021
-Koch Jonas,Intermarché - Wanty - Gobert Matériaux,10,646,best-classic-riders,2021
 Hamilton Lucas,Team BikeExchange,10,604,best-classic-riders,2021
+Koch Jonas,Intermarché - Wanty - Gobert Matériaux,10,646,best-classic-riders,2021
 Donovan Mark,Team DSM,10,593,best-classic-riders,2021
 Vingegaard Jonas,Team Jumbo-Visma,10,653,best-classic-riders,2021
+Périchon Pierre-Luc,Cofidis,10,622,best-classic-riders,2021
 Durbridge Luke,Team BikeExchange,9,668,best-classic-riders,2021
 Rutsch Jonas,EF Education - Nippo,8,692,best-classic-riders,2021
 Powless Neilson,EF Education - Nippo,8,675,best-classic-riders,2021
-van Poppel Boy,Intermarché - Wanty - Gobert Matériaux,8,693,best-classic-riders,2021
 Laengen Vegard Stake,UAE Team Emirates,8,677,best-classic-riders,2021
+van Poppel Boy,Intermarché - Wanty - Gobert Matériaux,8,693,best-classic-riders,2021
 Scotson Miles,Groupama - FDJ,8,678,best-classic-riders,2021
 Wright Fred,Bahrain - Victorious,8,679,best-classic-riders,2021
-Mas Enric,Movistar Team,7,717,best-classic-riders,2021
 Rodríguez Cristián,TotalEnergies,7,752,best-classic-riders,2021
+Mas Enric,Movistar Team,7,717,best-classic-riders,2021
 Gesbert Élie,Team Arkéa Samsic,6,775,best-classic-riders,2021
+Lutsenko Alexey,Astana - Premier Tech,5,815,best-classic-riders,2021
+Cort Magnus,EF Education - Nippo,5,811,best-classic-riders,2021
+Cavendish Mark,Deceuninck - Quick Step,5,856,best-classic-riders,2021
 Russo Clément,Team Arkéa Samsic,5,838,best-classic-riders,2021
 Bjerg Mikkel,UAE Team Emirates,5,812,best-classic-riders,2021
 Erviti Imanol,Movistar Team,5,836,best-classic-riders,2021
 McNulty Brandon,UAE Team Emirates,5,851,best-classic-riders,2021
-Lutsenko Alexey,Astana - Premier Tech,5,815,best-classic-riders,2021
-Cort Magnus,EF Education - Nippo,5,811,best-classic-riders,2021
-Cavendish Mark,Deceuninck - Quick Step,5,856,best-classic-riders,2021
 Cattaneo Mattia,Deceuninck - Quick Step,3,939,best-classic-riders,2021
 Greipel André,Israel Start-Up Nation,3,932,best-classic-riders,2021
+Pogačar Tadej,UAE Team Emirates,1150,1,top-gc-riders,2022
+Roglič Primož,Jumbo-Visma,990,2,top-gc-riders,2022
+Vingegaard Jonas,Jumbo-Visma,870,4,top-gc-riders,2022
+O'Connor Ben,AG2R Citroën Team,745,8,top-gc-riders,2022
+Mas Enric,Movistar Team,710,10,top-gc-riders,2022
+Martin Guillaume,Cofidis,710,11,top-gc-riders,2022
+Vlasov Aleksandr,BORA - hansgrohe,700,12,top-gc-riders,2022
+Quintana Nairo,Team Arkéa Samsic,626,13,top-gc-riders,2022
+Caruso Damiano,Bahrain - Victorious,591,14,top-gc-riders,2022
+Martínez Daniel Felipe,INEOS Grenadiers,590,15,top-gc-riders,2022
+Yates Adam,INEOS Grenadiers,550,18,top-gc-riders,2022
+Haig Jack,Bahrain - Victorious,530,19,top-gc-riders,2022
+Mohorič Matej,Bahrain - Victorious,481,21,top-gc-riders,2022
+Wellens Tim,Lotto Soudal,446,23,top-gc-riders,2022
+Izagirre Ion,Cofidis,434,25,top-gc-riders,2022
+Bardet Romain,Team DSM,418,29,top-gc-riders,2022
+Gaudu David,Groupama - FDJ,380,32,top-gc-riders,2022
+Teuns Dylan,Bahrain - Victorious,374,33,top-gc-riders,2022
+Meintjes Louis,Intermarché - Wanty - Gobert Matériaux,362,35,top-gc-riders,2022
+Thomas Benjamin,Cofidis,340,39,top-gc-riders,2022
+Küng Stefan,Groupama - FDJ,338,40,top-gc-riders,2022
+Lutsenko Alexey,Astana Qazaqstan Team,327,42,top-gc-riders,2022
+Woods Michael,Israel - Premier Tech,322,43,top-gc-riders,2022
+Majka Rafał,UAE Team Emirates,320,45,top-gc-riders,2022
+Urán Rigoberto,EF Education-EasyPost,315,46,top-gc-riders,2022
+Thomas Geraint,INEOS Grenadiers,308,49,top-gc-riders,2022
+Paret-Peintre Aurélien,AG2R Citroën Team,306,51,top-gc-riders,2022
+Großschartner Felix,BORA - hansgrohe,293,53,top-gc-riders,2022
+Cattaneo Mattia,Quick-Step Alpha Vinyl Team,280,54,top-gc-riders,2022
+Kruijswijk Steven,Jumbo-Visma,277,56,top-gc-riders,2022
+Bouchard Geoffrey,AG2R Citroën Team,271,59,top-gc-riders,2022
+Kuss Sepp,Jumbo-Visma,270,61,top-gc-riders,2022
+Powless Neilson,EF Education-EasyPost,270,65,top-gc-riders,2022
+van Aert Wout,Jumbo-Visma,270,62,top-gc-riders,2022
+Pinot Thibaut,Groupama - FDJ,263,68,top-gc-riders,2022
+Latour Pierre,TotalEnergies,256,71,top-gc-riders,2022
+McNulty Brandon,UAE Team Emirates,255,72,top-gc-riders,2022
+Verona Carlos,Movistar Team,255,73,top-gc-riders,2022
+Fuglsang Jakob,Israel - Premier Tech,245,75,top-gc-riders,2022
+Hirschi Marc,UAE Team Emirates,243,76,top-gc-riders,2022
+Storer Michael,Groupama - FDJ,240,78,top-gc-riders,2022
+Guerreiro Ruben,EF Education-EasyPost,238,80,top-gc-riders,2022
+Bonnamour Franck,B&B Hotels - KTM,219,90,top-gc-riders,2022
+Cosnefroy Benoît,AG2R Citroën Team,215,93,top-gc-riders,2022
+Honoré Mikkel Frølich,Quick-Step Alpha Vinyl Team,215,92,top-gc-riders,2022
+Leknessund Andreas,Team DSM,205,95,top-gc-riders,2022
+Barguil Warren,Team Arkéa Samsic,202,96,top-gc-riders,2022
+Swift Connor,Team Arkéa Samsic,198,99,top-gc-riders,2022
+Geschke Simon,Cofidis,198,98,top-gc-riders,2022
+Mollema Bauke,Trek - Segafredo,196,100,top-gc-riders,2022
+Pedersen Mads,Trek - Segafredo,195,105,top-gc-riders,2022
+Politt Nils,BORA - hansgrohe,188,112,top-gc-riders,2022
+Gilbert Philippe,Lotto Soudal,188,113,top-gc-riders,2022
+Ciccone Giulio,Trek - Segafredo,183,116,top-gc-riders,2022
+Simmons Quinn,Trek - Segafredo,180,117,top-gc-riders,2022
+Soler Marc,UAE Team Emirates,152,136,top-gc-riders,2022
+Naesen Oliver,AG2R Citroën Team,152,137,top-gc-riders,2022
+Zimmermann Georg,Intermarché - Wanty - Gobert Matériaux,150,140,top-gc-riders,2022
+Konrad Patrick,BORA - hansgrohe,148,141,top-gc-riders,2022
+Jorgenson Matteo,Movistar Team,145,143,top-gc-riders,2022
+Durbridge Luke,Team BikeExchange - Jayco,140,146,top-gc-riders,2022
+Dewulf Stan,AG2R Citroën Team,137,149,top-gc-riders,2022
+Bystrøm Sven Erik,Intermarché - Wanty - Gobert Matériaux,136,150,top-gc-riders,2022
+Houle Hugo,Israel - Premier Tech,135,154,top-gc-riders,2022
+Jungels Bob,AG2R Citroën Team,134,156,top-gc-riders,2022
+Lafay Victor,Cofidis,131,159,top-gc-riders,2022
+Stuyven Jasper,Trek - Segafredo,130,162,top-gc-riders,2022
+Burgaudeau Mathieu,TotalEnergies,117,174,top-gc-riders,2022
+Kron Andreas,Lotto Soudal,114,180,top-gc-riders,2022
+Castroviejo Jonathan,INEOS Grenadiers,110,187,top-gc-riders,2022
+Sagan Peter,TotalEnergies,105,196,top-gc-riders,2022
+Kristoff Alexander,Intermarché - Wanty - Gobert Matériaux,103,199,top-gc-riders,2022
+Périchon Pierre-Luc,Cofidis,100,202,top-gc-riders,2022
+Dombrowski Joe,Astana Qazaqstan Team,99,204,top-gc-riders,2022
+Turgis Anthony,TotalEnergies,98,208,top-gc-riders,2022
+Bennett George,UAE Team Emirates,97,211,top-gc-riders,2022
+Bagioli Andrea,Quick-Step Alpha Vinyl Team,97,212,top-gc-riders,2022
+Benoot Tiesj,Jumbo-Visma,95,216,top-gc-riders,2022
+Felline Fabio,Astana Qazaqstan Team,95,217,top-gc-riders,2022
+Haller Marco,BORA - hansgrohe,90,227,top-gc-riders,2022
+Sbaragli Kristian,Alpecin-Deceuninck,89,232,top-gc-riders,2022
+Kämna Lennard,BORA - hansgrohe,88,236,top-gc-riders,2022
+Bouet Maxime,Team Arkéa Samsic,88,233,top-gc-riders,2022
+Zeits Andrey,Astana Qazaqstan Team,85,243,top-gc-riders,2022
+Asgreen Kasper,Quick-Step Alpha Vinyl Team,85,241,top-gc-riders,2022
+Velasco Simone,Astana Qazaqstan Team,82,251,top-gc-riders,2022
+Madouas Valentin,Groupama - FDJ,81,256,top-gc-riders,2022
+van Baarle Dylan,INEOS Grenadiers,80,262,top-gc-riders,2022
+Philipsen Jasper,Alpecin-Deceuninck,80,258,top-gc-riders,2022
+Cherel Mikaël,AG2R Citroën Team,80,259,top-gc-riders,2022
+Dainese Alberto,Team DSM,78,266,top-gc-riders,2022
+Schachmann Maximilian,BORA - hansgrohe,75,271,top-gc-riders,2022
+Sánchez Luis León,Bahrain - Victorious,74,275,top-gc-riders,2022
+Barthe Cyril,B&B Hotels - KTM,71,286,top-gc-riders,2022
+Gallopin Tony,Trek - Segafredo,70,291,top-gc-riders,2022
+van Poppel Danny,BORA - hansgrohe,70,292,top-gc-riders,2022
+Bettiol Alberto,EF Education-EasyPost,70,294,top-gc-riders,2022
+Matthews Michael,Team BikeExchange - Jayco,68,296,top-gc-riders,2022
+Hofstetter Hugo,Team Arkéa Samsic,65,301,top-gc-riders,2022
+Schultz Nick,Team BikeExchange - Jayco,65,300,top-gc-riders,2022
+Cort Magnus,EF Education-EasyPost,65,302,top-gc-riders,2022
+Oss Daniel,TotalEnergies,59,321,top-gc-riders,2022
+Tusveld Martijn,Team DSM,59,322,top-gc-riders,2022
+Mezgec Luka,Team BikeExchange - Jayco,59,323,top-gc-riders,2022
+Skujiņš Toms,Trek - Segafredo,56,328,top-gc-riders,2022
+Perez Anthony,Cofidis,56,327,top-gc-riders,2022
+Izagirre Gorka,Movistar Team,55,339,top-gc-riders,2022
+Mozzato Luca,B&B Hotels - KTM,55,336,top-gc-riders,2022
+Juul-Jensen Christopher,Team BikeExchange - Jayco,55,333,top-gc-riders,2022
+Owsian Łukasz,Team Arkéa Samsic,52,352,top-gc-riders,2022
+Clarke Simon,Israel - Premier Tech,52,353,top-gc-riders,2022
+Capiot Amaury,Team Arkéa Samsic,51,354,top-gc-riders,2022
+Vermaerke Kevin,Team DSM,51,356,top-gc-riders,2022
+Erviti Imanol,Movistar Team,50,363,top-gc-riders,2022
+Wright Fred,Bahrain - Victorious,50,362,top-gc-riders,2022
+Vuillermoz Alexis,TotalEnergies,49,375,top-gc-riders,2022
+Van Hooydonck Nathan,Jumbo-Visma,48,380,top-gc-riders,2022
+Mørkøv Michael,Quick-Step Alpha Vinyl Team,47,387,top-gc-riders,2022
+Rutsch Jonas,EF Education-EasyPost,46,390,top-gc-riders,2022
+Neilands Krists,Israel - Premier Tech,45,397,top-gc-riders,2022
+Schönberger Sebastian,B&B Hotels - KTM,45,402,top-gc-riders,2022
+Hamilton Chris,Team DSM,45,405,top-gc-riders,2022
+Le Gac Olivier,Groupama - FDJ,42,419,top-gc-riders,2022
+Bjerg Mikkel,UAE Team Emirates,40,428,top-gc-riders,2022
+Goossens Kobe,Intermarché - Wanty - Gobert Matériaux,40,441,top-gc-riders,2022
+Geniets Kevin,Groupama - FDJ,39,445,top-gc-riders,2022
+Laporte Christophe,Jumbo-Visma,39,448,top-gc-riders,2022
+Sénéchal Florian,Quick-Step Alpha Vinyl Team,38,453,top-gc-riders,2022
+Oliveira Nelson,Movistar Team,36,476,top-gc-riders,2022
+Kirsch Alex,Trek - Segafredo,36,463,top-gc-riders,2022
+Dillier Silvan,Alpecin-Deceuninck,35,489,top-gc-riders,2022
+Bissegger Stefan,EF Education-EasyPost,35,485,top-gc-riders,2022
+Tratnik Jan,Bahrain - Victorious,33,501,top-gc-riders,2022
+Rolland Pierre,B&B Hotels - KTM,33,499,top-gc-riders,2022
+Froome Chris,Israel - Premier Tech,30,536,top-gc-riders,2022
+Walscheid Max,Cofidis,30,548,top-gc-riders,2022
+Van Moer Brent,Lotto Soudal,30,527,top-gc-riders,2022
+Bodnar Maciej,TotalEnergies,30,520,top-gc-riders,2022
+Gruzdev Dmitriy,Astana Qazaqstan Team,30,528,top-gc-riders,2022
+Laengen Vegard Stake,UAE Team Emirates,30,524,top-gc-riders,2022
+Boivin Guillaume,Israel - Premier Tech,30,547,top-gc-riders,2022
+Eekhoff Nils,Team DSM,25,582,top-gc-riders,2022
+Niv Guy,Israel - Premier Tech,25,609,top-gc-riders,2022
+Planckaert Edward,Alpecin-Deceuninck,25,585,top-gc-riders,2022
+Riabushenko Alexandr,Astana Qazaqstan Team,25,577,top-gc-riders,2022
+Gogl Michael,Alpecin-Deceuninck,24,624,top-gc-riders,2022
+Duchesne Antoine,Groupama - FDJ,23,639,top-gc-riders,2022
+Pasqualon Andrea,Intermarché - Wanty - Gobert Matériaux,20,677,top-gc-riders,2022
+Moscon Gianni,Astana Qazaqstan Team,20,682,top-gc-riders,2022
+van der Poel Mathieu,Alpecin-Deceuninck,20,698,top-gc-riders,2022
+Jakobsen Fabio,Quick-Step Alpha Vinyl Team,20,678,top-gc-riders,2022
+Pidcock Thomas,INEOS Grenadiers,20,690,top-gc-riders,2022
+Vermeersch Florian,Lotto Soudal,20,664,top-gc-riders,2022
+Krieger Alexander,Alpecin-Deceuninck,20,703,top-gc-riders,2022
+Degenkolb John,Team DSM,18,723,top-gc-riders,2022
+Boasson Hagen Edvald,TotalEnergies,15,786,top-gc-riders,2022
+Torres Albert,Movistar Team,15,787,top-gc-riders,2022
+Doull Owain,EF Education-EasyPost,15,780,top-gc-riders,2022
+Ganna Filippo,INEOS Grenadiers,15,776,top-gc-riders,2022
+Bauer Jack,Team BikeExchange - Jayco,13,827,top-gc-riders,2022
+van der Hoorn Taco,Intermarché - Wanty - Gobert Matériaux,10,912,top-gc-riders,2022
+Jansen Amund Grøndahl,Team BikeExchange - Jayco,10,909,top-gc-riders,2022
+Mühlberger Gregor,Movistar Team,10,879,top-gc-riders,2022
+Petit Adrien,Intermarché - Wanty - Gobert Matériaux,10,875,top-gc-riders,2022
+Louvel Matis,Team Arkéa Samsic,10,887,top-gc-riders,2022
+Jakobsen Fabio,Quick-Step Alpha Vinyl Team,1339.2,1,top-sprinters,2022
+Philipsen Jasper,Alpecin-Deceuninck,1248.4,2,top-sprinters,2022
+Kristoff Alexander,Intermarché - Wanty - Gobert Matériaux,841,3,top-sprinters,2022
+Groenewegen Dylan,Team BikeExchange - Jayco,769.8,4,top-sprinters,2022
+Pedersen Mads,Trek - Segafredo,721.1,7,top-sprinters,2022
+Hofstetter Hugo,Team Arkéa Samsic,704.6,9,top-sprinters,2022
+van Poppel Danny,BORA - hansgrohe,646.4,12,top-sprinters,2022
+Dainese Alberto,Team DSM,623.7,15,top-sprinters,2022
+Ewan Caleb,Lotto Soudal,607,19,top-sprinters,2022
+van Aert Wout,Jumbo-Visma,573.9,20,top-sprinters,2022
+Capiot Amaury,Team Arkéa Samsic,454.2,24,top-sprinters,2022
+Matthews Michael,Team BikeExchange - Jayco,409.8,30,top-sprinters,2022
+Walscheid Max,Cofidis,332.6,35,top-sprinters,2022
+Mozzato Luca,B&B Hotels - KTM,327.6,38,top-sprinters,2022
+Sagan Peter,TotalEnergies,283,42,top-sprinters,2022
+Cort Magnus,EF Education-EasyPost,272,45,top-sprinters,2022
+Laporte Christophe,Jumbo-Visma,237.2,52,top-sprinters,2022
+van der Poel Mathieu,Alpecin-Deceuninck,182.4,74,top-sprinters,2022
+Boasson Hagen Edvald,TotalEnergies,181.2,76,top-sprinters,2022
+Stuyven Jasper,Trek - Segafredo,178.8,80,top-sprinters,2022
+Pasqualon Andrea,Intermarché - Wanty - Gobert Matériaux,151.4,88,top-sprinters,2022
+Cosnefroy Benoît,AG2R Citroën Team,143.2,93,top-sprinters,2022
+Haller Marco,BORA - hansgrohe,142,95,top-sprinters,2022
+Degenkolb John,Team DSM,138.6,97,top-sprinters,2022
+Lecroq Jérémy,B&B Hotels - KTM,128,104,top-sprinters,2022
+Mohorič Matej,Bahrain - Victorious,118,118,top-sprinters,2022
+Bagioli Andrea,Quick-Step Alpha Vinyl Team,112.2,129,top-sprinters,2022
+Janse van Rensburg Reinardt,Lotto Soudal,111.8,130,top-sprinters,2022
+Lampaert Yves,Quick-Step Alpha Vinyl Team,109,134,top-sprinters,2022
+Bettiol Alberto,EF Education-EasyPost,98.4,148,top-sprinters,2022
+Vlasov Aleksandr,BORA - hansgrohe,97.3,149,top-sprinters,2022
+Thomas Benjamin,Cofidis,96.4,150,top-sprinters,2022
+Mezgec Luka,Team BikeExchange - Jayco,92.4,161,top-sprinters,2022
+Turgis Anthony,TotalEnergies,86,177,top-sprinters,2022
+Louvel Matis,Team Arkéa Samsic,85.9,179,top-sprinters,2022
+Clarke Simon,Israel - Premier Tech,85.9,178,top-sprinters,2022
+Sénéchal Florian,Quick-Step Alpha Vinyl Team,83.2,182,top-sprinters,2022
+Martínez Daniel Felipe,INEOS Grenadiers,76.7,196,top-sprinters,2022
+Mørkøv Michael,Quick-Step Alpha Vinyl Team,75.4,200,top-sprinters,2022
+Großschartner Felix,BORA - hansgrohe,73.6,205,top-sprinters,2022
+Gilbert Philippe,Lotto Soudal,72.5,206,top-sprinters,2022
+van der Hoorn Taco,Intermarché - Wanty - Gobert Matériaux,66,222,top-sprinters,2022
+Vermeersch Florian,Lotto Soudal,65.8,223,top-sprinters,2022
+Bonnamour Franck,B&B Hotels - KTM,63.8,230,top-sprinters,2022
+Eekhoff Nils,Team DSM,63.2,234,top-sprinters,2022
+Barthe Cyril,B&B Hotels - KTM,59.4,246,top-sprinters,2022
+Jorgenson Matteo,Movistar Team,59,248,top-sprinters,2022
+Kron Andreas,Lotto Soudal,58.6,251,top-sprinters,2022
+Quintana Nairo,Team Arkéa Samsic,57.8,256,top-sprinters,2022
+Madouas Valentin,Groupama - FDJ,57.6,259,top-sprinters,2022
+Pogačar Tadej,UAE Team Emirates,57.6,258,top-sprinters,2022
+Gaudu David,Groupama - FDJ,53.4,279,top-sprinters,2022
+Pidcock Thomas,INEOS Grenadiers,53,281,top-sprinters,2022
+Burgaudeau Mathieu,TotalEnergies,50.4,292,top-sprinters,2022
+Dewulf Stan,AG2R Citroën Team,50.2,294,top-sprinters,2022
+Petit Adrien,Intermarché - Wanty - Gobert Matériaux,50,296,top-sprinters,2022
+Swift Connor,Team Arkéa Samsic,47.6,307,top-sprinters,2022
+Sánchez Luis León,Bahrain - Victorious,47.4,308,top-sprinters,2022
+Bouet Maxime,Team Arkéa Samsic,44.8,330,top-sprinters,2022
+Honoré Mikkel Frølich,Quick-Step Alpha Vinyl Team,44.5,332,top-sprinters,2022
+Bystrøm Sven Erik,Intermarché - Wanty - Gobert Matériaux,42.2,350,top-sprinters,2022
+Zimmermann Georg,Intermarché - Wanty - Gobert Matériaux,41.6,357,top-sprinters,2022
+Roglič Primož,Jumbo-Visma,41.1,361,top-sprinters,2022
+Boivin Guillaume,Israel - Premier Tech,40.4,372,top-sprinters,2022
+Simmons Quinn,Trek - Segafredo,40.1,373,top-sprinters,2022
+Caruso Damiano,Bahrain - Victorious,39.6,379,top-sprinters,2022
+Wright Fred,Bahrain - Victorious,39,388,top-sprinters,2022
+Naesen Oliver,AG2R Citroën Team,38.8,389,top-sprinters,2022
+Mollema Bauke,Trek - Segafredo,37.8,395,top-sprinters,2022
+Wellens Tim,Lotto Soudal,35.9,422,top-sprinters,2022
+Houle Hugo,Israel - Premier Tech,35.9,424,top-sprinters,2022
+Perez Anthony,Cofidis,35.9,425,top-sprinters,2022
+Velasco Simone,Astana Qazaqstan Team,35.3,433,top-sprinters,2022
+Planckaert Edward,Alpecin-Deceuninck,34,446,top-sprinters,2022
+Powless Neilson,EF Education-EasyPost,33.7,450,top-sprinters,2022
+Barguil Warren,Team Arkéa Samsic,32.5,465,top-sprinters,2022
+Latour Pierre,TotalEnergies,32.4,468,top-sprinters,2022
+Küng Stefan,Groupama - FDJ,32.2,470,top-sprinters,2022
+McNulty Brandon,UAE Team Emirates,32.2,469,top-sprinters,2022
+Politt Nils,BORA - hansgrohe,31.8,475,top-sprinters,2022
+Hirschi Marc,UAE Team Emirates,31.4,478,top-sprinters,2022
+Moscon Gianni,Astana Qazaqstan Team,30.6,493,top-sprinters,2022
+Ganna Filippo,INEOS Grenadiers,30.5,495,top-sprinters,2022
+Schönberger Sebastian,B&B Hotels - KTM,29.2,504,top-sprinters,2022
+Bardet Romain,Team DSM,28.9,508,top-sprinters,2022
+Asgreen Kasper,Quick-Step Alpha Vinyl Team,27.4,526,top-sprinters,2022
+Guerreiro Ruben,EF Education-EasyPost,27.2,529,top-sprinters,2022
+Yates Adam,INEOS Grenadiers,26.9,533,top-sprinters,2022
+Teuns Dylan,Bahrain - Victorious,26,541,top-sprinters,2022
+Felline Fabio,Astana Qazaqstan Team,25.8,544,top-sprinters,2022
+van Baarle Dylan,INEOS Grenadiers,25.2,548,top-sprinters,2022
+Tusveld Martijn,Team DSM,25,552,top-sprinters,2022
+Martin Guillaume,Cofidis,24.4,564,top-sprinters,2022
+Krieger Alexander,Alpecin-Deceuninck,23.6,585,top-sprinters,2022
+Sbaragli Kristian,Alpecin-Deceuninck,23.6,586,top-sprinters,2022
+Geniets Kevin,Groupama - FDJ,22.7,597,top-sprinters,2022
+Riabushenko Alexandr,Astana Qazaqstan Team,21.2,620,top-sprinters,2022
+Schachmann Maximilian,BORA - hansgrohe,21.1,622,top-sprinters,2022
+Kruijswijk Steven,Jumbo-Visma,21,623,top-sprinters,2022
+Lafay Victor,Cofidis,20.9,629,top-sprinters,2022
+Vuillermoz Alexis,TotalEnergies,20.2,640,top-sprinters,2022
+Zeits Andrey,Astana Qazaqstan Team,20,652,top-sprinters,2022
+Périchon Pierre-Luc,Cofidis,19.1,664,top-sprinters,2022
+Konrad Patrick,BORA - hansgrohe,18.9,675,top-sprinters,2022
+Izagirre Ion,Cofidis,18.5,681,top-sprinters,2022
+Thomas Geraint,INEOS Grenadiers,17.8,706,top-sprinters,2022
+Gallopin Tony,Trek - Segafredo,16.8,732,top-sprinters,2022
+O'Connor Ben,AG2R Citroën Team,16.4,740,top-sprinters,2022
+Vermaerke Kevin,Team DSM,16.3,742,top-sprinters,2022
+Kirsch Alex,Trek - Segafredo,16.2,743,top-sprinters,2022
+Oss Daniel,TotalEnergies,16,758,top-sprinters,2022
+Pinot Thibaut,Groupama - FDJ,15.8,770,top-sprinters,2022
+Ciccone Giulio,Trek - Segafredo,15.5,777,top-sprinters,2022
+Durbridge Luke,Team BikeExchange - Jayco,14.4,818,top-sprinters,2022
+Schultz Nick,Team BikeExchange - Jayco,13.6,856,top-sprinters,2022
+Fuglsang Jakob,Israel - Premier Tech,13.1,872,top-sprinters,2022
+Paret-Peintre Aurélien,AG2R Citroën Team,12.3,900,top-sprinters,2022
+Mas Enric,Movistar Team,12.2,902,top-sprinters,2022
+Urán Rigoberto,EF Education-EasyPost,10.7,968,top-sprinters,2022
+Woods Michael,Israel - Premier Tech,10,980,top-sprinters,2022
+Ganna Filippo,INEOS Grenadiers,1020,1,top-time-trial-riders,2022
+Roglič Primož,Jumbo-Visma,890,2,top-time-trial-riders,2022
+Küng Stefan,Groupama - FDJ,888,3,top-time-trial-riders,2022
+van Aert Wout,Jumbo-Visma,880,4,top-time-trial-riders,2022
+Asgreen Kasper,Quick-Step Alpha Vinyl Team,600,6,top-time-trial-riders,2022
+Bissegger Stefan,EF Education-EasyPost,538,8,top-time-trial-riders,2022
+Pogačar Tadej,UAE Team Emirates,486,9,top-time-trial-riders,2022
+van der Poel Mathieu,Alpecin-Deceuninck,380,13,top-time-trial-riders,2022
+Cort Magnus,EF Education-EasyPost,375,14,top-time-trial-riders,2022
+Thomas Geraint,INEOS Grenadiers,358,18,top-time-trial-riders,2022
+Vlasov Aleksandr,BORA - hansgrohe,354,19,top-time-trial-riders,2022
+Vingegaard Jonas,Jumbo-Visma,344,21,top-time-trial-riders,2022
+Pedersen Mads,Trek - Segafredo,339,22,top-time-trial-riders,2022
+Cattaneo Mattia,Quick-Step Alpha Vinyl Team,313,23,top-time-trial-riders,2022
+Lampaert Yves,Quick-Step Alpha Vinyl Team,310,24,top-time-trial-riders,2022
+Bjerg Mikkel,UAE Team Emirates,305,25,top-time-trial-riders,2022
+Mollema Bauke,Trek - Segafredo,303,26,top-time-trial-riders,2022
+Großschartner Felix,BORA - hansgrohe,292,27,top-time-trial-riders,2022
+Latour Pierre,TotalEnergies,278,28,top-time-trial-riders,2022
+Walscheid Max,Cofidis,254,29,top-time-trial-riders,2022
+Bodnar Maciej,TotalEnergies,243,31,top-time-trial-riders,2022
+van Baarle Dylan,INEOS Grenadiers,230,36,top-time-trial-riders,2022
+Martínez Daniel Felipe,INEOS Grenadiers,220,38,top-time-trial-riders,2022
+Tratnik Jan,Bahrain - Victorious,214,39,top-time-trial-riders,2022
+Izagirre Ion,Cofidis,211,41,top-time-trial-riders,2022
+McNulty Brandon,UAE Team Emirates,198,42,top-time-trial-riders,2022
+Yates Adam,INEOS Grenadiers,184,46,top-time-trial-riders,2022
+Schachmann Maximilian,BORA - hansgrohe,174,49,top-time-trial-riders,2022
+Caruso Damiano,Bahrain - Victorious,166,51,top-time-trial-riders,2022
+Kämna Lennard,BORA - hansgrohe,158,52,top-time-trial-riders,2022
+Jungels Bob,AG2R Citroën Team,147,59,top-time-trial-riders,2022
+Oliveira Nelson,Movistar Team,140,61,top-time-trial-riders,2022
+Kruijswijk Steven,Jumbo-Visma,140,60,top-time-trial-riders,2022
+Thomas Benjamin,Cofidis,138,62,top-time-trial-riders,2022
+Durbridge Luke,Team BikeExchange - Jayco,135,66,top-time-trial-riders,2022
+Pinot Thibaut,Groupama - FDJ,118,72,top-time-trial-riders,2022
+Houle Hugo,Israel - Premier Tech,112,75,top-time-trial-riders,2022
+Matthews Michael,Team BikeExchange - Jayco,112,77,top-time-trial-riders,2022
+Geschke Simon,Cofidis,107,81,top-time-trial-riders,2022
+Mas Enric,Movistar Team,106,82,top-time-trial-riders,2022
+Powless Neilson,EF Education-EasyPost,97,93,top-time-trial-riders,2022
+Wright Fred,Bahrain - Victorious,96,94,top-time-trial-riders,2022
+Vermeersch Florian,Lotto Soudal,86,105,top-time-trial-riders,2022
+Kuss Sepp,Jumbo-Visma,84,109,top-time-trial-riders,2022
+Bettiol Alberto,EF Education-EasyPost,84,110,top-time-trial-riders,2022
+Laporte Christophe,Jumbo-Visma,84,108,top-time-trial-riders,2022
+Swift Connor,Team Arkéa Samsic,82,112,top-time-trial-riders,2022
+Urán Rigoberto,EF Education-EasyPost,82,111,top-time-trial-riders,2022
+Honoré Mikkel Frølich,Quick-Step Alpha Vinyl Team,80,113,top-time-trial-riders,2022
+Bagioli Andrea,Quick-Step Alpha Vinyl Team,80,116,top-time-trial-riders,2022
+Mohorič Matej,Bahrain - Victorious,79,119,top-time-trial-riders,2022
+O'Connor Ben,AG2R Citroën Team,76,123,top-time-trial-riders,2022
+Bardet Romain,Team DSM,74,126,top-time-trial-riders,2022
+Teuns Dylan,Bahrain - Victorious,69,130,top-time-trial-riders,2022
+Castroviejo Jonathan,INEOS Grenadiers,67,135,top-time-trial-riders,2022
+Wellens Tim,Lotto Soudal,65,140,top-time-trial-riders,2022
+Fuglsang Jakob,Israel - Premier Tech,58,168,top-time-trial-riders,2022
+Bauer Jack,Team BikeExchange - Jayco,54,182,top-time-trial-riders,2022
+Lutsenko Alexey,Astana Qazaqstan Team,53,186,top-time-trial-riders,2022
+Philipsen Jasper,Alpecin-Deceuninck,50,200,top-time-trial-riders,2022
+Leknessund Andreas,Team DSM,48,208,top-time-trial-riders,2022
+Gaudu David,Groupama - FDJ,47,210,top-time-trial-riders,2022
+Tusveld Martijn,Team DSM,47,212,top-time-trial-riders,2022
+Jorgenson Matteo,Movistar Team,46,222,top-time-trial-riders,2022
+Haig Jack,Bahrain - Victorious,43,239,top-time-trial-riders,2022
+Hirschi Marc,UAE Team Emirates,42,246,top-time-trial-riders,2022
+Kirsch Alex,Trek - Segafredo,42,251,top-time-trial-riders,2022
+Izagirre Gorka,Movistar Team,39,268,top-time-trial-riders,2022
+Frison Frederik,Lotto Soudal,39,270,top-time-trial-riders,2022
+Doull Owain,EF Education-EasyPost,35,288,top-time-trial-riders,2022
+Skujiņš Toms,Trek - Segafredo,34,297,top-time-trial-riders,2022
+Pidcock Thomas,INEOS Grenadiers,34,302,top-time-trial-riders,2022
+Perez Anthony,Cofidis,29,393,top-time-trial-riders,2022
+Rutsch Jonas,EF Education-EasyPost,26,421,top-time-trial-riders,2022
+Gradek Kamil,Bahrain - Victorious,25,458,top-time-trial-riders,2022
+Neilands Krists,Israel - Premier Tech,25,493,top-time-trial-riders,2022
+Felline Fabio,Astana Qazaqstan Team,25,456,top-time-trial-riders,2022
+Politt Nils,BORA - hansgrohe,21,529,top-time-trial-riders,2022
+Goossens Kobe,Intermarché - Wanty - Gobert Matériaux,20,603,top-time-trial-riders,2022
+Sagan Peter,TotalEnergies,20,595,top-time-trial-riders,2022
+Woods Michael,Israel - Premier Tech,20,606,top-time-trial-riders,2022
+Bystrøm Sven Erik,Intermarché - Wanty - Gobert Matériaux,18,622,top-time-trial-riders,2022
+Storer Michael,Groupama - FDJ,18,628,top-time-trial-riders,2022
+Gougeard Alexis,B&B Hotels - KTM,16,703,top-time-trial-riders,2022
+Rolland Pierre,B&B Hotels - KTM,16,667,top-time-trial-riders,2022
+Bennett George,UAE Team Emirates,16,717,top-time-trial-riders,2022
+Paret-Peintre Aurélien,AG2R Citroën Team,15,746,top-time-trial-riders,2022
+Janse van Rensburg Reinardt,Lotto Soudal,15,741,top-time-trial-riders,2022
+Mørkøv Michael,Quick-Step Alpha Vinyl Team,14,753,top-time-trial-riders,2022
+Soler Marc,UAE Team Emirates,14,757,top-time-trial-riders,2022
+Geniets Kevin,Groupama - FDJ,14,760,top-time-trial-riders,2022
+Turgis Anthony,TotalEnergies,12,777,top-time-trial-riders,2022
+Bouchard Geoffrey,AG2R Citroën Team,10,917,top-time-trial-riders,2022
+Meintjes Louis,Intermarché - Wanty - Gobert Matériaux,10,926,top-time-trial-riders,2022
+Konrad Patrick,BORA - hansgrohe,9,990,top-time-trial-riders,2022
+van Aert Wout,Jumbo-Visma,1329,1,best-classic-riders,2022
+Pogačar Tadej,UAE Team Emirates,1159,2,best-classic-riders,2022
+van der Poel Mathieu,Alpecin-Deceuninck,1145,3,best-classic-riders,2022
+Cosnefroy Benoît,AG2R Citroën Team,906,4,best-classic-riders,2022
+Kristoff Alexander,Intermarché - Wanty - Gobert Matériaux,894,5,best-classic-riders,2022
+van Baarle Dylan,INEOS Grenadiers,854,6,best-classic-riders,2022
+van Poppel Danny,BORA - hansgrohe,809,10,best-classic-riders,2022
+Mohorič Matej,Bahrain - Victorious,791,12,best-classic-riders,2022
+Hofstetter Hugo,Team Arkéa Samsic,754,14,best-classic-riders,2022
+Laporte Christophe,Jumbo-Visma,698,16,best-classic-riders,2022
+Madouas Valentin,Groupama - FDJ,658,18,best-classic-riders,2022
+Philipsen Jasper,Alpecin-Deceuninck,647,19,best-classic-riders,2022
+Stuyven Jasper,Trek - Segafredo,642,20,best-classic-riders,2022
+Barguil Warren,Team Arkéa Samsic,553,23,best-classic-riders,2022
+Küng Stefan,Groupama - FDJ,549,24,best-classic-riders,2022
+Pasqualon Andrea,Intermarché - Wanty - Gobert Matériaux,515,26,best-classic-riders,2022
+Teuns Dylan,Bahrain - Victorious,513,27,best-classic-riders,2022
+Hirschi Marc,UAE Team Emirates,496,28,best-classic-riders,2022
+Powless Neilson,EF Education-EasyPost,496,29,best-classic-riders,2022
+Benoot Tiesj,Jumbo-Visma,475,31,best-classic-riders,2022
+Woods Michael,Israel - Premier Tech,470,33,best-classic-riders,2022
+McNulty Brandon,UAE Team Emirates,442,35,best-classic-riders,2022
+Matthews Michael,Team BikeExchange - Jayco,439,36,best-classic-riders,2022
+Louvel Matis,Team Arkéa Samsic,437,37,best-classic-riders,2022
+Mozzato Luca,B&B Hotels - KTM,430,40,best-classic-riders,2022
+Roglič Primož,Jumbo-Visma,428,41,best-classic-riders,2022
+Sénéchal Florian,Quick-Step Alpha Vinyl Team,423,42,best-classic-riders,2022
+Jakobsen Fabio,Quick-Step Alpha Vinyl Team,422,44,best-classic-riders,2022
+Capiot Amaury,Team Arkéa Samsic,407,46,best-classic-riders,2022
+Walscheid Max,Cofidis,396,47,best-classic-riders,2022
+Vermeersch Florian,Lotto Soudal,388,49,best-classic-riders,2022
+Pedersen Mads,Trek - Segafredo,383,52,best-classic-riders,2022
+Groenewegen Dylan,Team BikeExchange - Jayco,379,53,best-classic-riders,2022
+Yates Adam,INEOS Grenadiers,373,55,best-classic-riders,2022
+Pidcock Thomas,INEOS Grenadiers,364,57,best-classic-riders,2022
+van der Hoorn Taco,Intermarché - Wanty - Gobert Matériaux,346,63,best-classic-riders,2022
+Honoré Mikkel Frølich,Quick-Step Alpha Vinyl Team,342,64,best-classic-riders,2022
+Turgis Anthony,TotalEnergies,325,65,best-classic-riders,2022
+Gaudu David,Groupama - FDJ,323,66,best-classic-riders,2022
+Dewulf Stan,AG2R Citroën Team,316,69,best-classic-riders,2022
+Wellens Tim,Lotto Soudal,316,70,best-classic-riders,2022
+Mollema Bauke,Trek - Segafredo,311,73,best-classic-riders,2022
+Vlasov Aleksandr,BORA - hansgrohe,307,75,best-classic-riders,2022
+Asgreen Kasper,Quick-Step Alpha Vinyl Team,291,81,best-classic-riders,2022
+Politt Nils,BORA - hansgrohe,290,82,best-classic-riders,2022
+Lampaert Yves,Quick-Step Alpha Vinyl Team,290,83,best-classic-riders,2022
+Clarke Simon,Israel - Premier Tech,286,86,best-classic-riders,2022
+Degenkolb John,Team DSM,284,88,best-classic-riders,2022
+Moscon Gianni,Astana Qazaqstan Team,279,90,best-classic-riders,2022
+Swift Connor,Team Arkéa Samsic,244,95,best-classic-riders,2022
+Vingegaard Jonas,Jumbo-Visma,232,101,best-classic-riders,2022
+Martin Guillaume,Cofidis,228,102,best-classic-riders,2022
+Lutsenko Alexey,Astana Qazaqstan Team,228,103,best-classic-riders,2022
+Vuillermoz Alexis,TotalEnergies,224,106,best-classic-riders,2022
+Bonnamour Franck,B&B Hotels - KTM,205,112,best-classic-riders,2022
+Burgaudeau Mathieu,TotalEnergies,203,114,best-classic-riders,2022
+Fuglsang Jakob,Israel - Premier Tech,203,115,best-classic-riders,2022
+Tratnik Jan,Bahrain - Victorious,202,116,best-classic-riders,2022
+Martínez Daniel Felipe,INEOS Grenadiers,200,117,best-classic-riders,2022
+Dainese Alberto,Team DSM,199,119,best-classic-riders,2022
+Petit Adrien,Intermarché - Wanty - Gobert Matériaux,199,120,best-classic-riders,2022
+Quintana Nairo,Team Arkéa Samsic,197,122,best-classic-riders,2022
+Guerreiro Ruben,EF Education-EasyPost,195,124,best-classic-riders,2022
+Wright Fred,Bahrain - Victorious,192,128,best-classic-riders,2022
+Kron Andreas,Lotto Soudal,187,136,best-classic-riders,2022
+Boivin Guillaume,Israel - Premier Tech,187,137,best-classic-riders,2022
+Gilbert Philippe,Lotto Soudal,167,146,best-classic-riders,2022
+Velasco Simone,Astana Qazaqstan Team,163,149,best-classic-riders,2022
+Zimmermann Georg,Intermarché - Wanty - Gobert Matériaux,158,154,best-classic-riders,2022
+Naesen Oliver,AG2R Citroën Team,157,156,best-classic-riders,2022
+Perez Anthony,Cofidis,153,159,best-classic-riders,2022
+Ewan Caleb,Lotto Soudal,140,172,best-classic-riders,2022
+Schönberger Sebastian,B&B Hotels - KTM,138,174,best-classic-riders,2022
+Schachmann Maximilian,BORA - hansgrohe,130,178,best-classic-riders,2022
+Lafay Victor,Cofidis,127,181,best-classic-riders,2022
+Boasson Hagen Edvald,TotalEnergies,119,191,best-classic-riders,2022
+Janse van Rensburg Reinardt,Lotto Soudal,115,197,best-classic-riders,2022
+Sánchez Luis León,Bahrain - Victorious,114,198,best-classic-riders,2022
+Paret-Peintre Aurélien,AG2R Citroën Team,113,199,best-classic-riders,2022
+Sbaragli Kristian,Alpecin-Deceuninck,112,201,best-classic-riders,2022
+Pinot Thibaut,Groupama - FDJ,107,205,best-classic-riders,2022
+Skujiņš Toms,Trek - Segafredo,107,206,best-classic-riders,2022
+Urán Rigoberto,EF Education-EasyPost,102,212,best-classic-riders,2022
+Périchon Pierre-Luc,Cofidis,102,213,best-classic-riders,2022
+O'Connor Ben,AG2R Citroën Team,99,222,best-classic-riders,2022
+Meintjes Louis,Intermarché - Wanty - Gobert Matériaux,99,224,best-classic-riders,2022
+Sagan Peter,TotalEnergies,99,223,best-classic-riders,2022
+Ciccone Giulio,Trek - Segafredo,95,232,best-classic-riders,2022
+Goossens Kobe,Intermarché - Wanty - Gobert Matériaux,94,235,best-classic-riders,2022
+Mezgec Luka,Team BikeExchange - Jayco,88,250,best-classic-riders,2022
+Konrad Patrick,BORA - hansgrohe,88,248,best-classic-riders,2022
+Kämna Lennard,BORA - hansgrohe,87,251,best-classic-riders,2022
+Rutsch Jonas,EF Education-EasyPost,86,252,best-classic-riders,2022
+Izagirre Gorka,Movistar Team,86,253,best-classic-riders,2022
+Gallopin Tony,Trek - Segafredo,85,254,best-classic-riders,2022
+Bettiol Alberto,EF Education-EasyPost,84,256,best-classic-riders,2022
+Oliveira Nelson,Movistar Team,83,257,best-classic-riders,2022
+Bardet Romain,Team DSM,80,262,best-classic-riders,2022
+Geschke Simon,Cofidis,79,268,best-classic-riders,2022
+Barthe Cyril,B&B Hotels - KTM,79,270,best-classic-riders,2022
+Haller Marco,BORA - hansgrohe,78,271,best-classic-riders,2022
+Mas Enric,Movistar Team,77,273,best-classic-riders,2022
+Van Hooydonck Nathan,Jumbo-Visma,75,278,best-classic-riders,2022
+Kuss Sepp,Jumbo-Visma,71,292,best-classic-riders,2022
+Bouet Maxime,Team Arkéa Samsic,71,291,best-classic-riders,2022
+Simmons Quinn,Trek - Segafredo,70,294,best-classic-riders,2022
+Mørkøv Michael,Quick-Step Alpha Vinyl Team,70,295,best-classic-riders,2022
+Izagirre Ion,Cofidis,68,300,best-classic-riders,2022
+Le Gac Olivier,Groupama - FDJ,68,298,best-classic-riders,2022
+Gogl Michael,Alpecin-Deceuninck,67,307,best-classic-riders,2022
+Storer Michael,Groupama - FDJ,67,304,best-classic-riders,2022
+Zeits Andrey,Astana Qazaqstan Team,67,305,best-classic-riders,2022
+Houle Hugo,Israel - Premier Tech,65,317,best-classic-riders,2022
+Laengen Vegard Stake,UAE Team Emirates,64,318,best-classic-riders,2022
+Caruso Damiano,Bahrain - Victorious,62,326,best-classic-riders,2022
+Lecroq Jérémy,B&B Hotels - KTM,60,334,best-classic-riders,2022
+Geniets Kevin,Groupama - FDJ,60,339,best-classic-riders,2022
+Durbridge Luke,Team BikeExchange - Jayco,60,331,best-classic-riders,2022
+Haig Jack,Bahrain - Victorious,56,358,best-classic-riders,2022
+Dillier Silvan,Alpecin-Deceuninck,56,359,best-classic-riders,2022
+Bouchard Geoffrey,AG2R Citroën Team,55,362,best-classic-riders,2022
+Schultz Nick,Team BikeExchange - Jayco,53,369,best-classic-riders,2022
+Majka Rafał,UAE Team Emirates,52,373,best-classic-riders,2022
+Latour Pierre,TotalEnergies,52,374,best-classic-riders,2022
+Doull Owain,EF Education-EasyPost,50,378,best-classic-riders,2022
+Owsian Łukasz,Team Arkéa Samsic,49,387,best-classic-riders,2022
+Eekhoff Nils,Team DSM,48,390,best-classic-riders,2022
+Neilands Krists,Israel - Premier Tech,47,396,best-classic-riders,2022
+Kirsch Alex,Trek - Segafredo,47,397,best-classic-riders,2022
+Gougeard Alexis,B&B Hotels - KTM,38,445,best-classic-riders,2022
+Bystrøm Sven Erik,Intermarché - Wanty - Gobert Matériaux,38,451,best-classic-riders,2022
+Erviti Imanol,Movistar Team,35,466,best-classic-riders,2022
+Jungels Bob,AG2R Citroën Team,35,467,best-classic-riders,2022
+Mühlberger Gregor,Movistar Team,35,471,best-classic-riders,2022
+Riabushenko Alexandr,Astana Qazaqstan Team,34,484,best-classic-riders,2022
+Rowe Luke,INEOS Grenadiers,34,474,best-classic-riders,2022
+Bissegger Stefan,EF Education-EasyPost,34,487,best-classic-riders,2022
+Jorgenson Matteo,Movistar Team,31,513,best-classic-riders,2022
+Leknessund Andreas,Team DSM,30,534,best-classic-riders,2022
+Lemoine Cyril,B&B Hotels - KTM,30,533,best-classic-riders,2022
+Verona Carlos,Movistar Team,30,539,best-classic-riders,2022
+Van Moer Brent,Lotto Soudal,30,537,best-classic-riders,2022
+Felline Fabio,Astana Qazaqstan Team,29,545,best-classic-riders,2022
+Thomas Benjamin,Cofidis,26,577,best-classic-riders,2022
+Vermaerke Kevin,Team DSM,25,602,best-classic-riders,2022
+Oss Daniel,TotalEnergies,25,604,best-classic-riders,2022
+Bennett George,UAE Team Emirates,24,607,best-classic-riders,2022
+Krieger Alexander,Alpecin-Deceuninck,22,633,best-classic-riders,2022
+Van Keirsbulck Guillaume,Alpecin-Deceuninck,22,634,best-classic-riders,2022
+Hamilton Chris,Team DSM,22,635,best-classic-riders,2022
+Rolland Pierre,B&B Hotels - KTM,21,642,best-classic-riders,2022
+Großschartner Felix,BORA - hansgrohe,21,646,best-classic-riders,2022
+Cherel Mikaël,AG2R Citroën Team,20,667,best-classic-riders,2022
+Bodnar Maciej,TotalEnergies,20,685,best-classic-riders,2022
+Bjerg Mikkel,UAE Team Emirates,18,720,best-classic-riders,2022
+Kruijswijk Steven,Jumbo-Visma,17,737,best-classic-riders,2022
+Soler Marc,UAE Team Emirates,15,799,best-classic-riders,2022
+Bauer Jack,Team BikeExchange - Jayco,15,829,best-classic-riders,2022
+Frison Frederik,Lotto Soudal,15,780,best-classic-riders,2022
+Bagioli Andrea,Quick-Step Alpha Vinyl Team,15,836,best-classic-riders,2022
+Juul-Jensen Christopher,Team BikeExchange - Jayco,15,758,best-classic-riders,2022
+Cattaneo Mattia,Quick-Step Alpha Vinyl Team,13,885,best-classic-riders,2022
+Froome Chris,Israel - Premier Tech,12,913,best-classic-riders,2022
+Niv Guy,Israel - Premier Tech,11,920,best-classic-riders,2022
+Thomas Geraint,INEOS Grenadiers,10,974,best-classic-riders,2022
+Gruzdev Dmitriy,Astana Qazaqstan Team,10,988,best-classic-riders,2022
+Duchesne Antoine,Groupama - FDJ,10,954,best-classic-riders,2022
+Gradek Kamil,Bahrain - Victorious,10,957,best-classic-riders,2022
