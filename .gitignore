@@ -1,2 +1,3 @@
 *.csv
 *.pt
+*/torch_data*
